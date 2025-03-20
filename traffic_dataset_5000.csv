@@ -1,0 +1,5001 @@
+Location,Date,Time,Traffic_Status
+Chittoor,2025-06-03,14:11,High
+Visakhapatnam,2025-07-14,16:20,Medium
+West Godavari,2025-10-19,06:05,High
+Vizianagaram,2025-02-03,18:08,Low
+Nellore,2025-11-13,11:45,Low
+Srikakulam,2025-12-10,21:05,Low
+Nellore,2025-05-05,03:36,High
+Visakhapatnam,2025-10-12,15:30,Low
+Krishna,2025-07-03,12:48,High
+Prakasam,2025-02-24,11:00,Low
+Srikakulam,2025-11-21,19:25,Low
+Anantapur,2025-11-23,06:13,High
+Chittoor,2025-06-12,10:07,Low
+Visakhapatnam,2025-04-18,17:51,High
+Prakasam,2025-08-18,04:00,Medium
+Krishna,2025-12-21,19:48,Medium
+Nellore,2025-05-04,05:22,High
+Vizianagaram,2025-02-10,16:36,Low
+East Godavari,2025-03-26,10:32,Medium
+Vizianagaram,2025-06-11,20:19,High
+YSR Kadapa,2025-01-13,16:39,High
+Vizianagaram,2025-11-27,16:49,Medium
+Chittoor,2025-07-07,10:42,High
+YSR Kadapa,2025-08-11,14:44,High
+Nellore,2025-07-15,16:49,Medium
+East Godavari,2025-07-16,20:12,Medium
+Kurnool,2025-11-19,03:42,Medium
+Anantapur,2025-01-17,09:57,High
+West Godavari,2025-01-03,12:35,High
+Guntur,2025-10-28,08:34,Low
+YSR Kadapa,2025-05-11,05:26,High
+Guntur,2025-08-12,06:41,Medium
+West Godavari,2025-09-02,13:02,High
+Srikakulam,2025-11-19,23:11,Low
+Vizianagaram,2025-02-01,05:29,Low
+Vizianagaram,2025-10-13,11:22,Low
+East Godavari,2025-03-03,15:40,High
+West Godavari,2025-08-07,21:41,High
+East Godavari,2025-12-10,15:01,Medium
+Visakhapatnam,2025-12-24,15:37,Low
+West Godavari,2025-09-17,06:31,High
+Kurnool,2025-12-17,06:29,Medium
+Kurnool,2025-08-26,18:23,High
+Srikakulam,2025-12-03,20:16,Low
+East Godavari,2025-04-22,17:32,High
+Guntur,2025-08-01,04:55,High
+Nellore,2025-05-05,08:41,Medium
+YSR Kadapa,2025-12-28,08:56,Low
+Chittoor,2025-04-28,10:22,Low
+East Godavari,2025-04-27,11:56,High
+West Godavari,2025-06-11,06:31,High
+Kurnool,2025-08-05,14:52,High
+Nellore,2025-11-25,23:35,High
+Krishna,2025-07-24,01:04,Medium
+YSR Kadapa,2025-12-11,06:09,High
+Anantapur,2025-06-22,22:44,Medium
+Guntur,2025-08-19,08:04,High
+Krishna,2025-11-14,20:50,Medium
+Vizianagaram,2025-06-14,02:36,Medium
+Anantapur,2025-08-06,12:00,High
+Krishna,2025-05-21,23:40,High
+Prakasam,2025-07-10,10:35,Low
+Vizianagaram,2025-03-16,02:21,High
+YSR Kadapa,2025-02-05,20:42,Low
+West Godavari,2025-09-16,16:56,Medium
+Guntur,2025-03-12,23:35,Medium
+Srikakulam,2025-10-10,04:55,Low
+Visakhapatnam,2025-11-13,04:31,Medium
+Guntur,2025-07-04,09:38,Medium
+Chittoor,2025-05-27,02:09,High
+YSR Kadapa,2025-04-05,11:47,High
+Visakhapatnam,2025-12-27,08:34,Medium
+Prakasam,2025-01-17,05:57,High
+Kurnool,2025-04-23,17:29,Low
+YSR Kadapa,2025-09-22,23:20,Medium
+Nellore,2025-03-10,20:46,High
+Nellore,2025-07-22,07:05,Low
+Krishna,2025-09-01,00:46,Medium
+YSR Kadapa,2025-08-21,15:47,Low
+Kurnool,2025-03-01,16:58,High
+West Godavari,2025-05-13,16:21,Low
+Krishna,2025-09-17,14:48,Low
+Prakasam,2025-04-07,06:08,High
+Vizianagaram,2025-08-11,10:00,Low
+YSR Kadapa,2025-04-20,16:57,Medium
+Anantapur,2025-03-12,00:42,Medium
+East Godavari,2025-12-24,01:22,High
+Visakhapatnam,2025-12-15,01:30,High
+Kurnool,2025-10-08,13:20,Low
+East Godavari,2025-06-12,23:54,Medium
+Vizianagaram,2025-02-14,18:45,High
+Visakhapatnam,2025-05-08,23:58,Medium
+YSR Kadapa,2025-05-03,09:09,Medium
+Nellore,2025-05-09,07:03,Low
+Nellore,2025-03-12,14:10,Low
+YSR Kadapa,2025-02-15,22:49,Medium
+Chittoor,2025-05-20,05:04,Low
+Nellore,2025-11-13,16:04,Low
+Vizianagaram,2025-05-14,17:13,High
+Srikakulam,2025-03-05,07:26,Medium
+Anantapur,2025-08-27,15:20,Low
+Visakhapatnam,2025-01-21,09:38,Low
+West Godavari,2025-01-17,10:10,Medium
+Prakasam,2025-04-08,03:59,Low
+Nellore,2025-07-18,15:42,High
+Krishna,2025-12-21,02:27,Low
+West Godavari,2025-03-23,20:01,Medium
+Nellore,2025-11-07,09:34,Medium
+Prakasam,2025-01-08,16:26,High
+Guntur,2025-04-03,11:40,High
+East Godavari,2025-04-06,15:56,Low
+Vizianagaram,2025-09-06,13:31,Medium
+East Godavari,2025-02-03,06:48,High
+East Godavari,2025-06-05,16:32,Medium
+East Godavari,2025-08-02,00:37,High
+Srikakulam,2025-02-13,12:07,Medium
+Krishna,2025-06-23,08:45,High
+East Godavari,2025-12-17,00:40,Medium
+Vizianagaram,2025-05-09,10:30,Medium
+YSR Kadapa,2025-10-10,09:47,Medium
+Vizianagaram,2025-05-18,02:05,Medium
+Prakasam,2025-10-14,02:09,High
+Kurnool,2025-09-26,15:04,Low
+West Godavari,2025-09-10,23:48,Medium
+YSR Kadapa,2025-08-20,14:58,High
+Anantapur,2025-11-22,12:14,High
+Prakasam,2025-04-23,22:18,Medium
+Anantapur,2025-08-03,17:13,Medium
+Prakasam,2025-04-03,07:23,High
+Krishna,2025-02-02,16:46,Medium
+East Godavari,2025-06-20,19:36,Medium
+Guntur,2025-02-20,22:15,Medium
+Guntur,2025-06-27,15:18,High
+Anantapur,2025-08-15,19:04,High
+Chittoor,2025-06-14,05:53,High
+Srikakulam,2025-09-20,08:27,Medium
+Guntur,2025-12-01,01:20,Low
+Guntur,2025-05-08,03:34,Medium
+Visakhapatnam,2025-07-17,01:24,Low
+Prakasam,2025-01-03,11:36,Medium
+Prakasam,2025-05-15,09:14,Medium
+YSR Kadapa,2025-11-08,05:23,Low
+Srikakulam,2025-02-12,23:04,Medium
+Anantapur,2025-06-17,20:06,Low
+Chittoor,2025-10-22,10:11,Low
+Guntur,2025-05-08,18:00,High
+Krishna,2025-08-23,12:19,Low
+Kurnool,2025-09-12,21:23,Low
+YSR Kadapa,2025-07-17,03:37,Medium
+Chittoor,2025-03-14,12:31,Medium
+Prakasam,2025-08-26,12:02,Low
+YSR Kadapa,2025-01-17,21:16,Medium
+West Godavari,2025-08-12,01:28,High
+Srikakulam,2025-10-05,20:00,Medium
+West Godavari,2025-01-05,00:45,Medium
+Kurnool,2025-01-02,14:16,Medium
+West Godavari,2025-08-04,09:25,Low
+Prakasam,2025-11-23,23:06,Medium
+Prakasam,2025-01-23,20:42,Medium
+Prakasam,2025-07-11,21:15,Medium
+Visakhapatnam,2025-09-18,00:09,High
+Krishna,2025-10-19,08:28,Medium
+Prakasam,2025-12-24,18:19,High
+Vizianagaram,2025-03-17,18:37,Medium
+Vizianagaram,2025-02-20,00:30,High
+Kurnool,2025-06-12,08:00,Medium
+Srikakulam,2025-04-26,23:17,High
+Guntur,2025-12-23,19:32,High
+Chittoor,2025-08-22,12:24,Medium
+East Godavari,2025-08-12,16:31,Low
+Nellore,2025-06-24,05:42,Low
+Vizianagaram,2025-01-06,20:36,High
+Prakasam,2025-03-06,09:35,High
+Nellore,2025-07-24,14:49,Low
+Anantapur,2025-06-03,18:32,Low
+Prakasam,2025-04-12,05:40,High
+Visakhapatnam,2025-07-06,05:10,Low
+Prakasam,2025-07-12,21:36,High
+Krishna,2025-05-22,09:08,Low
+Kurnool,2025-01-14,05:28,Medium
+Visakhapatnam,2025-08-09,23:56,Medium
+East Godavari,2025-03-23,11:43,Low
+Vizianagaram,2025-12-18,12:19,Low
+Vizianagaram,2025-07-26,03:16,Low
+Krishna,2025-01-15,10:32,Medium
+Chittoor,2025-04-12,14:12,High
+West Godavari,2025-05-14,07:05,Medium
+Vizianagaram,2025-01-01,19:55,Low
+Srikakulam,2025-02-22,02:14,Medium
+Chittoor,2025-11-02,23:05,High
+Chittoor,2025-01-10,23:23,High
+Srikakulam,2025-05-15,14:34,Medium
+Chittoor,2025-08-02,02:17,Low
+Vizianagaram,2025-06-14,09:19,Medium
+Kurnool,2025-10-20,00:53,Low
+Chittoor,2025-11-10,16:39,Low
+Srikakulam,2025-07-12,01:48,Medium
+West Godavari,2025-09-17,17:15,Low
+Vizianagaram,2025-01-04,04:00,High
+Guntur,2025-02-18,21:40,Low
+Anantapur,2025-08-16,03:35,Medium
+Visakhapatnam,2025-09-07,02:50,High
+Visakhapatnam,2025-04-13,08:19,Low
+Anantapur,2025-10-03,04:19,High
+Guntur,2025-10-01,03:23,High
+East Godavari,2025-05-22,08:09,Medium
+YSR Kadapa,2025-03-21,12:10,High
+Nellore,2025-04-21,02:25,Medium
+Srikakulam,2025-09-28,01:03,High
+Srikakulam,2025-10-09,10:46,Medium
+Nellore,2025-09-26,17:18,Medium
+West Godavari,2025-05-15,10:14,Low
+Vizianagaram,2025-07-19,22:12,High
+Vizianagaram,2025-01-03,17:33,Medium
+Kurnool,2025-05-24,02:49,High
+Nellore,2025-09-12,09:53,High
+Srikakulam,2025-10-14,09:22,High
+West Godavari,2025-07-16,03:05,High
+Prakasam,2025-06-13,08:11,High
+Vizianagaram,2025-01-21,03:16,Medium
+Anantapur,2025-10-20,15:46,Low
+Guntur,2025-07-22,17:39,Low
+Srikakulam,2025-12-22,19:07,High
+Anantapur,2025-11-07,19:08,High
+Chittoor,2025-01-22,16:47,High
+Krishna,2025-12-12,05:01,Medium
+East Godavari,2025-01-04,05:20,Medium
+Prakasam,2025-05-24,14:07,Medium
+Prakasam,2025-08-02,13:25,High
+YSR Kadapa,2025-08-18,20:22,High
+Chittoor,2025-08-11,15:48,Low
+YSR Kadapa,2025-03-20,20:00,Low
+Chittoor,2025-01-18,00:49,High
+Anantapur,2025-01-26,18:44,Low
+Chittoor,2025-04-10,12:52,Medium
+Krishna,2025-06-02,21:25,Low
+Prakasam,2025-02-07,00:35,Medium
+East Godavari,2025-11-08,04:16,Medium
+East Godavari,2025-02-04,11:26,Low
+Nellore,2025-11-17,12:39,Medium
+Prakasam,2025-03-05,06:56,Low
+Chittoor,2025-03-07,20:05,High
+Krishna,2025-10-08,16:38,Low
+YSR Kadapa,2025-01-18,02:50,Medium
+Guntur,2025-08-22,23:09,High
+Krishna,2025-04-03,12:29,Medium
+Kurnool,2025-02-28,14:05,High
+East Godavari,2025-10-01,07:59,Medium
+West Godavari,2025-07-16,02:51,High
+Vizianagaram,2025-12-20,13:59,Medium
+West Godavari,2025-11-13,15:17,High
+Krishna,2025-12-20,20:18,Low
+Vizianagaram,2025-03-12,04:26,Low
+Vizianagaram,2025-04-17,17:30,Low
+Chittoor,2025-08-26,13:22,High
+East Godavari,2025-11-07,15:20,High
+Guntur,2025-07-21,00:58,Medium
+Visakhapatnam,2025-07-12,18:41,Medium
+YSR Kadapa,2025-07-22,01:05,High
+Guntur,2025-10-01,14:12,Medium
+Prakasam,2025-01-14,11:17,High
+YSR Kadapa,2025-12-03,06:43,Low
+East Godavari,2025-01-15,22:47,Medium
+Nellore,2025-04-22,17:51,Low
+Chittoor,2025-11-17,15:39,High
+West Godavari,2025-03-20,01:57,Low
+YSR Kadapa,2025-06-15,10:33,Low
+East Godavari,2025-11-18,17:18,Medium
+Krishna,2025-09-11,08:01,High
+Kurnool,2025-04-21,03:43,Medium
+Kurnool,2025-12-07,00:05,Low
+Anantapur,2025-12-12,10:48,Medium
+Visakhapatnam,2025-04-13,23:23,Low
+West Godavari,2025-01-15,16:43,Low
+Nellore,2025-12-09,13:28,Medium
+Guntur,2025-11-17,00:06,High
+Chittoor,2025-08-23,18:53,Medium
+Krishna,2025-07-04,06:25,Low
+West Godavari,2025-11-24,12:41,Low
+East Godavari,2025-07-16,19:25,Medium
+Anantapur,2025-06-28,01:24,Medium
+Srikakulam,2025-03-24,12:32,High
+Anantapur,2025-09-27,17:26,High
+East Godavari,2025-03-17,09:59,Low
+Vizianagaram,2025-12-21,15:29,Medium
+Anantapur,2025-08-07,00:47,High
+Srikakulam,2025-05-12,05:21,High
+Srikakulam,2025-06-14,01:30,Medium
+Srikakulam,2025-08-13,22:21,High
+West Godavari,2025-07-16,17:31,Low
+East Godavari,2025-01-15,08:48,Low
+Vizianagaram,2025-11-20,13:00,Medium
+Kurnool,2025-04-22,18:42,Medium
+East Godavari,2025-08-04,07:25,Low
+Guntur,2025-06-22,09:03,Low
+Visakhapatnam,2025-05-20,23:54,Low
+Kurnool,2025-01-18,13:31,Low
+Srikakulam,2025-02-11,07:03,High
+Guntur,2025-02-04,18:11,Medium
+Chittoor,2025-11-26,08:50,Medium
+Nellore,2025-03-16,09:48,Low
+Chittoor,2025-01-04,12:22,Medium
+Anantapur,2025-05-19,14:40,Low
+Vizianagaram,2025-05-17,04:25,Medium
+Srikakulam,2025-06-27,22:22,Low
+Vizianagaram,2025-09-15,03:27,Medium
+Prakasam,2025-07-11,16:54,High
+Krishna,2025-12-11,22:12,Low
+Chittoor,2025-09-21,15:23,Medium
+Prakasam,2025-01-24,05:51,Low
+Guntur,2025-01-02,11:36,High
+Visakhapatnam,2025-01-17,23:17,High
+Kurnool,2025-08-10,21:50,Medium
+Srikakulam,2025-12-11,17:14,Medium
+East Godavari,2025-08-07,16:55,Medium
+East Godavari,2025-06-24,12:18,Low
+Prakasam,2025-04-05,08:54,High
+Guntur,2025-05-08,13:38,Medium
+Vizianagaram,2025-05-20,09:03,Medium
+Chittoor,2025-08-13,18:09,Medium
+YSR Kadapa,2025-10-22,04:40,High
+Anantapur,2025-04-15,09:57,High
+Krishna,2025-02-02,07:18,Low
+West Godavari,2025-09-01,22:12,High
+Vizianagaram,2025-10-13,10:08,Medium
+Srikakulam,2025-07-02,16:25,High
+Prakasam,2025-11-12,12:07,Low
+Vizianagaram,2025-05-20,11:32,Low
+West Godavari,2025-11-27,02:37,High
+Krishna,2025-11-22,23:11,Low
+Krishna,2025-01-07,12:44,Low
+Nellore,2025-03-07,05:26,High
+Krishna,2025-03-01,21:45,Medium
+East Godavari,2025-07-15,05:31,Low
+Prakasam,2025-04-07,15:05,Medium
+West Godavari,2025-06-27,05:41,Low
+Visakhapatnam,2025-05-05,01:58,High
+Vizianagaram,2025-06-01,20:55,Low
+Guntur,2025-10-25,07:14,Medium
+YSR Kadapa,2025-11-16,08:58,Medium
+Krishna,2025-07-05,19:43,Low
+Visakhapatnam,2025-04-01,18:44,Low
+East Godavari,2025-10-14,23:50,High
+West Godavari,2025-04-02,14:01,Medium
+Kurnool,2025-06-04,02:53,Medium
+Srikakulam,2025-09-10,13:47,Medium
+YSR Kadapa,2025-07-04,14:52,Medium
+Guntur,2025-02-28,01:17,High
+Nellore,2025-03-01,15:48,High
+East Godavari,2025-07-03,04:16,Low
+Kurnool,2025-05-25,19:38,Low
+Kurnool,2025-03-11,06:56,High
+Chittoor,2025-08-23,00:36,Low
+Prakasam,2025-12-06,03:29,High
+Srikakulam,2025-05-26,03:18,Low
+Kurnool,2025-05-28,22:23,High
+Chittoor,2025-03-06,13:36,High
+Nellore,2025-05-17,12:29,Medium
+West Godavari,2025-08-04,13:05,High
+Chittoor,2025-05-07,01:05,Medium
+Prakasam,2025-10-28,00:32,High
+East Godavari,2025-12-27,03:22,Medium
+Guntur,2025-10-12,22:38,Low
+Visakhapatnam,2025-05-22,18:36,Medium
+Vizianagaram,2025-06-09,08:16,Low
+Srikakulam,2025-08-19,16:37,High
+Nellore,2025-05-23,18:48,High
+Krishna,2025-05-19,20:18,High
+Nellore,2025-10-27,19:39,High
+Anantapur,2025-01-15,05:08,Medium
+Srikakulam,2025-03-12,18:42,High
+Krishna,2025-10-07,20:30,High
+Kurnool,2025-12-09,09:05,Low
+Krishna,2025-12-09,13:31,High
+Nellore,2025-01-05,08:54,Medium
+Prakasam,2025-11-25,12:28,Low
+Nellore,2025-02-24,23:19,High
+Prakasam,2025-10-16,17:23,Low
+Kurnool,2025-07-01,13:03,Medium
+Nellore,2025-02-28,01:37,High
+West Godavari,2025-10-26,02:16,High
+Visakhapatnam,2025-06-11,15:31,Medium
+Chittoor,2025-10-04,09:29,Medium
+West Godavari,2025-02-03,00:42,High
+Guntur,2025-02-10,18:11,Low
+Kurnool,2025-10-27,12:24,Medium
+Krishna,2025-01-12,08:15,High
+Kurnool,2025-02-09,13:32,Medium
+Srikakulam,2025-02-14,08:24,Medium
+Kurnool,2025-08-09,23:35,Low
+Nellore,2025-09-08,16:03,Low
+Prakasam,2025-07-14,15:12,Medium
+Kurnool,2025-09-15,06:52,High
+Kurnool,2025-08-02,22:32,Low
+Krishna,2025-05-10,12:03,Low
+Anantapur,2025-04-28,05:59,Medium
+Prakasam,2025-02-16,11:23,Low
+Vizianagaram,2025-08-01,07:06,High
+Vizianagaram,2025-07-22,02:51,Low
+Srikakulam,2025-02-26,18:54,High
+YSR Kadapa,2025-08-10,11:54,High
+Chittoor,2025-10-09,20:27,High
+Vizianagaram,2025-06-19,05:35,Medium
+Prakasam,2025-08-20,10:55,High
+Anantapur,2025-01-14,22:08,Medium
+YSR Kadapa,2025-01-02,14:34,Low
+Nellore,2025-10-10,07:19,Low
+East Godavari,2025-12-05,06:08,Low
+Guntur,2025-05-01,21:36,High
+YSR Kadapa,2025-11-07,20:32,Low
+Vizianagaram,2025-07-11,12:52,High
+Vizianagaram,2025-06-15,04:51,Low
+Nellore,2025-05-23,15:54,High
+Krishna,2025-08-28,11:06,Medium
+Krishna,2025-02-09,21:03,Low
+West Godavari,2025-07-05,03:13,Medium
+Visakhapatnam,2025-04-19,10:59,Low
+Chittoor,2025-03-15,09:52,Medium
+East Godavari,2025-02-10,00:03,Medium
+Nellore,2025-12-10,22:00,High
+Nellore,2025-09-22,13:55,High
+Chittoor,2025-03-11,18:40,Medium
+West Godavari,2025-01-02,02:54,Low
+Srikakulam,2025-10-11,16:07,Medium
+Krishna,2025-11-20,17:24,Medium
+East Godavari,2025-06-07,08:26,Low
+Nellore,2025-10-14,19:53,Medium
+Anantapur,2025-09-09,18:53,High
+Prakasam,2025-03-12,09:41,High
+Prakasam,2025-03-10,01:54,Low
+Visakhapatnam,2025-02-21,15:20,High
+Nellore,2025-05-13,04:12,Medium
+Nellore,2025-05-14,14:57,Low
+Visakhapatnam,2025-06-27,13:07,Low
+Srikakulam,2025-05-03,19:41,High
+Krishna,2025-11-18,07:32,High
+Kurnool,2025-06-25,13:11,High
+Krishna,2025-05-02,06:16,Low
+YSR Kadapa,2025-12-27,23:12,High
+East Godavari,2025-02-07,17:16,Medium
+Vizianagaram,2025-07-02,09:04,Low
+Krishna,2025-11-03,13:18,Medium
+Guntur,2025-03-28,16:17,High
+West Godavari,2025-06-25,15:50,Low
+Prakasam,2025-01-08,07:41,Medium
+YSR Kadapa,2025-08-14,20:00,Low
+Visakhapatnam,2025-03-22,18:54,Medium
+Nellore,2025-05-20,23:09,Low
+East Godavari,2025-01-15,01:06,Medium
+Guntur,2025-09-28,19:47,Low
+Vizianagaram,2025-05-28,04:15,Low
+Chittoor,2025-10-15,20:28,Medium
+West Godavari,2025-07-19,18:34,Medium
+Guntur,2025-07-21,09:26,Medium
+Guntur,2025-01-16,12:33,Medium
+Vizianagaram,2025-06-04,16:19,High
+Krishna,2025-09-07,19:18,High
+Vizianagaram,2025-02-23,14:36,High
+Krishna,2025-03-25,22:07,High
+West Godavari,2025-08-12,15:54,High
+Guntur,2025-05-22,10:58,Medium
+Vizianagaram,2025-03-26,04:18,High
+Prakasam,2025-04-06,14:46,Medium
+Kurnool,2025-01-08,04:12,Low
+East Godavari,2025-01-07,04:56,Medium
+East Godavari,2025-02-17,04:58,Low
+Srikakulam,2025-09-04,18:12,High
+Prakasam,2025-12-06,19:36,Medium
+Nellore,2025-05-26,00:05,Low
+Anantapur,2025-10-08,18:28,High
+Nellore,2025-04-07,19:00,High
+Vizianagaram,2025-01-03,11:05,High
+Prakasam,2025-03-18,05:40,Low
+Chittoor,2025-06-06,09:21,High
+Nellore,2025-03-01,22:17,Low
+Vizianagaram,2025-08-16,06:12,Medium
+West Godavari,2025-04-23,20:22,Medium
+Krishna,2025-04-04,12:51,Medium
+Srikakulam,2025-01-07,22:23,Low
+YSR Kadapa,2025-09-22,15:08,High
+Krishna,2025-10-15,02:34,Medium
+Visakhapatnam,2025-09-27,18:12,Medium
+Nellore,2025-11-07,14:20,Medium
+East Godavari,2025-01-28,13:33,Medium
+Visakhapatnam,2025-04-03,19:30,High
+Srikakulam,2025-05-12,01:30,Low
+Guntur,2025-07-26,18:57,High
+Krishna,2025-02-06,21:29,High
+East Godavari,2025-02-13,23:01,High
+Guntur,2025-05-08,22:11,Low
+Prakasam,2025-11-24,02:27,Low
+East Godavari,2025-03-02,00:12,High
+West Godavari,2025-05-01,18:42,Medium
+Krishna,2025-11-18,04:09,High
+Vizianagaram,2025-12-20,21:21,High
+West Godavari,2025-02-25,15:31,High
+YSR Kadapa,2025-07-12,00:39,High
+Nellore,2025-04-03,20:58,Medium
+Srikakulam,2025-06-16,10:21,Medium
+Vizianagaram,2025-12-15,07:00,High
+West Godavari,2025-06-03,12:00,Low
+East Godavari,2025-12-08,13:18,Medium
+Krishna,2025-09-03,22:06,Medium
+Chittoor,2025-06-27,09:36,Low
+West Godavari,2025-07-17,05:11,Low
+Krishna,2025-09-09,16:41,High
+YSR Kadapa,2025-11-15,19:37,High
+East Godavari,2025-11-09,19:43,Medium
+Visakhapatnam,2025-02-02,23:45,High
+Nellore,2025-02-11,12:35,Low
+Krishna,2025-05-22,13:02,High
+YSR Kadapa,2025-09-19,19:55,High
+Kurnool,2025-04-21,04:59,Low
+Vizianagaram,2025-03-25,11:33,High
+Chittoor,2025-03-12,04:04,Low
+Guntur,2025-05-09,09:04,High
+Krishna,2025-07-17,14:23,Low
+Vizianagaram,2025-09-05,07:20,Medium
+Krishna,2025-10-18,11:29,Low
+East Godavari,2025-01-04,08:27,Medium
+Srikakulam,2025-08-27,13:58,Low
+Nellore,2025-12-12,05:05,High
+Krishna,2025-10-28,11:06,Medium
+Vizianagaram,2025-11-05,03:17,Medium
+Vizianagaram,2025-09-28,06:40,Low
+Krishna,2025-01-09,12:51,High
+Nellore,2025-11-14,00:05,Medium
+Anantapur,2025-12-15,11:21,Medium
+Chittoor,2025-09-01,01:55,Low
+Kurnool,2025-05-14,04:43,Medium
+East Godavari,2025-07-01,16:31,Medium
+Kurnool,2025-03-02,00:19,High
+Guntur,2025-05-01,05:23,Medium
+YSR Kadapa,2025-12-25,18:09,Low
+Anantapur,2025-05-06,20:05,High
+Kurnool,2025-08-27,05:58,High
+Visakhapatnam,2025-03-19,22:53,Medium
+Krishna,2025-10-23,02:57,High
+Vizianagaram,2025-11-03,20:04,Low
+Anantapur,2025-03-12,14:14,High
+Anantapur,2025-07-03,06:47,Medium
+Vizianagaram,2025-11-02,12:30,Medium
+East Godavari,2025-07-07,22:51,Low
+YSR Kadapa,2025-08-02,12:58,High
+Anantapur,2025-08-04,13:02,High
+East Godavari,2025-03-18,17:55,Low
+Kurnool,2025-03-16,14:03,Low
+Guntur,2025-05-06,02:21,High
+East Godavari,2025-10-14,00:22,High
+Visakhapatnam,2025-08-28,03:50,High
+YSR Kadapa,2025-03-08,14:42,High
+Guntur,2025-01-23,03:41,Low
+YSR Kadapa,2025-10-01,16:49,Medium
+Guntur,2025-08-16,08:53,Low
+Nellore,2025-09-12,09:41,Low
+East Godavari,2025-11-10,19:54,High
+Visakhapatnam,2025-02-26,23:02,Low
+Prakasam,2025-12-01,16:06,Low
+YSR Kadapa,2025-06-21,06:39,Medium
+Krishna,2025-08-08,19:46,High
+Nellore,2025-06-14,15:41,Medium
+Nellore,2025-03-24,04:32,High
+Anantapur,2025-06-06,11:07,High
+West Godavari,2025-10-11,09:51,Medium
+Prakasam,2025-01-01,09:17,Medium
+Anantapur,2025-08-27,19:22,Medium
+Anantapur,2025-12-10,18:20,Low
+Anantapur,2025-07-04,20:51,Medium
+Guntur,2025-04-21,19:09,High
+Nellore,2025-07-12,03:29,Medium
+Kurnool,2025-03-11,20:28,High
+Anantapur,2025-08-09,03:27,Low
+Guntur,2025-07-16,20:16,High
+Prakasam,2025-03-18,04:56,High
+Nellore,2025-08-09,02:36,High
+Vizianagaram,2025-04-13,08:35,Medium
+YSR Kadapa,2025-11-21,05:07,Low
+Srikakulam,2025-07-23,09:36,Medium
+Visakhapatnam,2025-10-01,17:40,Medium
+Guntur,2025-10-04,07:20,Low
+Kurnool,2025-01-22,05:55,Low
+Prakasam,2025-04-18,20:25,High
+Anantapur,2025-03-17,08:14,Medium
+Prakasam,2025-05-04,01:02,Low
+YSR Kadapa,2025-02-19,21:11,Medium
+Prakasam,2025-07-17,09:09,Low
+Guntur,2025-05-17,17:34,Medium
+Prakasam,2025-10-18,17:22,Low
+Anantapur,2025-02-09,09:26,Medium
+Vizianagaram,2025-04-10,12:10,Medium
+Anantapur,2025-11-14,12:33,Medium
+Nellore,2025-09-28,22:37,High
+Krishna,2025-04-24,18:27,Medium
+Vizianagaram,2025-06-26,20:01,High
+West Godavari,2025-12-08,20:14,Low
+Krishna,2025-03-20,09:08,Low
+Nellore,2025-12-01,12:48,Low
+Chittoor,2025-06-02,12:51,Low
+Krishna,2025-02-26,06:40,Low
+Visakhapatnam,2025-08-26,23:24,Low
+Chittoor,2025-07-27,01:29,Medium
+Nellore,2025-09-01,17:59,Low
+Vizianagaram,2025-06-09,01:17,Low
+Vizianagaram,2025-10-10,08:39,Low
+Vizianagaram,2025-03-17,17:27,Medium
+Nellore,2025-06-27,05:07,Medium
+East Godavari,2025-06-10,07:05,High
+YSR Kadapa,2025-10-20,05:54,Low
+Prakasam,2025-08-08,14:09,Low
+Chittoor,2025-02-08,13:44,Medium
+East Godavari,2025-03-20,10:41,Low
+Prakasam,2025-07-01,19:50,Medium
+Srikakulam,2025-03-04,01:09,Medium
+Visakhapatnam,2025-02-09,07:43,High
+East Godavari,2025-03-02,22:56,High
+West Godavari,2025-04-13,23:45,High
+Krishna,2025-09-11,05:39,High
+Chittoor,2025-08-10,19:49,Low
+Srikakulam,2025-02-05,19:00,Medium
+Nellore,2025-07-28,18:55,Medium
+Nellore,2025-10-20,18:11,Low
+Nellore,2025-04-01,12:41,Medium
+Guntur,2025-10-02,17:16,Medium
+West Godavari,2025-01-22,04:16,Low
+East Godavari,2025-04-03,20:04,Medium
+YSR Kadapa,2025-07-14,12:54,High
+Guntur,2025-03-10,16:33,Medium
+Prakasam,2025-11-08,23:01,Medium
+Vizianagaram,2025-07-24,01:58,High
+Kurnool,2025-11-20,02:35,Low
+Chittoor,2025-09-18,16:25,Medium
+YSR Kadapa,2025-04-01,05:41,High
+Kurnool,2025-04-13,20:18,High
+YSR Kadapa,2025-06-20,04:37,High
+Visakhapatnam,2025-09-20,21:07,High
+Chittoor,2025-12-08,08:43,Low
+East Godavari,2025-12-02,18:54,Low
+Kurnool,2025-04-15,09:30,High
+Krishna,2025-09-04,09:41,Medium
+Guntur,2025-06-04,00:59,High
+Nellore,2025-01-11,12:54,Medium
+Srikakulam,2025-05-01,02:25,High
+Kurnool,2025-05-26,23:24,Medium
+YSR Kadapa,2025-07-02,22:55,High
+Srikakulam,2025-10-09,21:33,Medium
+Anantapur,2025-05-06,20:40,Medium
+Vizianagaram,2025-10-14,22:19,Medium
+Vizianagaram,2025-05-02,19:22,Medium
+Chittoor,2025-01-24,13:59,Low
+Chittoor,2025-01-04,16:28,Medium
+Nellore,2025-02-17,23:38,Medium
+Vizianagaram,2025-03-09,03:51,Low
+YSR Kadapa,2025-08-14,08:30,High
+West Godavari,2025-07-20,17:59,Medium
+Srikakulam,2025-02-27,00:43,Medium
+East Godavari,2025-03-04,17:24,Low
+Nellore,2025-10-25,08:57,Low
+YSR Kadapa,2025-03-20,02:41,Medium
+Nellore,2025-05-10,10:56,High
+Vizianagaram,2025-10-15,09:42,Low
+Chittoor,2025-06-05,03:48,Low
+Guntur,2025-05-25,17:00,Medium
+Srikakulam,2025-06-22,15:32,Low
+Visakhapatnam,2025-01-20,05:13,Medium
+Krishna,2025-10-02,16:42,Low
+YSR Kadapa,2025-04-22,19:38,High
+Chittoor,2025-11-18,21:53,Low
+Srikakulam,2025-05-25,00:56,Medium
+Prakasam,2025-06-22,06:31,Low
+YSR Kadapa,2025-05-11,22:51,Low
+West Godavari,2025-11-14,05:19,Low
+Guntur,2025-03-24,18:11,High
+Anantapur,2025-02-20,13:45,Medium
+Vizianagaram,2025-02-17,15:29,High
+Srikakulam,2025-12-05,21:01,Medium
+West Godavari,2025-12-11,14:50,Medium
+Anantapur,2025-03-25,14:16,Medium
+Prakasam,2025-12-22,21:40,Medium
+West Godavari,2025-01-02,21:56,Medium
+Anantapur,2025-12-13,15:35,High
+East Godavari,2025-02-12,15:19,Medium
+West Godavari,2025-03-02,06:21,High
+Anantapur,2025-06-04,21:16,High
+Chittoor,2025-12-28,20:03,Medium
+Anantapur,2025-12-11,00:47,Medium
+Prakasam,2025-07-03,00:27,High
+Anantapur,2025-08-23,01:52,Medium
+Guntur,2025-07-24,11:21,Medium
+West Godavari,2025-06-17,10:55,High
+Guntur,2025-02-21,21:33,Medium
+Chittoor,2025-09-03,23:39,Low
+Kurnool,2025-06-24,06:58,Low
+Kurnool,2025-04-12,21:14,High
+East Godavari,2025-01-15,21:37,Low
+Chittoor,2025-10-14,16:33,Low
+Nellore,2025-01-20,06:00,Low
+Chittoor,2025-02-26,22:43,Low
+Chittoor,2025-06-04,15:30,Medium
+Nellore,2025-09-12,13:22,Medium
+YSR Kadapa,2025-09-21,03:48,Medium
+Anantapur,2025-10-10,11:49,High
+Krishna,2025-07-26,09:06,Medium
+Anantapur,2025-02-21,19:49,Medium
+Anantapur,2025-11-10,05:29,Low
+Nellore,2025-03-19,08:35,High
+Guntur,2025-01-11,12:53,Low
+Krishna,2025-03-24,20:21,Low
+East Godavari,2025-10-07,05:48,Low
+Visakhapatnam,2025-04-11,20:47,Medium
+Srikakulam,2025-09-01,09:16,High
+YSR Kadapa,2025-01-16,23:42,Low
+Chittoor,2025-09-01,19:15,Low
+Vizianagaram,2025-05-04,10:40,Low
+Anantapur,2025-05-25,11:29,High
+Visakhapatnam,2025-10-25,11:24,High
+Guntur,2025-08-11,09:50,High
+Kurnool,2025-05-22,01:38,Low
+Prakasam,2025-09-22,20:00,Medium
+Krishna,2025-05-23,01:40,High
+Kurnool,2025-02-24,12:56,Low
+Nellore,2025-12-27,15:48,Low
+YSR Kadapa,2025-08-23,07:07,Low
+Visakhapatnam,2025-04-27,19:25,High
+Prakasam,2025-12-27,18:04,Medium
+Guntur,2025-06-17,17:32,Low
+Anantapur,2025-03-14,15:05,Medium
+Visakhapatnam,2025-01-04,06:14,Medium
+West Godavari,2025-10-16,19:57,Medium
+Kurnool,2025-03-16,01:35,Low
+Vizianagaram,2025-11-21,16:14,High
+Nellore,2025-03-26,20:20,Low
+Kurnool,2025-07-04,00:26,Low
+Krishna,2025-12-20,23:16,High
+Prakasam,2025-10-09,02:42,Low
+Visakhapatnam,2025-11-24,01:06,Low
+Vizianagaram,2025-01-27,15:51,Low
+Guntur,2025-04-24,10:27,Medium
+Nellore,2025-06-23,09:15,Low
+Kurnool,2025-04-17,22:12,High
+Srikakulam,2025-05-14,05:30,Low
+Visakhapatnam,2025-06-24,07:33,High
+Nellore,2025-05-20,10:40,Medium
+Krishna,2025-10-19,22:33,Medium
+Kurnool,2025-01-04,18:46,Low
+Chittoor,2025-03-27,03:28,High
+Vizianagaram,2025-06-08,14:01,Medium
+Srikakulam,2025-06-06,08:15,Medium
+Prakasam,2025-04-15,20:32,High
+Kurnool,2025-06-23,11:39,High
+Kurnool,2025-05-15,14:40,High
+Prakasam,2025-06-12,15:21,Low
+Prakasam,2025-08-21,03:12,Low
+Kurnool,2025-09-05,01:45,Medium
+Prakasam,2025-10-16,02:49,Medium
+Krishna,2025-11-22,22:16,Low
+Chittoor,2025-06-28,07:26,High
+Krishna,2025-10-18,18:59,High
+Chittoor,2025-03-24,02:05,High
+YSR Kadapa,2025-03-14,15:33,Medium
+Anantapur,2025-09-09,15:29,Medium
+Chittoor,2025-05-28,11:10,Low
+Visakhapatnam,2025-08-23,13:25,Medium
+Nellore,2025-08-18,08:23,Low
+Guntur,2025-01-17,09:19,High
+Kurnool,2025-05-11,15:16,Medium
+Vizianagaram,2025-09-25,08:26,Medium
+Nellore,2025-09-21,16:07,Medium
+Nellore,2025-03-14,11:49,Medium
+Chittoor,2025-10-08,15:48,Low
+YSR Kadapa,2025-07-08,21:12,Medium
+Srikakulam,2025-06-17,11:29,High
+West Godavari,2025-04-03,09:32,High
+Visakhapatnam,2025-10-15,12:45,High
+Krishna,2025-06-27,01:09,High
+Chittoor,2025-09-16,17:22,High
+Krishna,2025-02-01,15:16,High
+Srikakulam,2025-08-06,00:52,Medium
+Vizianagaram,2025-01-01,17:48,Medium
+East Godavari,2025-09-09,03:08,Low
+Chittoor,2025-12-03,14:03,Medium
+West Godavari,2025-07-06,22:19,Medium
+East Godavari,2025-02-13,12:01,High
+West Godavari,2025-10-09,07:27,Medium
+Guntur,2025-04-26,02:21,Low
+Anantapur,2025-05-28,07:11,Medium
+West Godavari,2025-05-16,07:47,Low
+Visakhapatnam,2025-01-18,03:20,Medium
+Chittoor,2025-09-11,21:51,Medium
+Guntur,2025-07-22,15:33,Low
+Nellore,2025-06-28,19:09,High
+Guntur,2025-11-02,02:57,Low
+West Godavari,2025-10-14,16:55,Low
+Srikakulam,2025-05-11,05:48,Medium
+Anantapur,2025-11-21,08:37,Low
+Visakhapatnam,2025-03-18,17:01,Medium
+East Godavari,2025-06-14,16:42,High
+Nellore,2025-05-06,17:15,High
+West Godavari,2025-10-12,13:58,Low
+Vizianagaram,2025-08-16,23:40,Low
+Guntur,2025-11-21,04:27,High
+East Godavari,2025-09-21,17:36,Low
+Visakhapatnam,2025-04-24,12:39,Low
+Vizianagaram,2025-10-15,05:22,High
+West Godavari,2025-03-05,20:35,Low
+Srikakulam,2025-06-07,08:21,High
+Chittoor,2025-01-27,16:59,Low
+Prakasam,2025-11-27,17:41,Medium
+YSR Kadapa,2025-12-16,13:23,Low
+West Godavari,2025-07-11,14:40,Medium
+Chittoor,2025-09-28,20:16,Low
+Krishna,2025-09-22,09:58,High
+Kurnool,2025-08-12,13:09,Low
+Prakasam,2025-05-20,05:45,Low
+Guntur,2025-01-23,15:56,Medium
+Anantapur,2025-05-10,10:30,Low
+West Godavari,2025-07-09,03:27,Low
+Vizianagaram,2025-01-06,03:07,Medium
+Krishna,2025-10-19,12:01,Medium
+YSR Kadapa,2025-06-23,20:15,Low
+Nellore,2025-06-28,11:32,High
+Krishna,2025-02-17,06:16,High
+West Godavari,2025-10-17,03:53,Medium
+East Godavari,2025-06-22,12:09,High
+Nellore,2025-02-09,13:24,Medium
+Nellore,2025-09-10,04:41,Low
+Vizianagaram,2025-09-27,00:02,Medium
+Chittoor,2025-07-04,14:40,Low
+West Godavari,2025-11-11,18:10,Low
+West Godavari,2025-10-28,09:33,High
+East Godavari,2025-02-20,22:09,Medium
+Visakhapatnam,2025-01-21,22:41,Low
+West Godavari,2025-10-10,16:06,High
+West Godavari,2025-05-03,14:38,Low
+YSR Kadapa,2025-09-28,19:45,High
+Visakhapatnam,2025-11-09,20:48,Medium
+Kurnool,2025-01-22,17:55,Low
+Vizianagaram,2025-12-12,19:27,Medium
+West Godavari,2025-07-10,20:09,High
+Guntur,2025-02-28,05:49,Medium
+Vizianagaram,2025-01-08,07:46,High
+Kurnool,2025-08-24,18:52,Low
+Vizianagaram,2025-06-26,09:00,Medium
+Guntur,2025-02-24,14:12,Low
+Prakasam,2025-03-27,05:39,Low
+Nellore,2025-04-06,03:48,Low
+Guntur,2025-12-22,15:16,Medium
+Prakasam,2025-12-12,04:00,Medium
+Prakasam,2025-05-22,01:31,Medium
+East Godavari,2025-10-15,12:33,Medium
+Chittoor,2025-07-04,21:03,High
+YSR Kadapa,2025-01-08,03:00,Medium
+Kurnool,2025-08-19,17:58,High
+Vizianagaram,2025-12-11,23:40,High
+YSR Kadapa,2025-09-05,23:45,Low
+Srikakulam,2025-01-24,23:57,Medium
+Guntur,2025-09-02,19:21,Medium
+Kurnool,2025-04-07,07:08,Medium
+Prakasam,2025-06-17,14:49,High
+Prakasam,2025-03-21,15:50,Medium
+Nellore,2025-09-26,00:35,High
+YSR Kadapa,2025-07-09,17:51,Low
+Kurnool,2025-06-08,15:06,Low
+YSR Kadapa,2025-10-19,14:45,Low
+Anantapur,2025-01-18,18:59,Medium
+Prakasam,2025-05-04,19:05,Medium
+Kurnool,2025-11-02,00:51,High
+Srikakulam,2025-12-25,07:42,Low
+Chittoor,2025-09-11,07:05,High
+Kurnool,2025-06-07,15:21,Low
+Vizianagaram,2025-02-24,08:20,High
+Krishna,2025-06-05,20:27,High
+Krishna,2025-04-12,15:55,High
+Krishna,2025-12-23,01:45,Low
+Chittoor,2025-07-07,01:24,Low
+West Godavari,2025-03-14,09:34,Low
+YSR Kadapa,2025-02-22,07:56,Medium
+Srikakulam,2025-02-11,03:10,Low
+Chittoor,2025-06-03,11:28,Low
+Anantapur,2025-07-04,09:25,High
+Guntur,2025-04-09,19:49,High
+Krishna,2025-05-26,23:12,High
+Prakasam,2025-12-11,19:41,Low
+Chittoor,2025-12-10,18:31,Low
+Guntur,2025-07-11,02:01,High
+Guntur,2025-05-25,11:38,Low
+Guntur,2025-01-15,15:21,Low
+YSR Kadapa,2025-06-01,17:02,High
+Prakasam,2025-12-20,13:02,High
+Srikakulam,2025-05-13,12:07,Medium
+Guntur,2025-12-07,23:45,Medium
+Kurnool,2025-04-21,06:31,Medium
+East Godavari,2025-07-20,07:22,High
+Kurnool,2025-09-12,16:26,High
+Krishna,2025-11-13,19:07,Low
+Krishna,2025-10-27,20:17,Low
+Chittoor,2025-03-12,01:34,Low
+Anantapur,2025-05-03,17:20,Medium
+West Godavari,2025-05-19,20:26,Medium
+Prakasam,2025-01-10,06:05,Low
+Prakasam,2025-08-07,22:48,Medium
+Chittoor,2025-11-01,08:39,Low
+Guntur,2025-03-18,21:38,Medium
+Anantapur,2025-11-12,15:15,Medium
+Anantapur,2025-12-05,14:48,High
+Kurnool,2025-01-03,00:31,High
+Srikakulam,2025-11-09,13:15,Low
+Srikakulam,2025-12-28,04:59,Low
+Anantapur,2025-06-21,23:37,Medium
+Prakasam,2025-10-24,23:24,High
+Guntur,2025-08-19,18:00,High
+YSR Kadapa,2025-08-26,07:38,Medium
+Nellore,2025-12-10,22:53,High
+West Godavari,2025-05-06,06:46,High
+West Godavari,2025-04-27,19:06,Medium
+West Godavari,2025-12-14,00:36,Low
+West Godavari,2025-02-23,22:29,Medium
+YSR Kadapa,2025-01-26,14:57,High
+Visakhapatnam,2025-12-03,16:20,Medium
+Prakasam,2025-03-14,21:07,Low
+Visakhapatnam,2025-04-08,21:00,Low
+Visakhapatnam,2025-02-27,02:45,Medium
+Anantapur,2025-04-27,13:32,High
+Anantapur,2025-03-11,23:57,Medium
+Visakhapatnam,2025-11-15,02:45,Low
+Krishna,2025-10-21,07:33,High
+Guntur,2025-08-04,08:46,Low
+Vizianagaram,2025-02-02,05:04,Low
+Kurnool,2025-05-27,21:07,Medium
+Guntur,2025-06-02,09:13,Medium
+Visakhapatnam,2025-10-04,11:08,High
+Prakasam,2025-02-10,12:18,High
+Nellore,2025-06-02,03:52,High
+Krishna,2025-02-20,21:43,Low
+Anantapur,2025-11-10,16:32,Medium
+East Godavari,2025-06-03,07:40,Medium
+Kurnool,2025-02-03,09:59,High
+Krishna,2025-05-10,00:58,High
+West Godavari,2025-09-24,01:00,Low
+Chittoor,2025-08-23,06:49,High
+East Godavari,2025-05-15,02:22,High
+Krishna,2025-07-27,02:02,Low
+YSR Kadapa,2025-09-03,08:02,Low
+Kurnool,2025-03-22,08:35,Low
+West Godavari,2025-02-09,03:47,High
+Kurnool,2025-05-16,06:36,Low
+Visakhapatnam,2025-09-18,08:50,Low
+Anantapur,2025-02-16,01:02,Medium
+East Godavari,2025-12-27,12:59,Medium
+Guntur,2025-06-03,00:30,Low
+Nellore,2025-09-10,18:36,High
+Kurnool,2025-11-06,00:35,Low
+Krishna,2025-12-04,09:36,Medium
+Vizianagaram,2025-03-09,21:57,Medium
+Visakhapatnam,2025-02-12,05:50,Medium
+Srikakulam,2025-11-05,14:03,High
+YSR Kadapa,2025-09-28,01:54,Low
+Vizianagaram,2025-10-19,16:37,Medium
+Guntur,2025-01-06,10:23,High
+Guntur,2025-12-13,07:04,Low
+Krishna,2025-03-27,13:52,Medium
+East Godavari,2025-07-12,20:17,Low
+Anantapur,2025-07-04,13:55,Medium
+Krishna,2025-11-21,08:32,High
+Guntur,2025-12-11,01:38,Low
+East Godavari,2025-01-03,03:57,Medium
+Prakasam,2025-03-09,18:58,Medium
+Vizianagaram,2025-11-02,22:16,Low
+YSR Kadapa,2025-11-05,05:17,Low
+West Godavari,2025-09-03,05:03,Low
+Vizianagaram,2025-08-04,16:25,High
+Chittoor,2025-10-07,07:55,Low
+Kurnool,2025-02-06,06:15,Medium
+Visakhapatnam,2025-05-14,12:34,Low
+Vizianagaram,2025-12-27,10:56,High
+East Godavari,2025-03-24,21:57,Low
+West Godavari,2025-12-23,06:02,High
+Krishna,2025-02-13,15:37,Medium
+Srikakulam,2025-05-14,18:21,Low
+Anantapur,2025-08-14,22:20,Low
+Srikakulam,2025-05-15,05:25,Medium
+Kurnool,2025-01-27,08:26,Medium
+YSR Kadapa,2025-08-10,04:58,Medium
+Anantapur,2025-05-25,06:05,Low
+Guntur,2025-12-10,21:14,Medium
+YSR Kadapa,2025-05-24,01:16,Medium
+Vizianagaram,2025-04-16,19:53,Low
+Guntur,2025-11-13,19:53,Medium
+West Godavari,2025-07-09,21:07,Medium
+Anantapur,2025-02-22,22:31,High
+West Godavari,2025-05-06,19:54,Medium
+Srikakulam,2025-09-17,10:22,High
+Visakhapatnam,2025-12-18,22:23,Low
+Visakhapatnam,2025-09-07,12:50,Low
+Kurnool,2025-11-27,23:15,Medium
+Srikakulam,2025-02-20,07:05,Low
+Guntur,2025-12-21,01:30,Low
+YSR Kadapa,2025-08-18,21:39,High
+YSR Kadapa,2025-09-15,13:42,Low
+YSR Kadapa,2025-09-01,00:09,Low
+Visakhapatnam,2025-11-01,18:09,Medium
+Vizianagaram,2025-06-22,13:16,Low
+Prakasam,2025-04-05,00:52,Medium
+Nellore,2025-01-10,03:13,Medium
+East Godavari,2025-05-06,19:34,Low
+Kurnool,2025-11-11,09:57,High
+Nellore,2025-02-06,11:42,Low
+Visakhapatnam,2025-04-02,02:04,High
+Anantapur,2025-04-08,11:35,High
+Krishna,2025-04-03,21:01,High
+Prakasam,2025-02-09,20:44,Low
+YSR Kadapa,2025-02-20,01:15,Low
+East Godavari,2025-10-06,22:50,Low
+East Godavari,2025-01-14,03:46,Medium
+YSR Kadapa,2025-01-06,20:36,Low
+Chittoor,2025-03-11,17:08,Medium
+Vizianagaram,2025-05-26,14:33,High
+Srikakulam,2025-08-18,08:09,Medium
+Anantapur,2025-11-04,09:37,Low
+YSR Kadapa,2025-12-09,18:27,Low
+East Godavari,2025-11-07,04:19,Medium
+East Godavari,2025-04-19,00:01,Low
+Prakasam,2025-04-25,23:22,Medium
+Visakhapatnam,2025-08-28,01:27,High
+Guntur,2025-08-16,13:16,Medium
+Visakhapatnam,2025-12-27,00:24,Medium
+East Godavari,2025-11-19,10:00,Medium
+Krishna,2025-07-21,15:25,Medium
+Guntur,2025-12-10,02:03,Low
+Nellore,2025-04-02,16:32,High
+Nellore,2025-11-12,14:35,High
+Chittoor,2025-12-02,02:26,Medium
+Chittoor,2025-04-17,05:48,Low
+East Godavari,2025-04-04,03:34,Low
+East Godavari,2025-06-10,01:28,High
+Kurnool,2025-11-20,12:07,Medium
+YSR Kadapa,2025-03-17,15:33,High
+Visakhapatnam,2025-05-04,17:33,Medium
+Kurnool,2025-03-02,22:36,Medium
+Guntur,2025-07-01,19:49,Medium
+Anantapur,2025-08-08,06:37,Low
+Vizianagaram,2025-08-09,02:16,Medium
+Krishna,2025-02-05,23:39,High
+Nellore,2025-07-02,17:28,Low
+Anantapur,2025-10-02,09:04,Medium
+Krishna,2025-12-16,16:54,High
+Visakhapatnam,2025-04-09,10:51,Medium
+Srikakulam,2025-07-14,10:58,Medium
+Anantapur,2025-12-23,16:21,Medium
+Visakhapatnam,2025-05-21,20:09,Medium
+Chittoor,2025-05-10,04:29,Low
+Krishna,2025-02-26,18:24,High
+East Godavari,2025-01-27,11:32,High
+Nellore,2025-10-03,06:07,High
+Visakhapatnam,2025-08-06,03:46,Medium
+Vizianagaram,2025-05-27,16:34,Medium
+Nellore,2025-06-01,13:51,Medium
+Guntur,2025-11-04,06:06,High
+Chittoor,2025-08-27,10:01,Low
+Chittoor,2025-12-09,19:06,Low
+Nellore,2025-08-10,14:53,Medium
+Guntur,2025-10-14,17:34,High
+Anantapur,2025-02-16,14:22,Medium
+Krishna,2025-07-17,13:13,Low
+East Godavari,2025-10-07,19:05,Medium
+Prakasam,2025-11-01,09:55,High
+Nellore,2025-11-14,23:16,Medium
+Prakasam,2025-11-20,17:18,High
+West Godavari,2025-11-07,17:36,Low
+Prakasam,2025-02-27,14:36,Medium
+Visakhapatnam,2025-02-24,19:24,Medium
+Srikakulam,2025-02-25,19:07,High
+Kurnool,2025-06-13,20:11,Medium
+East Godavari,2025-06-21,22:58,Low
+West Godavari,2025-10-13,05:58,Medium
+West Godavari,2025-02-26,21:28,High
+Visakhapatnam,2025-10-27,13:54,Medium
+Guntur,2025-05-13,02:07,Medium
+Visakhapatnam,2025-07-09,07:37,Medium
+Visakhapatnam,2025-09-03,18:13,High
+Guntur,2025-10-24,15:59,Low
+Guntur,2025-05-04,02:23,Low
+East Godavari,2025-03-23,20:24,Low
+Chittoor,2025-07-03,01:28,Medium
+Chittoor,2025-03-16,18:24,High
+Vizianagaram,2025-09-17,17:15,High
+Guntur,2025-09-07,17:53,Medium
+Krishna,2025-04-21,02:12,High
+Vizianagaram,2025-02-10,01:53,Medium
+Srikakulam,2025-02-28,16:45,Medium
+Vizianagaram,2025-05-02,16:33,Medium
+Visakhapatnam,2025-02-01,02:09,Medium
+YSR Kadapa,2025-09-20,23:45,High
+Kurnool,2025-01-06,02:36,Medium
+Krishna,2025-01-03,02:59,High
+Srikakulam,2025-09-13,18:27,Medium
+Kurnool,2025-10-10,16:20,Medium
+East Godavari,2025-05-01,13:05,Low
+Nellore,2025-12-18,10:08,Medium
+Kurnool,2025-05-26,12:34,Low
+Vizianagaram,2025-02-28,10:56,Medium
+YSR Kadapa,2025-06-23,12:26,High
+Anantapur,2025-06-18,10:07,Medium
+Guntur,2025-05-11,00:39,Medium
+Prakasam,2025-04-05,23:54,Medium
+YSR Kadapa,2025-01-14,18:05,High
+Anantapur,2025-04-28,17:59,Medium
+Prakasam,2025-11-04,05:12,Low
+Srikakulam,2025-09-12,16:37,Low
+Anantapur,2025-07-03,06:24,Low
+Nellore,2025-04-19,13:36,Medium
+Guntur,2025-04-03,17:54,High
+Vizianagaram,2025-07-01,09:39,High
+Kurnool,2025-07-10,02:58,Low
+Prakasam,2025-03-28,01:32,Medium
+Nellore,2025-04-09,20:55,High
+Anantapur,2025-03-04,05:32,High
+Srikakulam,2025-07-03,08:21,High
+Srikakulam,2025-08-09,03:21,Low
+Prakasam,2025-11-11,17:28,Low
+Krishna,2025-10-02,08:10,High
+YSR Kadapa,2025-03-06,05:50,Low
+Vizianagaram,2025-03-10,16:32,Medium
+Nellore,2025-02-16,07:54,High
+Nellore,2025-09-19,10:46,High
+Vizianagaram,2025-03-14,20:12,High
+Kurnool,2025-12-03,15:00,Medium
+Nellore,2025-03-15,17:12,Low
+Guntur,2025-01-20,17:17,Low
+West Godavari,2025-05-28,03:13,Low
+Vizianagaram,2025-06-22,17:54,Medium
+Vizianagaram,2025-05-10,03:41,Medium
+Nellore,2025-03-20,14:22,High
+YSR Kadapa,2025-03-03,23:30,Medium
+Vizianagaram,2025-05-28,05:11,Low
+Vizianagaram,2025-02-07,22:18,High
+Krishna,2025-03-06,12:13,Low
+West Godavari,2025-03-22,00:18,Medium
+Guntur,2025-10-10,03:30,Low
+Krishna,2025-12-12,03:38,Medium
+Guntur,2025-05-16,12:58,Medium
+Krishna,2025-03-10,01:35,High
+Srikakulam,2025-12-25,16:27,Medium
+Prakasam,2025-05-27,16:01,Medium
+Guntur,2025-03-27,10:32,High
+Vizianagaram,2025-09-27,22:56,High
+East Godavari,2025-06-21,04:46,High
+Visakhapatnam,2025-12-16,12:07,High
+Prakasam,2025-06-19,05:28,Low
+YSR Kadapa,2025-10-26,13:33,Medium
+Kurnool,2025-11-08,19:24,High
+Srikakulam,2025-01-06,17:18,Medium
+Chittoor,2025-04-27,19:17,High
+Prakasam,2025-08-24,20:56,High
+Anantapur,2025-11-03,15:52,Low
+Srikakulam,2025-05-03,07:48,High
+Chittoor,2025-06-21,02:54,Low
+Chittoor,2025-03-16,22:55,Medium
+Nellore,2025-06-27,06:23,High
+West Godavari,2025-01-02,23:15,Medium
+Prakasam,2025-08-23,18:08,Medium
+West Godavari,2025-05-03,02:10,Low
+Krishna,2025-05-20,14:05,Low
+YSR Kadapa,2025-06-27,18:15,High
+Kurnool,2025-03-17,23:34,Low
+Nellore,2025-07-23,19:27,High
+West Godavari,2025-03-03,06:04,Low
+Prakasam,2025-05-05,01:42,Low
+Guntur,2025-11-04,23:19,Medium
+West Godavari,2025-03-23,10:43,Low
+East Godavari,2025-02-01,09:20,Medium
+Nellore,2025-11-01,18:45,High
+Vizianagaram,2025-04-02,20:57,Low
+Visakhapatnam,2025-02-21,21:52,Low
+YSR Kadapa,2025-05-22,19:26,Medium
+Kurnool,2025-03-27,20:08,Low
+YSR Kadapa,2025-07-14,04:17,Medium
+Vizianagaram,2025-01-08,02:25,Medium
+Prakasam,2025-11-01,01:35,Low
+Anantapur,2025-02-02,17:22,Low
+Vizianagaram,2025-06-14,22:25,Medium
+Guntur,2025-05-14,04:32,Medium
+YSR Kadapa,2025-05-11,11:48,Low
+Kurnool,2025-01-16,17:41,High
+Kurnool,2025-11-10,14:35,Medium
+Prakasam,2025-05-13,10:05,Low
+Chittoor,2025-07-25,22:01,Low
+Kurnool,2025-07-06,02:28,Medium
+Guntur,2025-07-08,06:26,Low
+Prakasam,2025-01-16,13:26,Low
+Anantapur,2025-11-21,07:58,High
+East Godavari,2025-09-28,02:31,Low
+Kurnool,2025-04-17,04:55,Medium
+Srikakulam,2025-08-03,13:45,High
+Nellore,2025-10-27,18:50,Low
+Krishna,2025-07-17,19:01,High
+Nellore,2025-09-19,11:27,Low
+Nellore,2025-02-14,18:19,Low
+Anantapur,2025-05-08,14:12,High
+Prakasam,2025-07-28,15:00,Low
+Kurnool,2025-02-01,09:33,High
+YSR Kadapa,2025-09-26,01:17,Low
+Anantapur,2025-10-25,05:34,High
+YSR Kadapa,2025-10-15,09:53,High
+Nellore,2025-02-10,00:53,High
+Kurnool,2025-10-04,07:35,Medium
+Visakhapatnam,2025-02-14,16:06,Low
+Vizianagaram,2025-03-19,03:09,Low
+West Godavari,2025-01-08,19:23,Medium
+Chittoor,2025-03-18,06:30,Low
+Kurnool,2025-08-18,07:52,Medium
+Kurnool,2025-03-09,11:41,High
+Anantapur,2025-01-12,07:08,Low
+Guntur,2025-10-22,03:24,High
+Nellore,2025-09-23,08:25,Medium
+Visakhapatnam,2025-04-10,06:12,Medium
+Krishna,2025-11-14,15:04,Low
+Krishna,2025-05-09,12:28,Low
+Anantapur,2025-09-14,18:15,High
+Nellore,2025-07-11,11:06,High
+Srikakulam,2025-12-21,17:13,Low
+Visakhapatnam,2025-06-19,05:19,High
+Vizianagaram,2025-02-05,05:15,Medium
+Vizianagaram,2025-05-28,01:01,High
+Prakasam,2025-07-11,20:39,Low
+Chittoor,2025-03-17,12:53,High
+Visakhapatnam,2025-03-20,14:10,Medium
+YSR Kadapa,2025-07-09,05:32,High
+Vizianagaram,2025-07-15,15:26,High
+Guntur,2025-05-19,20:36,High
+Kurnool,2025-01-26,19:07,Medium
+Chittoor,2025-01-02,15:31,High
+West Godavari,2025-12-13,12:34,High
+Prakasam,2025-02-19,19:11,Medium
+Prakasam,2025-10-28,19:35,Low
+Guntur,2025-05-20,13:11,Medium
+YSR Kadapa,2025-03-27,03:30,Medium
+West Godavari,2025-10-27,16:22,High
+Anantapur,2025-01-23,00:36,Medium
+West Godavari,2025-12-11,08:03,Low
+Anantapur,2025-11-12,17:49,Low
+Nellore,2025-05-02,19:49,High
+Anantapur,2025-09-25,22:48,High
+Nellore,2025-02-24,21:35,Low
+Nellore,2025-10-19,09:16,Low
+Prakasam,2025-11-01,06:41,Low
+Visakhapatnam,2025-07-08,17:51,Medium
+Krishna,2025-07-22,04:29,Medium
+Kurnool,2025-11-21,02:00,Low
+Kurnool,2025-04-14,17:59,Medium
+East Godavari,2025-05-07,00:59,Medium
+Visakhapatnam,2025-10-19,21:44,Medium
+YSR Kadapa,2025-08-14,00:02,Low
+Vizianagaram,2025-01-05,20:32,Low
+Chittoor,2025-09-17,06:14,Low
+Visakhapatnam,2025-04-14,11:57,High
+Visakhapatnam,2025-09-15,07:03,Medium
+Visakhapatnam,2025-06-03,09:53,Medium
+YSR Kadapa,2025-07-14,18:26,Medium
+Guntur,2025-12-10,00:41,High
+Kurnool,2025-06-17,13:00,High
+Anantapur,2025-10-20,09:42,High
+Kurnool,2025-04-04,12:12,High
+Chittoor,2025-06-26,18:03,Low
+Visakhapatnam,2025-07-06,07:28,Low
+Kurnool,2025-02-07,09:35,Medium
+Visakhapatnam,2025-08-17,12:31,High
+East Godavari,2025-10-10,07:55,Low
+West Godavari,2025-12-02,20:16,Medium
+Srikakulam,2025-05-05,15:56,Low
+Visakhapatnam,2025-01-16,19:03,Low
+West Godavari,2025-12-01,15:27,Medium
+East Godavari,2025-12-22,14:14,Medium
+Vizianagaram,2025-11-11,14:36,Medium
+Vizianagaram,2025-03-24,15:23,Low
+Krishna,2025-05-24,04:42,High
+YSR Kadapa,2025-11-26,17:58,High
+Krishna,2025-04-10,18:18,Medium
+Prakasam,2025-12-26,15:08,High
+Srikakulam,2025-09-10,21:18,Low
+Nellore,2025-10-17,21:45,Low
+Anantapur,2025-06-15,09:59,Medium
+Nellore,2025-11-08,20:01,Low
+Nellore,2025-04-01,15:31,Low
+Guntur,2025-03-12,17:09,Medium
+Kurnool,2025-06-26,13:17,Low
+Srikakulam,2025-05-12,06:55,Low
+Guntur,2025-05-19,13:22,High
+Guntur,2025-11-24,23:05,High
+Nellore,2025-01-12,02:24,Low
+Visakhapatnam,2025-08-26,03:56,Low
+YSR Kadapa,2025-08-22,15:28,High
+Guntur,2025-02-19,23:01,High
+Anantapur,2025-04-14,08:23,High
+Nellore,2025-09-25,17:02,Medium
+Chittoor,2025-05-21,02:47,Medium
+Vizianagaram,2025-10-18,18:43,Low
+West Godavari,2025-05-16,03:17,Low
+YSR Kadapa,2025-06-16,07:02,Low
+Vizianagaram,2025-09-15,23:44,Low
+Prakasam,2025-10-26,12:04,Medium
+Krishna,2025-06-08,08:17,Low
+Chittoor,2025-03-01,01:21,High
+Vizianagaram,2025-06-17,06:17,High
+Vizianagaram,2025-08-09,03:29,Medium
+Anantapur,2025-04-04,03:50,High
+Nellore,2025-04-10,15:18,High
+Krishna,2025-03-10,07:26,Medium
+Kurnool,2025-12-21,15:46,High
+Kurnool,2025-07-22,15:33,High
+Srikakulam,2025-02-02,23:29,Low
+Nellore,2025-02-22,13:49,Low
+Krishna,2025-06-13,14:48,Low
+Srikakulam,2025-07-24,00:13,Low
+Chittoor,2025-12-09,05:01,High
+Krishna,2025-11-01,16:36,High
+Kurnool,2025-03-08,09:35,Medium
+Chittoor,2025-05-08,15:15,Low
+Chittoor,2025-09-04,09:58,Low
+Chittoor,2025-11-15,18:20,Low
+West Godavari,2025-06-27,00:17,High
+Prakasam,2025-01-26,08:57,Low
+Chittoor,2025-03-28,05:08,Medium
+Nellore,2025-05-02,05:48,High
+Guntur,2025-12-16,20:22,Medium
+Vizianagaram,2025-07-21,20:46,Low
+East Godavari,2025-07-28,20:05,Medium
+Krishna,2025-11-23,00:54,High
+East Godavari,2025-04-06,16:07,Medium
+Prakasam,2025-03-25,06:50,Low
+Nellore,2025-05-05,12:26,Low
+Kurnool,2025-07-07,18:24,Low
+Anantapur,2025-07-23,15:17,Medium
+East Godavari,2025-12-07,06:33,High
+Chittoor,2025-11-19,04:44,Medium
+Guntur,2025-06-19,09:38,Low
+Visakhapatnam,2025-05-04,20:25,High
+East Godavari,2025-01-10,21:29,Low
+East Godavari,2025-12-08,20:44,Medium
+Prakasam,2025-08-11,05:46,High
+Kurnool,2025-09-26,09:11,High
+Visakhapatnam,2025-01-05,14:28,Low
+YSR Kadapa,2025-07-28,14:32,Low
+West Godavari,2025-07-25,19:05,High
+Nellore,2025-04-03,11:02,Low
+East Godavari,2025-08-17,15:06,High
+Prakasam,2025-05-06,22:57,Low
+Krishna,2025-04-28,10:31,High
+Kurnool,2025-10-27,04:51,Low
+Srikakulam,2025-04-05,14:26,Medium
+West Godavari,2025-08-17,06:33,High
+Prakasam,2025-03-25,10:15,High
+Kurnool,2025-04-01,21:07,High
+East Godavari,2025-06-23,05:37,Low
+Visakhapatnam,2025-09-09,02:22,Low
+Srikakulam,2025-10-21,06:20,Medium
+Prakasam,2025-10-04,19:06,High
+Prakasam,2025-06-18,07:37,High
+East Godavari,2025-06-19,02:49,High
+Vizianagaram,2025-10-12,16:16,Low
+Visakhapatnam,2025-01-12,04:07,Low
+West Godavari,2025-07-24,11:04,Medium
+Krishna,2025-09-06,23:25,Low
+Kurnool,2025-10-08,17:01,Low
+Srikakulam,2025-06-23,20:02,Medium
+Nellore,2025-03-23,05:23,Low
+East Godavari,2025-07-28,13:40,Low
+Prakasam,2025-04-06,21:05,High
+Nellore,2025-11-23,08:56,Medium
+East Godavari,2025-09-13,06:15,High
+Guntur,2025-12-02,14:42,Medium
+Vizianagaram,2025-08-21,12:17,Medium
+Vizianagaram,2025-08-17,14:18,Medium
+Chittoor,2025-10-15,08:51,Low
+West Godavari,2025-08-03,15:14,Medium
+Kurnool,2025-04-05,13:44,Low
+Prakasam,2025-08-04,22:08,High
+Prakasam,2025-08-15,03:05,Medium
+Chittoor,2025-02-17,02:46,High
+YSR Kadapa,2025-09-18,17:01,Low
+Prakasam,2025-07-13,19:02,High
+Guntur,2025-10-21,00:24,Low
+Nellore,2025-04-01,03:13,High
+West Godavari,2025-08-07,07:20,High
+Guntur,2025-04-23,23:20,Medium
+East Godavari,2025-01-23,01:04,Low
+YSR Kadapa,2025-09-14,10:14,Medium
+Srikakulam,2025-08-21,15:09,High
+YSR Kadapa,2025-04-18,04:21,Low
+YSR Kadapa,2025-09-13,17:17,High
+East Godavari,2025-05-12,16:16,Low
+West Godavari,2025-06-19,17:49,High
+Kurnool,2025-03-12,21:55,Low
+Visakhapatnam,2025-08-12,16:50,Low
+Anantapur,2025-11-11,20:41,Low
+Guntur,2025-10-11,22:49,High
+Krishna,2025-05-15,18:51,High
+Chittoor,2025-02-26,03:00,Medium
+YSR Kadapa,2025-12-25,11:54,Medium
+Krishna,2025-03-12,04:52,Medium
+Vizianagaram,2025-07-09,22:48,Low
+Prakasam,2025-06-19,10:36,Low
+East Godavari,2025-11-23,02:52,Medium
+Srikakulam,2025-11-27,20:49,High
+Prakasam,2025-05-27,12:39,Medium
+Kurnool,2025-07-12,21:11,High
+Chittoor,2025-11-20,11:37,Low
+East Godavari,2025-08-19,03:14,Medium
+East Godavari,2025-04-24,18:54,Medium
+Kurnool,2025-03-09,20:17,Medium
+YSR Kadapa,2025-02-16,01:12,Low
+Srikakulam,2025-11-17,02:33,Medium
+Krishna,2025-06-27,15:07,High
+Nellore,2025-11-19,23:56,High
+Kurnool,2025-03-02,23:51,Medium
+Kurnool,2025-01-17,04:53,High
+Guntur,2025-06-12,13:18,Low
+Guntur,2025-10-18,12:58,High
+Srikakulam,2025-03-23,15:49,Low
+Krishna,2025-03-09,16:57,Medium
+YSR Kadapa,2025-08-12,23:15,Medium
+Guntur,2025-11-18,12:24,Medium
+Srikakulam,2025-10-09,13:39,High
+East Godavari,2025-10-24,03:00,High
+Nellore,2025-09-18,04:32,Low
+Visakhapatnam,2025-11-19,05:43,Low
+Nellore,2025-05-24,04:30,Low
+YSR Kadapa,2025-06-08,21:27,Medium
+Prakasam,2025-08-04,04:54,High
+Chittoor,2025-06-19,00:54,Low
+Chittoor,2025-03-22,21:35,Low
+Anantapur,2025-04-15,00:38,High
+West Godavari,2025-03-12,10:30,High
+Guntur,2025-10-14,20:52,Low
+East Godavari,2025-07-15,23:00,Medium
+Nellore,2025-11-28,03:59,Medium
+Anantapur,2025-08-26,06:25,Medium
+Visakhapatnam,2025-05-13,12:57,Low
+East Godavari,2025-07-24,22:22,High
+Chittoor,2025-02-05,09:56,Medium
+Prakasam,2025-01-24,00:04,High
+Srikakulam,2025-09-25,20:52,Low
+Krishna,2025-10-15,17:38,Low
+Nellore,2025-02-28,17:48,Medium
+Nellore,2025-01-06,03:51,Medium
+Anantapur,2025-05-24,00:55,Low
+Anantapur,2025-01-17,04:56,Medium
+YSR Kadapa,2025-05-14,12:09,Medium
+Krishna,2025-05-04,11:29,Low
+Visakhapatnam,2025-05-19,21:09,Low
+Prakasam,2025-08-03,22:23,Low
+Srikakulam,2025-09-11,00:57,Low
+YSR Kadapa,2025-06-24,03:41,Medium
+Anantapur,2025-12-25,04:43,High
+Prakasam,2025-06-04,06:09,Low
+Prakasam,2025-05-11,09:42,Low
+Chittoor,2025-03-25,14:24,Low
+Nellore,2025-10-08,05:43,Low
+Kurnool,2025-12-09,11:41,Medium
+East Godavari,2025-01-15,20:51,Medium
+Srikakulam,2025-07-04,16:08,High
+Visakhapatnam,2025-06-22,23:19,High
+Guntur,2025-11-02,13:02,Low
+Kurnool,2025-06-24,07:47,High
+Kurnool,2025-02-26,16:28,High
+Srikakulam,2025-09-25,14:29,Low
+Vizianagaram,2025-09-16,00:57,Low
+Vizianagaram,2025-11-23,21:19,Medium
+YSR Kadapa,2025-03-09,11:16,Low
+Kurnool,2025-07-18,19:23,Low
+Anantapur,2025-02-14,05:37,High
+West Godavari,2025-05-24,21:50,High
+Kurnool,2025-08-05,00:27,Medium
+YSR Kadapa,2025-10-25,11:52,High
+Krishna,2025-05-27,23:42,Low
+Kurnool,2025-10-02,14:36,Low
+Krishna,2025-11-07,19:43,High
+Srikakulam,2025-01-07,19:08,High
+YSR Kadapa,2025-01-05,01:36,Medium
+Kurnool,2025-06-24,17:41,Medium
+Kurnool,2025-02-17,14:21,Medium
+Chittoor,2025-06-23,17:58,High
+Srikakulam,2025-07-11,01:45,Medium
+Srikakulam,2025-01-26,03:33,Medium
+Nellore,2025-04-20,22:32,High
+Chittoor,2025-12-14,11:51,High
+Nellore,2025-11-01,04:41,High
+Prakasam,2025-03-20,08:02,Medium
+West Godavari,2025-07-13,10:48,High
+Guntur,2025-07-25,04:03,High
+Guntur,2025-06-24,19:55,High
+Guntur,2025-12-03,01:25,Medium
+Prakasam,2025-06-06,18:39,High
+Visakhapatnam,2025-10-07,00:08,Low
+East Godavari,2025-11-12,14:29,Low
+Prakasam,2025-09-21,21:37,High
+Nellore,2025-11-23,10:49,Low
+Krishna,2025-10-28,23:12,High
+Srikakulam,2025-02-25,07:17,Low
+Vizianagaram,2025-10-20,01:40,Low
+Chittoor,2025-08-02,01:26,Medium
+Nellore,2025-07-21,08:18,High
+Vizianagaram,2025-10-02,13:03,Low
+West Godavari,2025-05-04,16:00,High
+Visakhapatnam,2025-03-18,13:43,Medium
+Chittoor,2025-10-07,12:50,Low
+YSR Kadapa,2025-12-21,08:09,Low
+YSR Kadapa,2025-02-14,20:54,Medium
+Anantapur,2025-09-22,08:04,High
+Vizianagaram,2025-08-11,12:53,Low
+West Godavari,2025-07-05,23:12,Low
+Srikakulam,2025-05-17,18:14,Medium
+Prakasam,2025-03-14,15:51,High
+Srikakulam,2025-08-25,12:24,Medium
+Srikakulam,2025-12-15,15:56,Medium
+Krishna,2025-03-20,13:00,Low
+Vizianagaram,2025-09-06,19:53,Low
+Visakhapatnam,2025-04-23,02:01,Low
+East Godavari,2025-09-23,12:08,Medium
+Visakhapatnam,2025-03-07,10:46,Medium
+Nellore,2025-10-17,08:11,Low
+Prakasam,2025-05-03,06:43,Low
+Vizianagaram,2025-12-09,07:03,Low
+Visakhapatnam,2025-11-05,17:13,High
+Vizianagaram,2025-04-15,15:21,Low
+Krishna,2025-01-22,12:09,Medium
+Prakasam,2025-08-01,10:28,Low
+Vizianagaram,2025-08-20,20:30,High
+East Godavari,2025-06-07,04:01,High
+YSR Kadapa,2025-06-25,13:09,Medium
+West Godavari,2025-04-19,13:00,Medium
+East Godavari,2025-02-03,11:26,Low
+Guntur,2025-05-11,12:25,Low
+Kurnool,2025-08-26,20:38,Medium
+West Godavari,2025-07-23,01:15,Low
+Chittoor,2025-07-27,20:41,High
+Visakhapatnam,2025-10-27,19:44,Low
+Nellore,2025-10-03,17:37,Low
+YSR Kadapa,2025-04-23,16:45,High
+Prakasam,2025-02-20,13:31,Low
+Chittoor,2025-07-21,00:39,Medium
+Prakasam,2025-01-01,06:51,Low
+Guntur,2025-03-02,15:38,Medium
+Vizianagaram,2025-09-21,08:55,High
+Vizianagaram,2025-01-21,09:16,Medium
+Guntur,2025-11-21,01:32,Low
+Prakasam,2025-07-15,08:03,Low
+Kurnool,2025-11-23,21:18,Medium
+Chittoor,2025-04-05,09:43,Medium
+Chittoor,2025-04-28,08:48,Medium
+Prakasam,2025-11-20,16:29,Medium
+Prakasam,2025-09-15,07:25,Medium
+West Godavari,2025-11-22,19:09,Low
+Prakasam,2025-10-16,10:22,Medium
+West Godavari,2025-09-18,00:04,Low
+Visakhapatnam,2025-09-26,20:05,Low
+West Godavari,2025-08-11,05:19,Low
+Krishna,2025-05-26,22:46,Low
+Visakhapatnam,2025-07-08,08:40,High
+Chittoor,2025-02-12,18:54,High
+Kurnool,2025-05-16,15:30,Medium
+Chittoor,2025-10-28,09:02,Low
+Prakasam,2025-09-17,06:02,Low
+East Godavari,2025-07-25,17:23,High
+Vizianagaram,2025-09-17,19:14,High
+Prakasam,2025-03-05,08:45,Medium
+Visakhapatnam,2025-10-22,22:04,High
+Srikakulam,2025-02-24,23:01,High
+Visakhapatnam,2025-10-06,13:50,Low
+West Godavari,2025-01-04,20:22,Low
+Nellore,2025-08-08,21:46,Low
+Kurnool,2025-07-22,19:17,Medium
+West Godavari,2025-01-23,15:42,Low
+East Godavari,2025-11-24,06:47,Low
+Vizianagaram,2025-05-17,20:59,Low
+Visakhapatnam,2025-06-18,12:11,Medium
+West Godavari,2025-04-12,02:29,High
+Chittoor,2025-08-04,10:28,High
+Prakasam,2025-09-09,05:34,High
+Vizianagaram,2025-10-02,19:27,Medium
+Anantapur,2025-01-05,19:06,Medium
+Kurnool,2025-06-25,17:50,High
+Chittoor,2025-02-10,10:47,Low
+Srikakulam,2025-10-08,02:52,Low
+Guntur,2025-06-19,21:20,Low
+Visakhapatnam,2025-01-19,10:28,High
+East Godavari,2025-01-11,20:03,High
+Kurnool,2025-06-18,23:19,Medium
+West Godavari,2025-07-21,00:20,Medium
+Kurnool,2025-11-08,13:25,Low
+Visakhapatnam,2025-07-19,17:53,High
+Vizianagaram,2025-12-08,15:06,High
+Anantapur,2025-07-01,04:35,Medium
+YSR Kadapa,2025-02-17,00:51,Low
+Prakasam,2025-08-17,06:45,Low
+Krishna,2025-04-19,23:32,Medium
+Srikakulam,2025-03-28,08:13,Medium
+Krishna,2025-12-10,07:39,High
+Srikakulam,2025-04-27,00:41,Medium
+Srikakulam,2025-11-06,06:09,Low
+Chittoor,2025-01-28,09:46,Medium
+Nellore,2025-01-10,08:39,Medium
+East Godavari,2025-06-09,07:17,Medium
+Anantapur,2025-08-12,19:06,High
+East Godavari,2025-08-18,06:40,Low
+Guntur,2025-05-11,22:44,High
+Prakasam,2025-08-18,10:28,Low
+Nellore,2025-07-18,00:10,High
+Chittoor,2025-12-06,13:20,Low
+Prakasam,2025-03-10,04:05,Low
+East Godavari,2025-04-22,19:20,High
+YSR Kadapa,2025-06-24,23:53,High
+Chittoor,2025-08-15,04:35,Medium
+Vizianagaram,2025-08-24,18:11,Low
+Srikakulam,2025-08-10,23:20,High
+Vizianagaram,2025-09-12,07:34,Medium
+Anantapur,2025-04-01,02:15,Medium
+Nellore,2025-03-24,02:07,Low
+Prakasam,2025-12-20,02:18,High
+Chittoor,2025-02-19,08:23,Medium
+Visakhapatnam,2025-01-12,22:08,Medium
+Nellore,2025-03-12,21:53,Medium
+Visakhapatnam,2025-11-04,16:17,Medium
+Visakhapatnam,2025-06-17,07:59,Low
+Visakhapatnam,2025-03-27,22:51,Medium
+Kurnool,2025-01-09,13:07,Low
+West Godavari,2025-12-08,06:07,Low
+Visakhapatnam,2025-11-27,01:27,High
+YSR Kadapa,2025-08-08,22:33,Low
+YSR Kadapa,2025-09-02,03:14,High
+Kurnool,2025-06-21,18:32,Medium
+Vizianagaram,2025-03-07,12:04,Medium
+Kurnool,2025-05-13,13:11,Low
+Vizianagaram,2025-09-07,21:33,Medium
+Prakasam,2025-06-28,09:28,High
+Chittoor,2025-10-05,08:34,Low
+Visakhapatnam,2025-02-25,08:03,High
+Visakhapatnam,2025-10-22,16:22,Medium
+Prakasam,2025-10-08,05:05,High
+West Godavari,2025-12-15,20:36,Low
+YSR Kadapa,2025-04-11,21:06,Medium
+Chittoor,2025-06-06,04:35,High
+Srikakulam,2025-04-14,01:32,Medium
+Chittoor,2025-02-11,16:48,Medium
+Visakhapatnam,2025-05-08,20:00,Low
+Krishna,2025-06-26,03:56,Medium
+Vizianagaram,2025-09-16,15:21,Medium
+Kurnool,2025-10-07,06:34,Low
+Anantapur,2025-11-17,21:09,High
+Chittoor,2025-02-13,03:23,High
+Prakasam,2025-05-08,11:36,Medium
+Krishna,2025-10-10,04:38,High
+Guntur,2025-08-04,17:45,Low
+Guntur,2025-08-05,21:45,Medium
+Anantapur,2025-02-13,16:07,Medium
+Srikakulam,2025-12-19,00:42,High
+Guntur,2025-10-24,07:33,Medium
+Chittoor,2025-02-16,12:53,Low
+Srikakulam,2025-01-20,01:14,Low
+Anantapur,2025-09-06,17:02,High
+Srikakulam,2025-02-24,11:37,Low
+Srikakulam,2025-03-21,18:47,Low
+Guntur,2025-07-12,00:13,Low
+Visakhapatnam,2025-08-08,09:48,High
+West Godavari,2025-09-11,23:00,Low
+East Godavari,2025-09-09,23:03,High
+Nellore,2025-05-06,06:46,Low
+Vizianagaram,2025-03-11,21:37,Low
+Prakasam,2025-04-24,18:15,High
+East Godavari,2025-06-04,14:28,Medium
+Vizianagaram,2025-01-15,23:59,Low
+Visakhapatnam,2025-07-06,00:29,Medium
+YSR Kadapa,2025-01-03,00:58,Low
+Kurnool,2025-11-09,08:21,Low
+Chittoor,2025-01-14,10:08,Low
+Chittoor,2025-02-20,22:19,High
+YSR Kadapa,2025-10-20,06:09,Medium
+Nellore,2025-04-17,06:51,Low
+West Godavari,2025-12-28,12:58,Low
+Chittoor,2025-08-16,11:37,Medium
+Chittoor,2025-08-09,22:17,High
+Kurnool,2025-11-12,09:39,High
+Guntur,2025-02-17,03:54,Low
+YSR Kadapa,2025-07-27,04:42,Low
+West Godavari,2025-07-18,14:28,Medium
+Anantapur,2025-09-12,02:11,Medium
+East Godavari,2025-12-27,22:20,Low
+Chittoor,2025-01-17,23:30,Medium
+Srikakulam,2025-07-02,03:21,Medium
+West Godavari,2025-12-08,03:01,Low
+West Godavari,2025-12-22,08:37,Low
+East Godavari,2025-01-08,10:35,Medium
+Nellore,2025-07-02,22:34,High
+Vizianagaram,2025-06-07,20:37,Low
+Krishna,2025-02-06,10:17,Low
+East Godavari,2025-01-17,16:27,High
+Chittoor,2025-11-04,06:21,Medium
+Prakasam,2025-09-02,16:22,Low
+YSR Kadapa,2025-07-25,19:18,High
+YSR Kadapa,2025-02-22,04:56,Low
+Guntur,2025-05-26,05:28,High
+Nellore,2025-03-22,20:53,Low
+Visakhapatnam,2025-02-06,22:30,Low
+YSR Kadapa,2025-07-03,19:55,Low
+Visakhapatnam,2025-11-08,20:57,High
+Nellore,2025-09-04,10:15,Medium
+YSR Kadapa,2025-06-24,20:32,High
+Prakasam,2025-08-22,11:41,Low
+YSR Kadapa,2025-08-22,20:54,High
+Guntur,2025-12-12,14:23,High
+East Godavari,2025-05-17,22:32,Low
+Vizianagaram,2025-03-01,11:01,High
+Prakasam,2025-04-19,03:17,Low
+Vizianagaram,2025-07-17,15:42,Medium
+Guntur,2025-03-15,12:21,Medium
+Prakasam,2025-03-14,14:05,Medium
+Vizianagaram,2025-01-04,09:18,Low
+Nellore,2025-05-10,19:49,Low
+East Godavari,2025-08-26,13:17,High
+Prakasam,2025-04-22,06:30,Low
+Krishna,2025-08-06,09:17,Low
+Visakhapatnam,2025-04-22,15:43,Low
+Chittoor,2025-07-16,21:05,Medium
+Guntur,2025-02-07,17:40,High
+Kurnool,2025-06-07,19:30,Medium
+West Godavari,2025-04-18,15:20,Medium
+Nellore,2025-10-07,02:51,High
+Anantapur,2025-01-19,01:00,Medium
+Visakhapatnam,2025-04-02,09:54,High
+Anantapur,2025-05-01,08:29,Medium
+Krishna,2025-05-23,21:50,Low
+Krishna,2025-02-19,10:31,High
+East Godavari,2025-07-08,01:19,Medium
+Chittoor,2025-01-03,19:37,Medium
+YSR Kadapa,2025-06-28,13:53,Low
+Prakasam,2025-02-23,06:27,Medium
+East Godavari,2025-03-02,12:20,Low
+Kurnool,2025-11-28,08:26,High
+West Godavari,2025-02-28,00:49,Medium
+Kurnool,2025-08-19,21:10,High
+Visakhapatnam,2025-09-01,13:49,High
+Chittoor,2025-11-19,10:59,Low
+YSR Kadapa,2025-12-08,15:20,Low
+Nellore,2025-02-26,04:53,High
+Krishna,2025-02-01,18:19,High
+Guntur,2025-03-16,03:32,High
+Krishna,2025-01-20,22:08,Low
+Prakasam,2025-07-13,08:06,Low
+Chittoor,2025-11-07,01:11,High
+Nellore,2025-05-14,20:30,High
+Anantapur,2025-12-17,09:57,Low
+Anantapur,2025-01-18,06:18,Medium
+Anantapur,2025-03-18,22:20,Low
+Visakhapatnam,2025-11-23,16:06,High
+Srikakulam,2025-01-20,19:54,Low
+Vizianagaram,2025-12-23,19:37,High
+Srikakulam,2025-04-12,04:09,High
+East Godavari,2025-04-06,19:18,High
+Srikakulam,2025-08-20,06:46,Medium
+Vizianagaram,2025-07-03,09:35,High
+Srikakulam,2025-04-06,01:15,Low
+Guntur,2025-10-05,05:57,Medium
+Prakasam,2025-08-20,20:45,Low
+Anantapur,2025-08-20,22:19,High
+Guntur,2025-12-08,16:26,High
+Nellore,2025-05-15,02:08,High
+Guntur,2025-07-06,22:54,Medium
+Vizianagaram,2025-02-04,11:48,Low
+Kurnool,2025-02-07,09:39,Medium
+YSR Kadapa,2025-12-14,14:31,High
+East Godavari,2025-04-23,14:56,Medium
+Srikakulam,2025-02-13,06:12,Low
+Srikakulam,2025-04-11,17:20,High
+Visakhapatnam,2025-11-16,16:53,Low
+Krishna,2025-04-28,12:34,Medium
+Prakasam,2025-12-26,07:29,Medium
+Prakasam,2025-12-10,15:29,Medium
+West Godavari,2025-04-23,18:28,High
+Guntur,2025-08-18,10:19,High
+East Godavari,2025-01-16,15:22,Medium
+Prakasam,2025-09-23,15:57,Low
+Prakasam,2025-12-11,23:45,Low
+Krishna,2025-12-03,16:53,Low
+Krishna,2025-07-04,06:22,Low
+Anantapur,2025-06-10,22:44,High
+Visakhapatnam,2025-06-20,10:03,Medium
+Srikakulam,2025-09-19,22:57,Medium
+Anantapur,2025-09-27,18:32,Low
+Srikakulam,2025-03-27,19:38,High
+Nellore,2025-03-26,17:07,High
+Nellore,2025-02-18,18:09,High
+Prakasam,2025-11-11,14:20,Low
+Prakasam,2025-04-08,16:23,Medium
+YSR Kadapa,2025-02-04,02:51,Low
+Krishna,2025-06-19,07:17,Medium
+Guntur,2025-11-25,02:22,Low
+Anantapur,2025-08-25,14:52,Low
+Prakasam,2025-03-13,17:15,Medium
+Vizianagaram,2025-08-02,04:25,Low
+Krishna,2025-02-04,22:30,Low
+East Godavari,2025-07-14,11:50,High
+Nellore,2025-04-10,21:59,Low
+Prakasam,2025-10-05,10:18,High
+Srikakulam,2025-07-17,23:56,High
+Srikakulam,2025-10-19,05:39,Low
+Chittoor,2025-05-17,19:54,Medium
+Krishna,2025-05-19,04:50,Low
+Visakhapatnam,2025-06-10,14:38,High
+YSR Kadapa,2025-07-11,05:59,High
+East Godavari,2025-03-17,17:23,High
+East Godavari,2025-02-22,18:11,Low
+Krishna,2025-06-06,08:45,Low
+Vizianagaram,2025-10-23,22:29,Low
+Prakasam,2025-12-18,08:37,Low
+Vizianagaram,2025-04-25,15:58,High
+West Godavari,2025-12-04,03:27,High
+Prakasam,2025-07-09,19:52,Medium
+Prakasam,2025-06-19,07:24,Low
+Kurnool,2025-03-26,16:03,High
+Kurnool,2025-02-27,22:57,Medium
+Chittoor,2025-02-02,12:01,Low
+Chittoor,2025-04-02,09:58,High
+West Godavari,2025-09-21,02:13,Medium
+West Godavari,2025-05-27,05:01,Low
+Krishna,2025-03-23,01:31,High
+YSR Kadapa,2025-09-08,09:58,High
+Srikakulam,2025-07-06,00:25,High
+West Godavari,2025-09-25,09:21,Low
+Visakhapatnam,2025-06-10,22:59,Medium
+Nellore,2025-10-19,04:26,High
+Vizianagaram,2025-08-13,20:37,High
+West Godavari,2025-03-11,08:26,Medium
+Visakhapatnam,2025-06-02,21:32,High
+Kurnool,2025-04-20,16:45,Medium
+Srikakulam,2025-04-01,19:59,Medium
+Vizianagaram,2025-04-06,00:10,Medium
+Prakasam,2025-12-19,02:26,Medium
+West Godavari,2025-04-17,18:28,High
+Srikakulam,2025-10-15,13:03,High
+Srikakulam,2025-04-03,08:33,Medium
+YSR Kadapa,2025-06-14,16:19,High
+Krishna,2025-12-13,06:57,Low
+Guntur,2025-07-02,06:10,High
+Anantapur,2025-06-23,21:39,Medium
+Chittoor,2025-05-14,09:03,High
+West Godavari,2025-06-04,05:11,Medium
+East Godavari,2025-04-11,22:31,Medium
+Nellore,2025-03-28,03:52,High
+Visakhapatnam,2025-05-18,11:20,Medium
+Krishna,2025-09-03,08:59,Low
+Kurnool,2025-04-12,03:54,Medium
+Anantapur,2025-11-08,02:57,Medium
+East Godavari,2025-01-27,08:30,Medium
+Chittoor,2025-11-17,21:41,High
+Krishna,2025-09-21,17:20,High
+Prakasam,2025-11-14,19:24,Medium
+West Godavari,2025-05-05,21:05,Medium
+Nellore,2025-11-13,02:31,Low
+Nellore,2025-09-16,15:45,Low
+Nellore,2025-02-21,20:41,Medium
+Krishna,2025-12-26,12:29,High
+Visakhapatnam,2025-11-26,17:32,High
+Krishna,2025-06-24,13:37,Medium
+YSR Kadapa,2025-02-18,23:16,Medium
+Srikakulam,2025-12-19,05:12,Medium
+East Godavari,2025-02-03,10:42,Medium
+Kurnool,2025-08-27,15:55,Medium
+West Godavari,2025-06-02,11:42,Low
+Krishna,2025-03-09,04:16,Medium
+Nellore,2025-06-06,00:24,Medium
+Kurnool,2025-08-28,02:09,High
+West Godavari,2025-05-13,23:25,Medium
+Prakasam,2025-12-14,18:22,Low
+YSR Kadapa,2025-08-13,15:04,Low
+Nellore,2025-01-11,07:53,Medium
+Kurnool,2025-12-02,08:56,High
+Krishna,2025-05-03,02:15,Low
+Guntur,2025-06-23,00:20,High
+Vizianagaram,2025-02-07,07:40,Low
+East Godavari,2025-06-05,08:40,Medium
+Nellore,2025-12-12,00:35,High
+YSR Kadapa,2025-09-09,16:18,Low
+Nellore,2025-06-07,20:31,Low
+Krishna,2025-07-13,12:35,Low
+Srikakulam,2025-10-10,23:20,Medium
+Vizianagaram,2025-01-15,00:23,High
+Vizianagaram,2025-05-05,04:51,High
+Chittoor,2025-07-02,06:33,High
+YSR Kadapa,2025-11-22,18:20,Medium
+Guntur,2025-12-17,07:56,Medium
+East Godavari,2025-10-14,21:36,Low
+Krishna,2025-03-15,21:15,Medium
+Nellore,2025-05-09,12:07,Low
+Guntur,2025-05-19,19:10,High
+Krishna,2025-11-06,14:51,Low
+YSR Kadapa,2025-08-27,13:32,High
+YSR Kadapa,2025-01-07,01:33,Medium
+Visakhapatnam,2025-10-12,13:28,Low
+Guntur,2025-06-08,13:28,Medium
+Vizianagaram,2025-06-24,05:30,Medium
+Vizianagaram,2025-03-08,09:52,Medium
+YSR Kadapa,2025-05-14,05:45,Medium
+Krishna,2025-06-10,00:45,Low
+Srikakulam,2025-03-11,02:35,Medium
+Chittoor,2025-12-13,09:03,Medium
+Chittoor,2025-11-16,13:42,High
+Visakhapatnam,2025-01-21,21:00,Low
+Nellore,2025-09-12,23:24,Low
+Prakasam,2025-12-28,15:26,Medium
+Vizianagaram,2025-10-25,17:00,High
+YSR Kadapa,2025-01-07,16:20,Low
+Vizianagaram,2025-08-01,04:39,Medium
+Kurnool,2025-05-27,00:13,Low
+East Godavari,2025-06-27,17:52,Medium
+West Godavari,2025-07-24,03:11,Low
+East Godavari,2025-10-25,13:45,High
+Srikakulam,2025-11-02,13:17,High
+Nellore,2025-04-04,12:31,High
+YSR Kadapa,2025-06-17,06:11,Low
+Vizianagaram,2025-11-23,15:34,Low
+West Godavari,2025-02-24,17:37,Low
+Guntur,2025-11-25,21:23,Medium
+YSR Kadapa,2025-08-26,12:56,Medium
+Nellore,2025-10-23,16:20,High
+Chittoor,2025-01-17,12:04,Low
+Visakhapatnam,2025-06-20,21:58,High
+West Godavari,2025-10-14,16:01,Low
+West Godavari,2025-09-11,22:41,High
+West Godavari,2025-07-19,03:04,Low
+Kurnool,2025-05-01,00:52,Medium
+Kurnool,2025-08-03,09:31,High
+Krishna,2025-10-13,11:53,High
+Visakhapatnam,2025-12-23,20:33,Low
+Guntur,2025-10-11,10:08,High
+West Godavari,2025-04-09,03:18,Low
+Krishna,2025-10-01,05:55,High
+West Godavari,2025-02-24,05:37,High
+YSR Kadapa,2025-04-17,14:34,High
+Guntur,2025-01-18,14:49,Low
+Vizianagaram,2025-11-08,01:29,Medium
+Vizianagaram,2025-06-12,21:07,Low
+Visakhapatnam,2025-04-19,12:01,Medium
+Prakasam,2025-09-13,07:01,High
+Kurnool,2025-03-03,03:35,High
+Krishna,2025-01-23,03:46,Low
+Anantapur,2025-12-08,03:21,High
+East Godavari,2025-05-26,11:33,Low
+Srikakulam,2025-06-18,17:59,Medium
+Nellore,2025-07-17,11:56,High
+East Godavari,2025-01-01,23:06,High
+YSR Kadapa,2025-02-11,03:36,High
+Anantapur,2025-06-13,01:21,Medium
+YSR Kadapa,2025-05-01,02:36,Low
+Prakasam,2025-10-27,06:57,Low
+Krishna,2025-04-10,04:00,Low
+Anantapur,2025-11-15,17:47,High
+Visakhapatnam,2025-12-18,19:28,Medium
+Kurnool,2025-01-11,22:32,Medium
+West Godavari,2025-09-08,14:29,Low
+East Godavari,2025-06-19,08:52,Low
+West Godavari,2025-12-13,05:51,High
+Kurnool,2025-11-25,13:43,High
+Prakasam,2025-04-25,17:37,High
+Srikakulam,2025-07-24,06:26,High
+Visakhapatnam,2025-07-26,20:03,Medium
+East Godavari,2025-01-01,09:05,Low
+Nellore,2025-09-07,16:17,High
+Srikakulam,2025-01-18,06:29,Low
+Vizianagaram,2025-05-28,07:10,Low
+Anantapur,2025-10-07,08:23,Medium
+Krishna,2025-07-06,04:10,High
+Srikakulam,2025-12-19,09:28,Medium
+YSR Kadapa,2025-01-02,19:15,High
+Kurnool,2025-10-01,16:53,Medium
+Kurnool,2025-06-26,10:24,High
+Visakhapatnam,2025-11-28,15:15,Medium
+Guntur,2025-10-26,01:01,High
+Prakasam,2025-07-19,16:19,Low
+Chittoor,2025-08-02,16:29,High
+Nellore,2025-08-12,03:49,Low
+Anantapur,2025-01-20,08:09,Low
+Guntur,2025-04-23,21:08,High
+West Godavari,2025-10-20,00:17,Low
+East Godavari,2025-01-03,15:40,High
+Chittoor,2025-05-27,03:15,Low
+Nellore,2025-12-06,23:26,High
+Krishna,2025-07-25,03:58,High
+Nellore,2025-07-05,20:24,High
+Vizianagaram,2025-06-04,11:48,Medium
+Krishna,2025-04-01,23:35,High
+Kurnool,2025-05-12,00:00,High
+Vizianagaram,2025-10-02,17:10,Low
+East Godavari,2025-09-28,04:25,Medium
+Visakhapatnam,2025-07-26,00:12,Medium
+Srikakulam,2025-04-09,01:42,Medium
+YSR Kadapa,2025-02-02,15:54,Low
+Krishna,2025-06-05,02:26,High
+Guntur,2025-02-02,17:21,Low
+Krishna,2025-02-16,03:18,Low
+YSR Kadapa,2025-08-04,22:14,Low
+Chittoor,2025-10-16,05:48,High
+Kurnool,2025-04-14,04:19,Low
+Srikakulam,2025-01-21,09:29,Medium
+Visakhapatnam,2025-10-23,10:39,High
+YSR Kadapa,2025-05-18,16:20,High
+Chittoor,2025-11-11,22:35,Medium
+East Godavari,2025-04-14,00:46,Low
+Visakhapatnam,2025-01-07,03:54,Medium
+Vizianagaram,2025-03-03,22:49,High
+West Godavari,2025-08-05,14:44,Medium
+Krishna,2025-08-20,19:51,High
+Vizianagaram,2025-09-18,20:37,High
+YSR Kadapa,2025-08-18,08:16,Medium
+Nellore,2025-11-28,18:53,Medium
+Prakasam,2025-07-22,17:31,Low
+West Godavari,2025-05-01,07:40,Medium
+Prakasam,2025-03-10,12:13,Low
+Nellore,2025-05-10,10:09,High
+YSR Kadapa,2025-01-04,02:09,High
+Guntur,2025-07-13,16:36,High
+Vizianagaram,2025-11-12,18:46,High
+Visakhapatnam,2025-12-05,21:20,Medium
+YSR Kadapa,2025-12-11,15:36,Medium
+West Godavari,2025-02-03,19:31,Medium
+East Godavari,2025-10-28,08:01,Medium
+Chittoor,2025-03-13,19:20,High
+Kurnool,2025-06-27,19:25,Medium
+Guntur,2025-12-02,00:05,Medium
+Anantapur,2025-09-10,01:09,Low
+Vizianagaram,2025-11-16,01:50,High
+Vizianagaram,2025-05-28,00:17,Low
+Visakhapatnam,2025-02-21,03:13,Low
+Nellore,2025-09-27,08:02,High
+East Godavari,2025-05-08,02:19,Medium
+Anantapur,2025-08-06,18:41,Low
+Kurnool,2025-02-16,04:14,Low
+Guntur,2025-11-12,08:17,High
+Kurnool,2025-02-21,15:36,High
+YSR Kadapa,2025-01-25,22:35,High
+Vizianagaram,2025-07-04,17:36,Medium
+Chittoor,2025-12-22,16:48,High
+Nellore,2025-02-19,06:43,Low
+Visakhapatnam,2025-05-07,12:08,High
+Guntur,2025-01-23,12:51,Low
+Kurnool,2025-04-24,19:20,Medium
+Anantapur,2025-10-04,16:19,Medium
+East Godavari,2025-05-08,02:55,Low
+Prakasam,2025-03-21,05:39,Medium
+Kurnool,2025-09-21,08:08,Low
+East Godavari,2025-11-21,09:33,Low
+Nellore,2025-09-23,06:32,Medium
+Srikakulam,2025-05-11,13:52,Low
+Nellore,2025-09-16,11:07,Low
+Vizianagaram,2025-10-04,06:46,High
+Chittoor,2025-09-02,02:28,Low
+Chittoor,2025-06-23,15:31,High
+Vizianagaram,2025-07-27,11:12,High
+Srikakulam,2025-05-20,09:28,High
+Vizianagaram,2025-03-21,17:44,High
+YSR Kadapa,2025-08-13,15:08,Low
+Guntur,2025-01-02,01:33,Low
+Visakhapatnam,2025-06-06,08:38,High
+East Godavari,2025-08-14,04:46,Medium
+Krishna,2025-08-07,03:36,High
+East Godavari,2025-07-13,13:55,Medium
+Chittoor,2025-08-14,08:37,Low
+Krishna,2025-03-13,09:48,Medium
+Chittoor,2025-02-19,18:26,High
+Srikakulam,2025-01-28,10:20,High
+Nellore,2025-04-27,17:15,Low
+YSR Kadapa,2025-11-02,10:50,High
+Guntur,2025-03-17,03:12,Medium
+Chittoor,2025-08-03,06:09,Low
+West Godavari,2025-01-07,09:51,Medium
+East Godavari,2025-07-20,17:45,Low
+Nellore,2025-02-10,21:05,High
+West Godavari,2025-11-16,16:38,Medium
+Kurnool,2025-08-25,07:24,High
+Prakasam,2025-08-04,01:12,Low
+Krishna,2025-10-11,17:16,Medium
+Kurnool,2025-01-02,14:46,Medium
+YSR Kadapa,2025-11-04,00:20,Low
+East Godavari,2025-03-02,02:36,Low
+Vizianagaram,2025-09-05,09:41,Low
+YSR Kadapa,2025-12-06,05:07,Medium
+Guntur,2025-02-09,02:00,High
+West Godavari,2025-08-04,01:57,Medium
+Krishna,2025-10-06,23:46,Medium
+Vizianagaram,2025-10-16,10:19,High
+East Godavari,2025-05-12,19:24,High
+East Godavari,2025-10-18,06:06,High
+Kurnool,2025-10-13,19:52,High
+YSR Kadapa,2025-11-07,21:00,Low
+Anantapur,2025-04-12,05:23,High
+Vizianagaram,2025-05-22,01:34,High
+Nellore,2025-12-25,05:57,High
+Vizianagaram,2025-12-15,12:10,Medium
+YSR Kadapa,2025-07-11,03:02,High
+Nellore,2025-01-11,21:53,Low
+Chittoor,2025-03-18,06:30,High
+Prakasam,2025-12-18,06:52,High
+YSR Kadapa,2025-05-09,08:26,High
+Chittoor,2025-12-08,23:55,Low
+Srikakulam,2025-07-22,11:16,Low
+Vizianagaram,2025-06-28,07:17,Low
+Kurnool,2025-12-23,11:04,Medium
+Chittoor,2025-10-03,23:30,Medium
+East Godavari,2025-06-19,05:37,Medium
+Anantapur,2025-09-09,05:42,Low
+West Godavari,2025-09-17,20:46,Low
+Krishna,2025-02-20,05:47,High
+YSR Kadapa,2025-03-24,16:12,Low
+Guntur,2025-05-03,14:10,High
+Prakasam,2025-12-09,23:37,Medium
+Guntur,2025-03-26,12:37,Medium
+Vizianagaram,2025-12-20,08:49,Medium
+Vizianagaram,2025-06-19,12:13,High
+YSR Kadapa,2025-11-05,02:39,Low
+East Godavari,2025-04-10,07:23,Low
+Anantapur,2025-03-04,19:35,High
+Srikakulam,2025-01-02,23:10,High
+Vizianagaram,2025-01-24,06:13,Medium
+Chittoor,2025-09-17,21:51,High
+Chittoor,2025-06-06,17:07,Low
+Nellore,2025-05-03,22:00,Low
+Visakhapatnam,2025-09-27,09:28,Low
+West Godavari,2025-11-06,17:49,Low
+Chittoor,2025-08-13,15:49,High
+Nellore,2025-01-20,18:24,Low
+Vizianagaram,2025-06-10,17:28,Medium
+YSR Kadapa,2025-08-26,16:50,High
+Guntur,2025-10-07,00:50,High
+Krishna,2025-09-14,22:01,High
+East Godavari,2025-09-03,17:49,High
+Nellore,2025-01-24,05:41,High
+Krishna,2025-02-08,03:31,Low
+YSR Kadapa,2025-12-10,22:22,Medium
+Anantapur,2025-07-20,23:15,Low
+West Godavari,2025-06-28,12:30,Low
+Visakhapatnam,2025-07-18,22:20,Low
+Kurnool,2025-08-11,00:57,Low
+Prakasam,2025-12-20,17:14,Low
+Nellore,2025-09-03,16:02,High
+Krishna,2025-10-16,14:29,High
+Anantapur,2025-03-12,13:26,Low
+Guntur,2025-08-04,23:03,Medium
+East Godavari,2025-08-18,03:40,Low
+Kurnool,2025-10-16,02:40,Medium
+Anantapur,2025-02-21,14:12,High
+Anantapur,2025-07-13,18:23,Medium
+East Godavari,2025-06-05,11:48,Medium
+Vizianagaram,2025-11-23,01:12,Medium
+Nellore,2025-02-18,13:56,High
+Kurnool,2025-09-20,15:25,Medium
+Vizianagaram,2025-03-19,23:16,Medium
+West Godavari,2025-04-23,23:43,Low
+Chittoor,2025-11-14,02:49,High
+Anantapur,2025-03-09,02:50,High
+Vizianagaram,2025-11-06,18:30,High
+West Godavari,2025-11-14,08:35,Low
+Chittoor,2025-01-06,04:51,High
+Srikakulam,2025-09-08,08:45,High
+West Godavari,2025-04-03,04:42,High
+Guntur,2025-08-10,02:47,Low
+Krishna,2025-04-03,11:13,High
+Chittoor,2025-04-17,03:31,Medium
+Guntur,2025-12-16,10:36,Low
+Anantapur,2025-03-17,07:41,High
+West Godavari,2025-12-27,03:48,Medium
+East Godavari,2025-02-22,21:47,Low
+Visakhapatnam,2025-05-16,16:28,Medium
+Prakasam,2025-12-03,18:29,Low
+Visakhapatnam,2025-05-13,02:55,High
+Anantapur,2025-07-17,20:57,Medium
+Srikakulam,2025-10-13,01:37,High
+Chittoor,2025-10-12,07:10,High
+Chittoor,2025-10-18,22:44,Medium
+Visakhapatnam,2025-03-08,21:58,Medium
+Prakasam,2025-12-18,13:48,Medium
+Nellore,2025-04-22,09:26,Medium
+Krishna,2025-05-20,15:00,High
+Srikakulam,2025-07-09,15:02,Low
+Prakasam,2025-02-21,18:49,High
+Guntur,2025-11-06,14:57,Medium
+Visakhapatnam,2025-07-16,01:30,High
+Kurnool,2025-07-06,23:41,Low
+Anantapur,2025-08-03,04:16,Medium
+West Godavari,2025-12-11,12:48,High
+Chittoor,2025-11-21,04:47,Low
+Vizianagaram,2025-01-24,11:28,Low
+West Godavari,2025-09-05,17:05,Medium
+Prakasam,2025-07-25,01:25,Low
+Vizianagaram,2025-11-17,06:37,Low
+Nellore,2025-02-03,22:40,Low
+Visakhapatnam,2025-06-07,13:16,Low
+YSR Kadapa,2025-01-16,15:24,High
+East Godavari,2025-09-25,09:32,Low
+East Godavari,2025-01-26,19:08,Low
+YSR Kadapa,2025-04-23,13:59,Low
+Prakasam,2025-04-08,09:27,Low
+Krishna,2025-05-20,18:14,High
+Vizianagaram,2025-12-07,22:54,Low
+Visakhapatnam,2025-06-26,10:07,High
+Prakasam,2025-10-25,09:27,High
+East Godavari,2025-01-01,11:33,High
+East Godavari,2025-06-12,20:29,High
+East Godavari,2025-12-09,17:04,Low
+Krishna,2025-01-28,01:14,Low
+Chittoor,2025-10-12,20:30,High
+Vizianagaram,2025-02-02,00:23,Medium
+Visakhapatnam,2025-09-19,06:30,High
+Visakhapatnam,2025-01-20,05:29,High
+Guntur,2025-11-11,21:23,Low
+Visakhapatnam,2025-04-25,20:21,Medium
+Srikakulam,2025-06-09,19:01,High
+East Godavari,2025-04-22,15:40,High
+East Godavari,2025-08-17,16:02,Medium
+Srikakulam,2025-10-26,19:15,Medium
+West Godavari,2025-09-20,06:04,Low
+Kurnool,2025-10-22,10:01,Medium
+East Godavari,2025-06-26,16:52,Low
+Prakasam,2025-01-19,15:48,High
+YSR Kadapa,2025-02-21,19:45,Low
+Vizianagaram,2025-04-16,16:27,Low
+Chittoor,2025-12-03,04:28,High
+Guntur,2025-05-12,11:33,High
+East Godavari,2025-02-08,09:29,High
+West Godavari,2025-03-26,16:20,High
+Visakhapatnam,2025-07-26,04:39,High
+Vizianagaram,2025-01-18,17:38,Medium
+Srikakulam,2025-04-16,18:39,Medium
+Nellore,2025-10-07,16:36,High
+Chittoor,2025-06-03,13:47,Low
+Chittoor,2025-04-21,23:30,High
+East Godavari,2025-06-13,05:47,Low
+Nellore,2025-08-07,09:56,High
+Prakasam,2025-04-04,05:38,High
+Nellore,2025-08-12,22:33,High
+Nellore,2025-09-02,10:30,High
+Guntur,2025-04-10,21:33,High
+Kurnool,2025-10-19,04:17,High
+Visakhapatnam,2025-02-28,11:30,Medium
+Anantapur,2025-08-13,20:20,Low
+Krishna,2025-12-17,06:24,High
+Visakhapatnam,2025-12-17,01:23,Low
+Chittoor,2025-10-22,10:13,High
+Guntur,2025-04-06,05:56,Low
+Anantapur,2025-11-02,09:35,Low
+Visakhapatnam,2025-03-25,22:04,Low
+Srikakulam,2025-10-15,19:28,High
+West Godavari,2025-06-05,08:57,High
+Guntur,2025-03-01,07:51,Low
+Chittoor,2025-03-20,22:33,High
+Krishna,2025-08-08,05:42,High
+Srikakulam,2025-10-13,19:06,Medium
+Anantapur,2025-05-08,11:46,Medium
+Nellore,2025-07-27,05:28,Low
+Kurnool,2025-05-20,22:55,Low
+Anantapur,2025-11-12,03:25,High
+Vizianagaram,2025-09-10,20:46,Low
+East Godavari,2025-04-02,13:50,High
+Vizianagaram,2025-11-16,04:47,Low
+Nellore,2025-04-03,01:56,High
+Nellore,2025-07-24,21:18,Low
+Anantapur,2025-06-04,15:13,High
+Kurnool,2025-09-10,08:09,Medium
+Anantapur,2025-05-25,00:27,Low
+Prakasam,2025-09-13,17:38,Medium
+West Godavari,2025-08-14,09:46,Medium
+Srikakulam,2025-03-28,18:18,Medium
+Vizianagaram,2025-12-09,07:23,Medium
+Chittoor,2025-08-09,09:24,Low
+Kurnool,2025-04-18,21:42,Medium
+Chittoor,2025-12-04,04:18,High
+Nellore,2025-03-07,12:37,Low
+Vizianagaram,2025-11-14,16:56,Low
+Vizianagaram,2025-04-24,20:23,Medium
+Anantapur,2025-05-04,14:47,Low
+Nellore,2025-10-19,14:45,Low
+Kurnool,2025-04-09,14:01,Medium
+Prakasam,2025-09-22,23:27,Low
+Visakhapatnam,2025-06-10,17:19,Low
+Guntur,2025-10-20,19:41,High
+Visakhapatnam,2025-04-25,18:28,Low
+East Godavari,2025-09-27,20:56,Medium
+Prakasam,2025-03-27,10:51,High
+West Godavari,2025-07-23,07:07,High
+Prakasam,2025-08-08,04:13,Low
+Krishna,2025-03-25,08:53,High
+Anantapur,2025-02-16,05:11,High
+East Godavari,2025-01-04,23:24,Low
+Vizianagaram,2025-10-06,12:06,High
+Nellore,2025-11-14,12:34,Medium
+YSR Kadapa,2025-04-12,16:06,Low
+Guntur,2025-06-14,23:03,Medium
+Srikakulam,2025-03-27,14:09,Low
+Chittoor,2025-02-06,19:02,Medium
+West Godavari,2025-06-19,19:17,Low
+Srikakulam,2025-02-25,22:42,Medium
+Guntur,2025-09-02,22:51,Medium
+West Godavari,2025-08-01,00:23,Medium
+YSR Kadapa,2025-06-25,17:19,Medium
+Guntur,2025-10-01,13:02,Low
+Visakhapatnam,2025-08-12,21:19,Medium
+Nellore,2025-06-22,01:33,Medium
+Nellore,2025-06-11,12:25,High
+Guntur,2025-07-23,14:10,Low
+West Godavari,2025-07-15,03:23,Low
+Prakasam,2025-05-24,14:15,Medium
+Guntur,2025-11-21,12:40,High
+Chittoor,2025-09-04,05:43,Low
+West Godavari,2025-11-03,11:05,Medium
+Nellore,2025-04-14,11:39,High
+Prakasam,2025-10-12,23:19,Low
+Srikakulam,2025-12-12,08:43,High
+YSR Kadapa,2025-09-05,11:57,Medium
+Nellore,2025-03-14,17:08,Low
+Vizianagaram,2025-06-04,02:58,Low
+Chittoor,2025-06-15,21:45,High
+Chittoor,2025-03-02,09:39,Low
+West Godavari,2025-11-02,08:55,High
+West Godavari,2025-06-04,22:37,Low
+Nellore,2025-03-06,19:01,High
+Kurnool,2025-01-24,15:03,High
+Krishna,2025-06-24,23:56,Low
+Guntur,2025-10-05,06:48,Low
+East Godavari,2025-07-27,15:49,Low
+Krishna,2025-01-01,12:58,Medium
+Vizianagaram,2025-08-01,13:12,Low
+Vizianagaram,2025-10-14,05:15,Low
+Anantapur,2025-04-11,12:41,Medium
+Kurnool,2025-07-17,13:46,Medium
+Nellore,2025-02-23,12:38,High
+YSR Kadapa,2025-03-24,19:08,High
+Nellore,2025-09-08,10:44,High
+Visakhapatnam,2025-07-10,07:45,Medium
+East Godavari,2025-11-20,06:52,High
+East Godavari,2025-06-13,22:49,High
+Chittoor,2025-10-08,01:39,High
+Kurnool,2025-04-18,21:20,High
+Anantapur,2025-05-09,21:35,Medium
+Visakhapatnam,2025-06-09,01:52,Medium
+Chittoor,2025-11-14,09:00,High
+Krishna,2025-08-24,02:21,Low
+Prakasam,2025-07-17,05:08,Low
+East Godavari,2025-02-14,08:45,High
+Kurnool,2025-12-22,19:30,Medium
+East Godavari,2025-05-12,02:58,High
+West Godavari,2025-07-23,14:15,Medium
+Anantapur,2025-07-04,04:24,Medium
+Anantapur,2025-07-11,02:50,Low
+Vizianagaram,2025-02-20,13:36,Low
+Nellore,2025-01-05,06:03,High
+YSR Kadapa,2025-06-03,07:48,Low
+Chittoor,2025-09-12,08:27,Low
+Anantapur,2025-10-26,12:23,Medium
+Krishna,2025-03-13,23:45,Low
+Vizianagaram,2025-07-20,04:24,Medium
+Srikakulam,2025-09-02,09:50,High
+Krishna,2025-11-25,01:48,Medium
+Visakhapatnam,2025-02-25,19:23,High
+Visakhapatnam,2025-12-09,20:10,Low
+Vizianagaram,2025-06-08,02:42,Medium
+Kurnool,2025-11-15,21:20,Medium
+Visakhapatnam,2025-08-08,08:47,Low
+Visakhapatnam,2025-09-25,06:59,Medium
+Prakasam,2025-10-26,21:57,Medium
+Guntur,2025-05-13,16:55,Medium
+Chittoor,2025-04-26,01:35,High
+Krishna,2025-05-07,03:49,High
+Chittoor,2025-09-15,03:13,Medium
+Guntur,2025-10-24,08:07,High
+West Godavari,2025-08-04,15:42,Low
+Kurnool,2025-01-09,18:03,High
+Prakasam,2025-11-01,21:26,Low
+East Godavari,2025-08-12,23:05,Medium
+YSR Kadapa,2025-04-22,02:33,Medium
+Visakhapatnam,2025-10-15,10:05,Low
+YSR Kadapa,2025-11-15,17:15,Medium
+Chittoor,2025-09-16,12:46,High
+Vizianagaram,2025-12-28,16:56,Medium
+YSR Kadapa,2025-11-22,22:57,High
+Guntur,2025-10-28,11:52,High
+Prakasam,2025-07-03,12:50,Low
+East Godavari,2025-04-01,22:01,High
+Vizianagaram,2025-10-16,03:04,High
+Chittoor,2025-10-20,09:55,Medium
+Visakhapatnam,2025-02-07,12:03,Medium
+Anantapur,2025-08-25,09:41,Low
+Guntur,2025-08-22,07:40,Low
+Anantapur,2025-03-18,21:05,High
+Visakhapatnam,2025-09-26,11:20,Low
+YSR Kadapa,2025-10-06,22:10,Medium
+Prakasam,2025-08-25,10:03,High
+Chittoor,2025-01-08,08:08,High
+Srikakulam,2025-10-09,15:48,High
+East Godavari,2025-09-28,11:21,Medium
+East Godavari,2025-07-20,00:20,Low
+West Godavari,2025-12-01,05:14,High
+YSR Kadapa,2025-10-17,19:05,High
+East Godavari,2025-12-27,22:35,High
+Srikakulam,2025-08-14,01:35,Low
+Kurnool,2025-12-15,14:20,Medium
+West Godavari,2025-03-07,07:49,Low
+YSR Kadapa,2025-07-20,15:03,High
+Kurnool,2025-06-08,12:14,Low
+West Godavari,2025-06-12,21:04,High
+Visakhapatnam,2025-03-15,15:40,High
+Krishna,2025-06-20,19:55,Medium
+Krishna,2025-10-23,11:15,High
+East Godavari,2025-03-08,03:30,Medium
+East Godavari,2025-08-14,17:01,High
+Kurnool,2025-03-27,10:09,High
+Srikakulam,2025-03-23,18:05,Medium
+West Godavari,2025-04-26,21:18,High
+Chittoor,2025-02-01,04:14,Medium
+Prakasam,2025-10-05,02:44,Low
+Anantapur,2025-03-01,18:44,High
+East Godavari,2025-01-17,11:02,High
+Kurnool,2025-12-24,08:39,Low
+Kurnool,2025-05-06,17:36,High
+East Godavari,2025-08-17,14:44,High
+Anantapur,2025-09-28,11:19,High
+Anantapur,2025-02-26,16:13,Low
+Visakhapatnam,2025-08-17,00:22,Medium
+Guntur,2025-06-02,05:11,Low
+Visakhapatnam,2025-12-12,22:43,High
+YSR Kadapa,2025-12-27,04:49,High
+YSR Kadapa,2025-03-11,21:18,High
+Nellore,2025-04-28,05:33,Low
+Guntur,2025-06-26,10:59,Low
+Krishna,2025-04-11,07:48,Medium
+Kurnool,2025-09-06,15:17,Low
+YSR Kadapa,2025-11-05,05:36,Low
+YSR Kadapa,2025-02-28,04:45,Low
+East Godavari,2025-05-15,03:32,Low
+West Godavari,2025-08-04,01:32,High
+Visakhapatnam,2025-11-11,12:48,High
+East Godavari,2025-11-21,01:45,Medium
+Srikakulam,2025-02-05,12:20,High
+Kurnool,2025-05-27,18:35,High
+Guntur,2025-07-11,19:54,Low
+Chittoor,2025-06-17,03:05,Medium
+Chittoor,2025-05-18,22:36,Medium
+Prakasam,2025-01-11,03:37,Low
+West Godavari,2025-01-19,13:15,High
+Vizianagaram,2025-12-04,18:56,Low
+Kurnool,2025-05-14,05:23,Medium
+Chittoor,2025-12-17,11:37,Medium
+East Godavari,2025-05-22,10:41,High
+West Godavari,2025-05-14,14:08,Low
+Chittoor,2025-11-17,05:03,High
+Chittoor,2025-05-04,08:48,Medium
+Srikakulam,2025-02-07,01:38,Low
+East Godavari,2025-04-12,20:30,Medium
+Prakasam,2025-10-01,20:12,Medium
+Vizianagaram,2025-03-12,12:04,High
+Nellore,2025-09-24,14:53,High
+Visakhapatnam,2025-03-04,20:48,Low
+Vizianagaram,2025-05-01,00:15,Low
+Kurnool,2025-12-21,11:42,Medium
+Krishna,2025-05-10,19:56,Low
+Chittoor,2025-04-24,14:55,High
+Vizianagaram,2025-11-24,03:54,High
+YSR Kadapa,2025-08-17,20:48,Medium
+Visakhapatnam,2025-11-23,22:01,Low
+Prakasam,2025-08-15,12:07,Low
+Kurnool,2025-04-07,07:04,High
+YSR Kadapa,2025-06-25,11:18,Medium
+Chittoor,2025-03-28,06:40,Low
+Anantapur,2025-08-04,02:43,Medium
+Prakasam,2025-04-18,21:49,Low
+Krishna,2025-03-28,08:03,Low
+Guntur,2025-01-02,11:33,High
+Prakasam,2025-11-28,16:06,Low
+Visakhapatnam,2025-03-04,01:42,High
+Krishna,2025-10-22,00:46,Medium
+Vizianagaram,2025-09-04,13:48,Medium
+Anantapur,2025-03-26,22:43,High
+West Godavari,2025-07-22,22:59,Low
+Nellore,2025-01-08,07:57,Low
+Kurnool,2025-02-09,14:45,High
+Nellore,2025-01-26,14:47,Medium
+Anantapur,2025-08-28,00:00,Low
+East Godavari,2025-01-27,00:44,High
+Visakhapatnam,2025-04-23,09:34,Medium
+Prakasam,2025-10-14,01:11,Low
+West Godavari,2025-12-20,10:23,Low
+YSR Kadapa,2025-02-19,09:51,High
+Guntur,2025-12-09,11:12,Low
+YSR Kadapa,2025-08-12,14:00,Medium
+Vizianagaram,2025-12-22,07:28,Medium
+Prakasam,2025-07-03,09:03,Medium
+West Godavari,2025-02-28,00:18,Low
+Chittoor,2025-10-27,16:36,Low
+Guntur,2025-01-20,20:18,Medium
+Vizianagaram,2025-09-16,19:31,Low
+East Godavari,2025-12-02,00:58,Medium
+Visakhapatnam,2025-07-06,16:26,High
+Krishna,2025-03-16,14:58,Medium
+Chittoor,2025-03-16,03:31,High
+Prakasam,2025-05-16,11:45,High
+Guntur,2025-08-16,12:04,Low
+YSR Kadapa,2025-09-10,00:32,Low
+West Godavari,2025-06-19,07:21,High
+Anantapur,2025-11-02,07:00,High
+Chittoor,2025-03-12,21:49,Medium
+Krishna,2025-03-19,12:23,Medium
+Chittoor,2025-12-15,00:12,Low
+YSR Kadapa,2025-02-13,13:16,Low
+Visakhapatnam,2025-12-07,18:08,Low
+Chittoor,2025-11-05,23:49,Medium
+East Godavari,2025-11-19,05:00,Low
+Kurnool,2025-03-12,17:26,Medium
+East Godavari,2025-02-27,20:32,High
+Nellore,2025-01-21,09:11,Medium
+Chittoor,2025-09-23,07:25,Low
+Kurnool,2025-04-27,16:56,Medium
+Krishna,2025-01-12,16:39,Low
+East Godavari,2025-11-25,09:28,Low
+Anantapur,2025-07-24,12:30,Medium
+West Godavari,2025-08-26,14:05,High
+Visakhapatnam,2025-08-04,08:47,Medium
+Vizianagaram,2025-02-23,04:20,Medium
+Visakhapatnam,2025-08-01,09:28,High
+East Godavari,2025-04-11,12:29,High
+YSR Kadapa,2025-07-07,03:06,Low
+West Godavari,2025-12-06,08:01,High
+YSR Kadapa,2025-06-25,18:31,High
+Srikakulam,2025-10-25,12:19,Low
+Guntur,2025-02-02,20:25,Low
+Chittoor,2025-01-16,22:25,High
+Anantapur,2025-01-17,14:46,Medium
+Kurnool,2025-04-01,22:52,High
+Krishna,2025-05-17,20:10,Low
+Prakasam,2025-12-01,05:36,Low
+Nellore,2025-07-23,13:58,High
+Anantapur,2025-09-25,16:03,Low
+Krishna,2025-08-03,03:43,High
+Prakasam,2025-03-23,01:32,Medium
+West Godavari,2025-05-06,22:47,Medium
+West Godavari,2025-08-25,14:32,Low
+West Godavari,2025-09-20,10:44,High
+Guntur,2025-09-14,21:06,Low
+West Godavari,2025-08-18,18:12,High
+Guntur,2025-07-27,23:10,High
+Visakhapatnam,2025-06-03,15:34,Low
+YSR Kadapa,2025-10-28,17:44,Medium
+East Godavari,2025-10-18,17:58,Low
+Visakhapatnam,2025-06-26,20:45,Low
+YSR Kadapa,2025-03-15,16:04,High
+Nellore,2025-11-05,12:32,Low
+Kurnool,2025-08-27,08:52,Low
+Nellore,2025-05-01,10:51,Low
+YSR Kadapa,2025-04-15,09:45,High
+Anantapur,2025-11-23,13:42,High
+Nellore,2025-02-09,02:31,Low
+Nellore,2025-12-01,16:22,High
+Nellore,2025-08-19,01:01,Medium
+Vizianagaram,2025-11-10,13:39,High
+Kurnool,2025-04-06,09:46,High
+West Godavari,2025-03-03,21:55,High
+West Godavari,2025-08-08,16:52,Low
+Guntur,2025-07-20,02:33,Low
+Srikakulam,2025-06-06,11:32,Low
+Nellore,2025-08-24,22:10,Low
+Srikakulam,2025-09-17,20:06,High
+Vizianagaram,2025-08-15,12:21,High
+Anantapur,2025-01-17,17:17,High
+Nellore,2025-04-04,08:16,High
+Anantapur,2025-05-20,22:41,Medium
+Vizianagaram,2025-04-26,02:15,High
+Kurnool,2025-02-21,03:33,High
+Anantapur,2025-12-26,18:10,High
+Krishna,2025-07-17,03:38,Low
+Nellore,2025-12-07,00:39,Low
+Kurnool,2025-12-20,10:31,Medium
+YSR Kadapa,2025-06-05,05:42,Low
+West Godavari,2025-09-06,17:00,Medium
+YSR Kadapa,2025-04-02,22:07,Medium
+Srikakulam,2025-09-05,15:00,Medium
+YSR Kadapa,2025-09-20,06:59,High
+Prakasam,2025-10-13,12:29,Low
+East Godavari,2025-10-06,06:30,High
+Chittoor,2025-01-23,05:14,Medium
+Vizianagaram,2025-01-05,07:52,Medium
+Kurnool,2025-09-03,04:05,Low
+Chittoor,2025-07-15,08:14,Low
+Vizianagaram,2025-08-15,11:01,Low
+Guntur,2025-10-02,15:48,High
+Visakhapatnam,2025-12-20,23:52,Medium
+Nellore,2025-08-12,20:59,Low
+Visakhapatnam,2025-08-01,21:28,Medium
+YSR Kadapa,2025-07-24,15:30,High
+YSR Kadapa,2025-04-07,17:03,High
+Kurnool,2025-08-13,05:27,High
+Chittoor,2025-09-05,13:53,Low
+YSR Kadapa,2025-10-07,16:16,Medium
+Chittoor,2025-11-23,10:09,High
+Krishna,2025-12-22,04:58,High
+YSR Kadapa,2025-11-28,12:57,Medium
+Anantapur,2025-11-02,10:38,High
+East Godavari,2025-05-25,07:03,High
+Chittoor,2025-02-23,04:38,Medium
+Anantapur,2025-08-03,14:29,Low
+Guntur,2025-05-20,14:20,Medium
+Guntur,2025-11-14,16:34,Low
+West Godavari,2025-03-23,18:44,Low
+Nellore,2025-01-01,23:05,Medium
+Vizianagaram,2025-09-27,11:06,High
+East Godavari,2025-07-05,14:09,High
+Prakasam,2025-01-09,10:38,Medium
+East Godavari,2025-02-08,05:32,Medium
+Chittoor,2025-10-19,15:56,Medium
+Prakasam,2025-12-04,02:49,High
+Chittoor,2025-05-18,00:18,Medium
+Visakhapatnam,2025-02-04,23:16,Medium
+Kurnool,2025-04-01,20:01,Medium
+Vizianagaram,2025-02-24,14:37,Medium
+Guntur,2025-02-25,05:49,High
+East Godavari,2025-08-27,10:04,High
+Guntur,2025-05-22,15:47,Low
+Nellore,2025-08-14,12:34,High
+Srikakulam,2025-05-20,01:02,Medium
+Guntur,2025-08-12,05:57,Medium
+Srikakulam,2025-02-19,02:15,Medium
+Anantapur,2025-08-06,11:52,Low
+YSR Kadapa,2025-09-12,18:16,Medium
+YSR Kadapa,2025-02-18,15:57,Medium
+Visakhapatnam,2025-09-05,11:06,High
+Visakhapatnam,2025-10-18,09:38,Medium
+Visakhapatnam,2025-03-02,05:40,High
+West Godavari,2025-02-13,10:45,Medium
+Visakhapatnam,2025-09-28,14:15,Low
+Anantapur,2025-02-12,01:45,Medium
+East Godavari,2025-03-06,10:47,High
+Chittoor,2025-06-25,03:31,Medium
+Vizianagaram,2025-07-04,17:39,High
+Guntur,2025-08-19,00:06,Low
+Srikakulam,2025-04-28,23:59,Low
+Kurnool,2025-07-15,13:05,Low
+Chittoor,2025-01-09,20:40,High
+Srikakulam,2025-09-02,11:26,Low
+Vizianagaram,2025-10-22,15:34,Low
+Guntur,2025-09-19,23:21,High
+Visakhapatnam,2025-02-20,13:19,Low
+YSR Kadapa,2025-07-05,15:52,Medium
+Chittoor,2025-03-15,12:07,Low
+Srikakulam,2025-09-22,10:06,High
+Visakhapatnam,2025-04-17,02:00,Medium
+Kurnool,2025-01-05,11:47,High
+Anantapur,2025-10-19,06:09,High
+East Godavari,2025-02-17,08:15,Medium
+YSR Kadapa,2025-10-28,04:35,High
+Chittoor,2025-05-22,19:26,High
+Nellore,2025-04-02,00:11,High
+Guntur,2025-09-10,10:53,High
+West Godavari,2025-06-25,20:27,High
+West Godavari,2025-11-23,15:07,Low
+Guntur,2025-06-25,08:30,High
+YSR Kadapa,2025-11-05,13:38,Low
+Anantapur,2025-03-04,04:48,Low
+YSR Kadapa,2025-04-04,14:46,Medium
+Prakasam,2025-11-13,17:55,Low
+East Godavari,2025-03-19,09:02,Low
+Srikakulam,2025-08-28,16:51,High
+Srikakulam,2025-09-16,18:46,Low
+Vizianagaram,2025-04-05,03:54,Low
+Nellore,2025-10-27,12:19,Medium
+Srikakulam,2025-09-22,16:07,Medium
+Kurnool,2025-01-13,20:36,Medium
+Prakasam,2025-09-08,00:50,Medium
+Visakhapatnam,2025-10-25,05:31,Medium
+Prakasam,2025-01-26,05:28,Medium
+Visakhapatnam,2025-05-22,19:18,Medium
+Krishna,2025-08-09,02:48,High
+Guntur,2025-10-11,02:43,Medium
+Kurnool,2025-05-10,10:27,High
+Prakasam,2025-12-02,11:37,Low
+Vizianagaram,2025-07-27,17:41,High
+Prakasam,2025-05-09,20:29,Low
+Visakhapatnam,2025-09-06,06:48,High
+Kurnool,2025-06-12,20:00,High
+Guntur,2025-09-06,11:09,High
+Guntur,2025-02-05,13:24,Low
+YSR Kadapa,2025-09-21,13:00,High
+Nellore,2025-06-09,17:43,High
+Guntur,2025-07-22,03:45,Low
+Vizianagaram,2025-06-07,17:30,Medium
+West Godavari,2025-10-04,10:39,Medium
+West Godavari,2025-11-03,08:53,Low
+West Godavari,2025-01-13,19:00,Medium
+Vizianagaram,2025-07-21,01:33,Low
+East Godavari,2025-09-08,18:19,High
+East Godavari,2025-01-06,15:43,High
+Vizianagaram,2025-06-08,00:47,High
+Nellore,2025-01-11,00:31,Medium
+Guntur,2025-05-01,04:01,Medium
+West Godavari,2025-09-04,04:53,High
+Visakhapatnam,2025-01-09,16:37,Medium
+East Godavari,2025-10-26,05:52,High
+Nellore,2025-06-23,12:15,Medium
+West Godavari,2025-03-12,01:23,High
+West Godavari,2025-01-03,20:20,Medium
+Nellore,2025-05-27,20:08,High
+Prakasam,2025-11-27,12:43,Medium
+Nellore,2025-11-11,09:36,Low
+Prakasam,2025-06-03,10:22,Medium
+Chittoor,2025-11-21,21:39,Medium
+Kurnool,2025-10-06,21:33,Low
+Nellore,2025-08-28,03:02,High
+Vizianagaram,2025-07-17,00:22,High
+Anantapur,2025-12-14,04:46,Low
+West Godavari,2025-12-25,16:47,Low
+Nellore,2025-11-28,23:45,Medium
+Visakhapatnam,2025-03-27,06:02,Medium
+Srikakulam,2025-02-05,19:29,High
+Nellore,2025-04-12,14:16,Low
+West Godavari,2025-12-16,21:44,Low
+Vizianagaram,2025-12-22,08:06,High
+West Godavari,2025-07-09,21:39,Low
+Nellore,2025-06-24,15:36,High
+Chittoor,2025-02-23,16:35,Low
+Visakhapatnam,2025-07-24,23:10,Medium
+West Godavari,2025-11-17,16:15,High
+Anantapur,2025-04-08,09:20,High
+YSR Kadapa,2025-03-25,21:27,Low
+Vizianagaram,2025-03-16,11:45,High
+Anantapur,2025-03-27,15:02,High
+Vizianagaram,2025-01-16,06:16,Low
+Vizianagaram,2025-08-20,02:52,High
+West Godavari,2025-11-25,19:51,High
+Nellore,2025-05-22,19:08,High
+Kurnool,2025-01-09,08:58,High
+Krishna,2025-12-16,00:58,High
+East Godavari,2025-08-08,14:08,Medium
+Vizianagaram,2025-11-17,09:51,High
+Guntur,2025-10-07,02:36,Low
+YSR Kadapa,2025-02-10,22:51,High
+Anantapur,2025-11-24,07:08,Medium
+Chittoor,2025-05-13,00:37,Medium
+Chittoor,2025-05-25,19:45,Low
+Vizianagaram,2025-01-22,01:51,High
+Chittoor,2025-03-06,23:41,High
+YSR Kadapa,2025-06-26,04:05,Low
+Visakhapatnam,2025-10-03,09:14,High
+East Godavari,2025-05-28,07:51,Low
+Visakhapatnam,2025-11-16,17:06,Medium
+Kurnool,2025-07-18,21:22,High
+YSR Kadapa,2025-01-22,13:05,High
+Nellore,2025-09-17,08:02,High
+Srikakulam,2025-02-27,22:08,High
+Prakasam,2025-09-16,08:20,Medium
+Krishna,2025-08-03,07:47,Low
+Anantapur,2025-05-07,11:54,Low
+Prakasam,2025-03-25,12:43,Low
+Krishna,2025-03-14,17:36,Medium
+Nellore,2025-09-01,01:21,Low
+Prakasam,2025-02-20,06:52,Medium
+Srikakulam,2025-12-28,13:39,Medium
+Visakhapatnam,2025-08-22,13:29,High
+Visakhapatnam,2025-10-28,08:20,High
+Guntur,2025-01-11,19:38,Low
+Kurnool,2025-08-10,03:50,High
+East Godavari,2025-12-21,08:09,Low
+YSR Kadapa,2025-04-12,10:14,Medium
+YSR Kadapa,2025-02-28,13:26,Medium
+West Godavari,2025-06-19,20:17,Low
+East Godavari,2025-12-03,15:14,High
+West Godavari,2025-10-18,10:02,Medium
+Prakasam,2025-11-16,15:03,High
+Anantapur,2025-11-04,13:08,High
+West Godavari,2025-11-21,04:32,Low
+Guntur,2025-12-14,19:31,Medium
+Krishna,2025-08-07,03:07,Medium
+Krishna,2025-05-05,06:07,Low
+Krishna,2025-03-17,05:32,Low
+Srikakulam,2025-09-20,14:15,High
+YSR Kadapa,2025-09-09,09:58,Medium
+Guntur,2025-02-23,23:21,Low
+Srikakulam,2025-11-03,02:17,Low
+Guntur,2025-08-24,00:37,Low
+Visakhapatnam,2025-03-13,11:00,Medium
+Nellore,2025-08-03,16:49,Medium
+Prakasam,2025-03-26,15:30,High
+Guntur,2025-11-16,20:00,High
+Prakasam,2025-03-23,16:59,High
+Visakhapatnam,2025-09-16,06:55,Medium
+West Godavari,2025-01-28,09:07,Low
+Anantapur,2025-11-11,07:55,Low
+Guntur,2025-06-11,09:29,High
+Srikakulam,2025-03-17,20:50,Low
+Visakhapatnam,2025-07-14,15:33,Low
+Krishna,2025-12-23,00:31,Medium
+East Godavari,2025-11-23,01:19,High
+Chittoor,2025-06-14,06:34,Low
+East Godavari,2025-11-22,08:17,Medium
+East Godavari,2025-12-26,17:34,Low
+East Godavari,2025-06-07,12:16,Low
+YSR Kadapa,2025-09-08,20:24,Medium
+Visakhapatnam,2025-12-18,05:46,Medium
+Prakasam,2025-12-13,19:35,Low
+Chittoor,2025-04-15,17:06,Low
+YSR Kadapa,2025-07-02,22:26,Low
+East Godavari,2025-03-14,04:31,Medium
+Chittoor,2025-02-03,21:00,Low
+Krishna,2025-10-21,10:16,Low
+Kurnool,2025-09-18,00:20,High
+Chittoor,2025-04-17,06:41,Medium
+East Godavari,2025-07-17,23:35,Low
+Prakasam,2025-01-26,11:34,High
+Prakasam,2025-11-12,18:38,Medium
+Nellore,2025-04-02,05:40,Medium
+East Godavari,2025-10-13,12:02,Medium
+Anantapur,2025-04-01,16:15,Low
+Anantapur,2025-07-03,11:15,High
+Chittoor,2025-05-17,07:56,High
+Anantapur,2025-02-02,21:24,Medium
+Nellore,2025-02-09,13:05,High
+Visakhapatnam,2025-10-09,01:23,High
+Krishna,2025-08-21,11:25,Low
+Kurnool,2025-02-04,00:47,Low
+Chittoor,2025-05-05,10:11,Low
+Nellore,2025-03-27,04:26,Medium
+Visakhapatnam,2025-11-21,19:34,Medium
+Anantapur,2025-09-10,08:02,Medium
+Srikakulam,2025-10-14,07:23,Medium
+Nellore,2025-06-08,16:19,High
+East Godavari,2025-09-17,00:46,Medium
+Srikakulam,2025-12-11,01:17,Medium
+Vizianagaram,2025-10-15,18:14,Medium
+West Godavari,2025-06-23,19:39,Low
+Srikakulam,2025-08-11,15:07,Low
+Nellore,2025-02-16,17:11,High
+West Godavari,2025-09-18,20:14,High
+Krishna,2025-05-21,22:10,High
+Chittoor,2025-11-28,11:12,High
+Krishna,2025-02-06,07:37,High
+West Godavari,2025-09-10,12:40,Low
+Kurnool,2025-11-13,13:38,Medium
+East Godavari,2025-07-11,02:00,Low
+Vizianagaram,2025-09-15,22:46,Low
+YSR Kadapa,2025-07-03,04:47,Low
+Chittoor,2025-02-22,05:01,Medium
+Krishna,2025-03-23,15:42,High
+Chittoor,2025-01-20,19:14,Low
+YSR Kadapa,2025-09-22,08:49,High
+Krishna,2025-10-20,07:51,High
+Krishna,2025-03-15,13:07,High
+Krishna,2025-10-17,16:40,Low
+Guntur,2025-10-15,10:32,Medium
+West Godavari,2025-07-26,21:00,Low
+East Godavari,2025-03-28,07:13,Medium
+West Godavari,2025-07-10,10:46,Low
+YSR Kadapa,2025-02-25,09:21,Medium
+Nellore,2025-09-11,23:15,Medium
+Anantapur,2025-11-22,15:09,Low
+Guntur,2025-05-04,08:20,High
+Anantapur,2025-07-11,14:38,Medium
+Krishna,2025-10-21,14:00,Low
+Guntur,2025-07-14,14:05,Medium
+Vizianagaram,2025-03-10,21:32,High
+Prakasam,2025-02-07,03:37,High
+Nellore,2025-10-17,17:40,High
+Krishna,2025-05-11,23:36,Medium
+Srikakulam,2025-12-17,16:57,Low
+Nellore,2025-05-20,18:22,Medium
+Guntur,2025-12-14,06:37,Low
+Krishna,2025-01-14,10:13,High
+Nellore,2025-10-10,20:21,Low
+Krishna,2025-01-26,18:30,High
+Visakhapatnam,2025-02-09,04:38,Medium
+Prakasam,2025-05-01,00:58,Medium
+Visakhapatnam,2025-05-07,02:30,High
+YSR Kadapa,2025-09-11,00:18,High
+Vizianagaram,2025-01-19,03:25,Medium
+YSR Kadapa,2025-09-08,18:48,Medium
+Visakhapatnam,2025-03-19,02:22,High
+Chittoor,2025-02-15,08:33,Medium
+Srikakulam,2025-05-04,20:35,Low
+YSR Kadapa,2025-08-24,20:26,High
+YSR Kadapa,2025-05-23,17:35,Medium
+Krishna,2025-08-08,00:28,Low
+Krishna,2025-04-16,12:53,Low
+East Godavari,2025-11-12,17:18,Medium
+Chittoor,2025-09-22,08:56,Medium
+Visakhapatnam,2025-04-23,16:57,High
+Anantapur,2025-11-22,04:32,Medium
+Guntur,2025-08-18,11:49,Low
+Nellore,2025-06-10,18:50,High
+Srikakulam,2025-06-24,19:27,Medium
+Nellore,2025-07-12,18:35,High
+Anantapur,2025-10-17,09:10,Medium
+Visakhapatnam,2025-12-13,14:16,Medium
+Kurnool,2025-12-08,17:52,Medium
+Prakasam,2025-04-15,18:48,Medium
+Visakhapatnam,2025-01-17,13:11,High
+Prakasam,2025-02-21,00:26,High
+Chittoor,2025-07-26,08:52,High
+East Godavari,2025-08-07,14:50,Low
+Guntur,2025-02-26,06:47,High
+Visakhapatnam,2025-06-15,06:10,High
+East Godavari,2025-11-26,05:17,Medium
+Prakasam,2025-05-14,19:05,Low
+Krishna,2025-09-25,10:23,Medium
+Krishna,2025-01-15,15:33,Low
+East Godavari,2025-01-23,21:24,Medium
+YSR Kadapa,2025-11-14,16:39,Medium
+Anantapur,2025-10-20,09:06,Low
+Vizianagaram,2025-04-11,01:38,High
+East Godavari,2025-10-12,16:02,Low
+Krishna,2025-12-13,15:13,Low
+YSR Kadapa,2025-12-08,05:56,Low
+Krishna,2025-03-02,13:49,Medium
+Anantapur,2025-02-16,15:52,Low
+Srikakulam,2025-06-03,07:42,Low
+Nellore,2025-11-03,19:12,High
+Guntur,2025-06-05,08:39,Medium
+Chittoor,2025-08-17,19:19,High
+West Godavari,2025-09-02,08:30,Medium
+Kurnool,2025-08-21,12:18,Low
+Nellore,2025-02-21,17:34,Medium
+Chittoor,2025-04-24,21:56,Low
+Prakasam,2025-05-02,18:36,Medium
+Prakasam,2025-12-10,13:39,High
+Krishna,2025-10-02,22:58,Medium
+Srikakulam,2025-11-06,15:01,High
+Prakasam,2025-01-28,17:34,Medium
+Anantapur,2025-02-11,11:37,High
+Srikakulam,2025-08-19,02:55,Low
+Krishna,2025-06-18,23:38,Low
+East Godavari,2025-02-25,04:09,High
+Anantapur,2025-06-12,00:22,High
+Kurnool,2025-11-13,15:27,Low
+Krishna,2025-10-16,04:53,Low
+Prakasam,2025-02-23,15:03,High
+Kurnool,2025-04-08,06:07,Medium
+Kurnool,2025-02-04,11:27,Medium
+Prakasam,2025-12-23,01:00,Medium
+Chittoor,2025-10-25,20:16,Low
+Visakhapatnam,2025-08-07,20:29,High
+Kurnool,2025-04-24,09:14,High
+Kurnool,2025-02-25,20:50,Low
+Srikakulam,2025-01-18,04:04,Low
+Srikakulam,2025-03-21,00:28,Medium
+West Godavari,2025-09-11,17:38,Medium
+Guntur,2025-05-06,22:54,High
+Kurnool,2025-06-08,07:01,Medium
+Vizianagaram,2025-08-08,19:04,Low
+Chittoor,2025-11-07,09:35,Low
+West Godavari,2025-01-22,17:57,Low
+Srikakulam,2025-10-07,09:42,Medium
+YSR Kadapa,2025-09-03,09:44,Low
+East Godavari,2025-03-11,07:04,Low
+YSR Kadapa,2025-09-12,19:29,High
+Guntur,2025-03-03,02:29,High
+Krishna,2025-01-27,17:54,High
+Guntur,2025-04-14,04:56,High
+Srikakulam,2025-10-03,15:13,Medium
+Kurnool,2025-06-14,01:07,Medium
+Chittoor,2025-11-14,06:13,Medium
+Anantapur,2025-10-08,23:28,High
+Guntur,2025-05-10,08:34,High
+Anantapur,2025-11-19,01:22,High
+West Godavari,2025-11-13,07:50,Medium
+Anantapur,2025-10-15,00:04,High
+Chittoor,2025-10-22,17:46,Medium
+Krishna,2025-02-17,03:13,High
+Anantapur,2025-12-08,03:08,High
+YSR Kadapa,2025-11-09,09:41,High
+Guntur,2025-03-10,10:52,High
+Vizianagaram,2025-09-21,15:19,Medium
+YSR Kadapa,2025-11-15,18:26,Low
+Vizianagaram,2025-03-23,01:24,Medium
+Nellore,2025-03-08,23:45,Medium
+Krishna,2025-06-03,17:50,High
+Nellore,2025-07-20,22:42,Low
+Chittoor,2025-11-03,08:00,Medium
+YSR Kadapa,2025-05-10,12:44,Low
+West Godavari,2025-11-23,11:06,High
+Visakhapatnam,2025-08-12,23:38,Medium
+YSR Kadapa,2025-08-01,01:12,Medium
+West Godavari,2025-05-24,01:52,Low
+Krishna,2025-11-18,17:53,Low
+Visakhapatnam,2025-02-08,22:02,Medium
+Anantapur,2025-02-13,05:57,High
+East Godavari,2025-09-15,14:33,High
+YSR Kadapa,2025-05-28,20:10,Medium
+Prakasam,2025-04-10,00:50,Medium
+Anantapur,2025-04-26,22:01,High
+YSR Kadapa,2025-07-27,07:51,High
+Prakasam,2025-06-18,00:48,Medium
+Chittoor,2025-06-22,10:55,Medium
+Chittoor,2025-04-11,23:45,Low
+Guntur,2025-08-13,06:45,Low
+Visakhapatnam,2025-07-14,15:51,Medium
+West Godavari,2025-01-15,17:56,High
+Krishna,2025-10-13,12:18,Medium
+YSR Kadapa,2025-11-23,17:38,High
+Prakasam,2025-12-21,11:06,Low
+Nellore,2025-05-11,08:50,Low
+YSR Kadapa,2025-11-13,00:44,Low
+Anantapur,2025-05-02,01:28,Low
+Chittoor,2025-03-06,08:28,Medium
+East Godavari,2025-04-27,20:01,Medium
+Krishna,2025-12-07,01:01,Medium
+Guntur,2025-03-27,18:27,Low
+Vizianagaram,2025-11-01,03:51,Medium
+East Godavari,2025-08-18,22:25,Low
+Prakasam,2025-12-27,01:25,Low
+Nellore,2025-05-27,15:54,High
+Prakasam,2025-03-04,05:01,Medium
+Prakasam,2025-12-21,12:23,High
+YSR Kadapa,2025-08-19,20:27,Medium
+West Godavari,2025-09-21,08:25,Low
+Visakhapatnam,2025-01-21,06:59,Medium
+Srikakulam,2025-06-15,17:55,Low
+Krishna,2025-11-27,22:19,Low
+Visakhapatnam,2025-12-24,10:21,Low
+Krishna,2025-08-20,09:33,Low
+Nellore,2025-12-16,23:12,Medium
+Nellore,2025-03-22,10:03,Medium
+Nellore,2025-11-20,12:12,Low
+West Godavari,2025-08-25,09:43,High
+Prakasam,2025-09-13,10:05,High
+Guntur,2025-11-11,22:25,High
+Chittoor,2025-04-04,01:19,Low
+Vizianagaram,2025-10-27,15:40,High
+Srikakulam,2025-05-23,16:13,Low
+Visakhapatnam,2025-06-17,05:37,Medium
+YSR Kadapa,2025-01-01,00:01,Low
+Nellore,2025-11-17,04:08,Medium
+East Godavari,2025-07-13,10:09,Low
+Chittoor,2025-12-25,03:31,Low
+West Godavari,2025-06-21,15:19,Medium
+Vizianagaram,2025-10-08,08:22,Medium
+Anantapur,2025-12-28,04:42,Low
+Krishna,2025-11-02,11:25,Medium
+YSR Kadapa,2025-03-11,21:08,Medium
+Chittoor,2025-01-06,12:03,Low
+YSR Kadapa,2025-07-24,06:56,Medium
+Nellore,2025-07-21,14:41,High
+YSR Kadapa,2025-09-06,03:12,Medium
+Srikakulam,2025-01-21,21:13,Low
+Vizianagaram,2025-01-24,01:50,Medium
+Nellore,2025-11-09,14:14,High
+Prakasam,2025-11-04,08:52,Medium
+Anantapur,2025-12-06,17:03,Medium
+Kurnool,2025-05-22,07:02,High
+Prakasam,2025-09-24,13:07,High
+Krishna,2025-10-27,03:19,Medium
+West Godavari,2025-06-27,06:29,High
+Nellore,2025-02-17,01:49,Low
+Guntur,2025-09-09,02:26,Medium
+Visakhapatnam,2025-09-14,01:07,Low
+Prakasam,2025-07-06,15:08,Medium
+Chittoor,2025-11-04,03:41,Medium
+YSR Kadapa,2025-01-15,08:00,High
+West Godavari,2025-11-03,06:13,High
+Nellore,2025-07-01,08:44,Low
+Srikakulam,2025-03-17,16:28,High
+Visakhapatnam,2025-11-23,06:21,Medium
+Prakasam,2025-07-16,10:35,Low
+Anantapur,2025-12-11,11:21,Medium
+West Godavari,2025-01-24,14:30,Low
+Chittoor,2025-09-05,04:00,High
+Krishna,2025-12-24,21:19,Medium
+East Godavari,2025-06-21,21:47,Low
+West Godavari,2025-09-01,18:30,Medium
+YSR Kadapa,2025-05-18,14:09,Low
+YSR Kadapa,2025-03-03,23:46,High
+Kurnool,2025-12-04,10:18,Low
+Srikakulam,2025-12-21,04:35,Medium
+Anantapur,2025-09-23,01:31,High
+YSR Kadapa,2025-07-02,19:59,Medium
+Vizianagaram,2025-07-07,21:15,High
+Krishna,2025-08-09,03:15,High
+Srikakulam,2025-06-12,23:55,High
+YSR Kadapa,2025-12-07,10:46,High
+Guntur,2025-04-09,01:55,Low
+Krishna,2025-05-05,22:36,High
+Visakhapatnam,2025-01-24,06:14,High
+Prakasam,2025-01-12,14:17,Medium
+Vizianagaram,2025-05-19,20:00,Medium
+West Godavari,2025-04-06,12:38,Low
+Visakhapatnam,2025-05-25,00:56,Medium
+Srikakulam,2025-04-07,05:43,Medium
+Chittoor,2025-04-17,17:34,High
+Anantapur,2025-03-20,00:57,Medium
+Kurnool,2025-06-05,09:17,High
+Visakhapatnam,2025-01-10,17:49,High
+West Godavari,2025-02-01,16:10,High
+Nellore,2025-09-23,13:07,Low
+Vizianagaram,2025-05-26,12:02,Low
+Anantapur,2025-12-03,08:22,High
+Prakasam,2025-12-15,03:43,High
+Prakasam,2025-06-28,08:43,Low
+Srikakulam,2025-12-11,05:50,Low
+Guntur,2025-06-02,22:55,Low
+Anantapur,2025-08-14,08:04,Medium
+Guntur,2025-03-22,12:35,Low
+Chittoor,2025-09-04,04:00,Medium
+East Godavari,2025-02-05,03:18,Low
+Visakhapatnam,2025-01-26,08:12,Low
+Krishna,2025-02-11,08:42,High
+Anantapur,2025-06-28,20:30,Low
+East Godavari,2025-07-28,04:37,High
+Krishna,2025-08-04,14:39,Low
+Anantapur,2025-09-11,22:14,Low
+Anantapur,2025-03-06,16:49,Medium
+East Godavari,2025-10-08,14:40,Medium
+Kurnool,2025-02-20,02:26,High
+Anantapur,2025-03-23,10:23,Medium
+Srikakulam,2025-09-23,12:49,Medium
+East Godavari,2025-12-07,14:42,High
+YSR Kadapa,2025-07-06,01:58,Medium
+Chittoor,2025-06-13,21:59,Low
+YSR Kadapa,2025-11-18,23:55,Low
+YSR Kadapa,2025-03-04,12:51,High
+Srikakulam,2025-10-27,02:16,High
+Kurnool,2025-07-03,12:38,High
+Chittoor,2025-02-02,13:08,Low
+Kurnool,2025-10-02,04:06,Medium
+Nellore,2025-12-20,05:53,High
+Anantapur,2025-03-09,01:32,High
+Chittoor,2025-05-02,16:43,High
+East Godavari,2025-02-13,05:29,Low
+Guntur,2025-05-02,04:16,Low
+West Godavari,2025-05-27,11:29,Low
+Visakhapatnam,2025-03-03,01:52,Low
+Srikakulam,2025-03-27,01:52,High
+Chittoor,2025-12-03,10:36,Medium
+Srikakulam,2025-12-28,00:36,Medium
+East Godavari,2025-04-17,18:06,Low
+Visakhapatnam,2025-04-24,23:06,Medium
+Krishna,2025-12-04,10:32,Low
+East Godavari,2025-12-07,06:41,Low
+West Godavari,2025-11-07,09:29,High
+YSR Kadapa,2025-09-18,22:08,High
+Nellore,2025-09-01,01:15,High
+Vizianagaram,2025-04-18,01:58,High
+Vizianagaram,2025-04-25,08:01,Medium
+Kurnool,2025-01-19,10:13,Low
+West Godavari,2025-08-12,16:17,Medium
+Anantapur,2025-02-21,20:12,High
+Srikakulam,2025-07-05,17:08,Medium
+Nellore,2025-06-25,02:36,Low
+Visakhapatnam,2025-03-13,13:59,Medium
+Nellore,2025-08-22,17:46,Medium
+East Godavari,2025-04-15,12:47,Low
+Kurnool,2025-06-18,19:54,Medium
+Krishna,2025-11-09,09:06,Low
+Guntur,2025-11-12,01:58,High
+Visakhapatnam,2025-08-21,17:36,Medium
+Anantapur,2025-07-02,23:29,Low
+Prakasam,2025-11-01,12:43,Low
+Nellore,2025-03-12,11:36,Low
+Visakhapatnam,2025-12-01,02:59,Medium
+West Godavari,2025-11-11,22:12,Low
+West Godavari,2025-05-13,07:21,Medium
+Nellore,2025-05-06,04:00,Medium
+YSR Kadapa,2025-08-25,13:50,High
+Anantapur,2025-06-08,16:40,Medium
+Krishna,2025-01-13,15:46,High
+East Godavari,2025-06-09,02:43,High
+Srikakulam,2025-02-04,18:42,Low
+Prakasam,2025-07-10,18:45,Medium
+Srikakulam,2025-06-13,03:09,Medium
+Guntur,2025-03-04,09:12,Low
+Visakhapatnam,2025-02-01,03:07,High
+Krishna,2025-01-20,19:06,Medium
+Anantapur,2025-11-01,19:48,Medium
+East Godavari,2025-08-11,19:49,High
+Nellore,2025-11-16,19:23,Medium
+West Godavari,2025-06-03,14:44,High
+YSR Kadapa,2025-07-12,18:28,Medium
+Kurnool,2025-08-15,22:26,High
+Srikakulam,2025-07-20,05:03,Medium
+Vizianagaram,2025-03-08,07:19,Low
+Anantapur,2025-02-21,13:18,Medium
+Krishna,2025-10-25,04:10,Low
+East Godavari,2025-07-27,09:09,Medium
+Kurnool,2025-09-28,12:31,Medium
+Prakasam,2025-08-26,00:15,High
+Nellore,2025-10-07,22:17,High
+Chittoor,2025-03-02,20:04,Low
+Prakasam,2025-02-05,17:26,High
+Guntur,2025-01-12,19:01,High
+Kurnool,2025-12-27,12:01,Low
+Guntur,2025-12-05,13:03,Low
+Nellore,2025-09-17,04:17,Medium
+Chittoor,2025-04-16,00:25,High
+Chittoor,2025-03-27,14:57,Medium
+Guntur,2025-02-05,03:54,Medium
+Kurnool,2025-06-11,05:40,Medium
+Prakasam,2025-05-19,07:08,Medium
+Srikakulam,2025-09-25,14:03,Low
+Nellore,2025-12-28,14:29,Low
+Guntur,2025-03-26,01:26,High
+YSR Kadapa,2025-04-11,04:09,High
+Guntur,2025-09-24,14:26,High
+Visakhapatnam,2025-03-10,00:27,Medium
+Kurnool,2025-11-20,07:53,High
+Anantapur,2025-06-13,10:12,Low
+Vizianagaram,2025-04-21,00:36,High
+Guntur,2025-12-17,12:19,High
+Vizianagaram,2025-07-13,17:34,High
+Kurnool,2025-09-12,12:55,Medium
+East Godavari,2025-10-27,18:53,Low
+Anantapur,2025-05-20,10:42,High
+Vizianagaram,2025-08-27,03:32,Medium
+Nellore,2025-03-09,00:28,Medium
+Srikakulam,2025-05-17,01:17,Low
+Anantapur,2025-01-18,19:53,Medium
+YSR Kadapa,2025-06-19,23:42,High
+Srikakulam,2025-09-01,03:06,Low
+Chittoor,2025-04-07,18:38,High
+Srikakulam,2025-11-20,19:32,High
+Prakasam,2025-05-18,00:12,High
+Srikakulam,2025-06-02,23:30,Medium
+Prakasam,2025-03-17,17:53,High
+Srikakulam,2025-08-21,17:45,Medium
+East Godavari,2025-07-27,07:14,Medium
+Chittoor,2025-06-23,02:30,High
+Anantapur,2025-02-20,11:43,High
+Nellore,2025-05-15,13:53,Low
+Krishna,2025-05-25,22:05,Low
+East Godavari,2025-08-25,10:03,Low
+Srikakulam,2025-12-02,00:12,Medium
+Prakasam,2025-06-20,00:51,Medium
+Vizianagaram,2025-06-01,03:55,High
+Prakasam,2025-09-21,20:55,High
+Guntur,2025-05-26,02:40,Low
+Visakhapatnam,2025-05-16,18:30,High
+Visakhapatnam,2025-02-19,12:13,High
+Prakasam,2025-08-06,22:42,Medium
+Prakasam,2025-09-27,04:01,Medium
+Srikakulam,2025-09-13,08:35,Medium
+Krishna,2025-08-05,02:55,Low
+Kurnool,2025-07-18,09:53,Low
+Visakhapatnam,2025-05-23,11:33,Medium
+Srikakulam,2025-09-16,18:14,Medium
+Kurnool,2025-08-19,00:05,Low
+East Godavari,2025-10-09,06:26,Medium
+Nellore,2025-08-14,14:29,Low
+Kurnool,2025-02-08,09:20,High
+Anantapur,2025-06-19,19:08,Low
+Nellore,2025-10-15,10:59,Low
+Vizianagaram,2025-01-22,21:44,High
+Anantapur,2025-04-11,22:05,Low
+Krishna,2025-01-06,01:01,Low
+Anantapur,2025-03-13,01:09,Medium
+Krishna,2025-06-09,06:04,Low
+Guntur,2025-09-12,13:33,High
+Visakhapatnam,2025-01-17,23:21,Low
+Chittoor,2025-06-10,17:24,Medium
+Krishna,2025-12-17,20:39,Medium
+Vizianagaram,2025-12-16,10:51,Low
+Nellore,2025-06-15,13:30,Low
+Krishna,2025-02-04,11:27,Low
+Kurnool,2025-02-11,09:35,High
+Nellore,2025-09-25,19:36,Medium
+Guntur,2025-09-28,04:09,Medium
+Kurnool,2025-07-22,23:27,Low
+Guntur,2025-09-15,15:44,High
+Visakhapatnam,2025-03-04,05:46,Low
+Visakhapatnam,2025-04-26,17:36,Medium
+West Godavari,2025-09-13,08:21,High
+Visakhapatnam,2025-05-07,04:29,Medium
+West Godavari,2025-04-13,01:11,High
+Vizianagaram,2025-11-08,21:59,Medium
+Krishna,2025-06-12,08:50,High
+Prakasam,2025-09-26,10:01,Low
+Chittoor,2025-02-10,04:31,Low
+Vizianagaram,2025-08-28,01:28,Low
+Nellore,2025-03-22,20:01,High
+Krishna,2025-01-24,06:19,Medium
+Prakasam,2025-12-07,09:14,Low
+Srikakulam,2025-10-19,14:29,High
+Anantapur,2025-11-13,03:15,Medium
+West Godavari,2025-01-21,21:14,Low
+Visakhapatnam,2025-06-21,19:58,Medium
+YSR Kadapa,2025-07-21,21:18,High
+Prakasam,2025-10-04,14:28,Low
+Anantapur,2025-02-03,21:40,Medium
+East Godavari,2025-09-14,14:58,Medium
+Krishna,2025-10-12,17:10,Low
+Vizianagaram,2025-11-15,23:45,High
+Chittoor,2025-03-17,12:44,Medium
+Visakhapatnam,2025-07-21,21:23,High
+Kurnool,2025-01-05,17:35,High
+East Godavari,2025-09-24,21:54,Low
+Kurnool,2025-04-11,09:56,High
+Prakasam,2025-08-28,13:43,High
+Nellore,2025-08-04,02:23,High
+YSR Kadapa,2025-09-23,19:11,High
+Guntur,2025-12-14,16:00,High
+Srikakulam,2025-03-10,15:48,Low
+Guntur,2025-05-13,07:46,High
+Anantapur,2025-08-01,20:29,Low
+Nellore,2025-06-09,19:53,Medium
+Anantapur,2025-05-17,23:19,High
+Krishna,2025-02-25,02:53,Low
+Nellore,2025-07-22,01:02,Medium
+Prakasam,2025-05-28,23:14,High
+Chittoor,2025-01-14,19:50,Low
+Vizianagaram,2025-03-07,03:05,Low
+Chittoor,2025-08-25,11:30,High
+Srikakulam,2025-09-10,05:24,Medium
+Kurnool,2025-06-20,09:49,Low
+YSR Kadapa,2025-02-12,11:08,Medium
+Vizianagaram,2025-01-09,17:25,High
+Visakhapatnam,2025-03-09,08:12,Medium
+Srikakulam,2025-06-17,03:30,Medium
+Chittoor,2025-09-23,13:29,Low
+West Godavari,2025-09-18,00:41,Medium
+Chittoor,2025-01-14,18:56,Medium
+Guntur,2025-09-18,03:08,High
+Kurnool,2025-10-22,13:35,Low
+West Godavari,2025-07-10,00:03,Medium
+West Godavari,2025-10-14,13:49,Low
+Visakhapatnam,2025-09-27,10:06,High
+Kurnool,2025-07-27,23:55,Medium
+Srikakulam,2025-08-21,21:14,High
+West Godavari,2025-04-27,23:16,Medium
+YSR Kadapa,2025-01-23,01:39,High
+Prakasam,2025-07-11,00:16,Medium
+Visakhapatnam,2025-05-01,22:17,Medium
+Nellore,2025-04-14,12:46,Medium
+Anantapur,2025-05-02,21:59,Low
+Kurnool,2025-03-17,12:40,High
+Visakhapatnam,2025-02-23,17:45,Low
+Vizianagaram,2025-02-24,23:24,Low
+YSR Kadapa,2025-02-06,13:03,High
+Kurnool,2025-04-26,21:10,Low
+YSR Kadapa,2025-03-11,21:32,Medium
+Anantapur,2025-03-12,03:44,Low
+Nellore,2025-04-18,16:17,Medium
+Srikakulam,2025-01-19,04:40,Medium
+Kurnool,2025-09-23,21:58,Low
+Visakhapatnam,2025-02-19,19:52,High
+Krishna,2025-09-07,07:21,Low
+Vizianagaram,2025-05-04,13:22,High
+Nellore,2025-08-20,21:28,Low
+Visakhapatnam,2025-03-14,01:52,Medium
+Prakasam,2025-12-23,12:55,High
+Vizianagaram,2025-05-15,19:36,High
+East Godavari,2025-10-09,18:27,High
+Kurnool,2025-04-18,22:29,Low
+West Godavari,2025-06-14,16:35,High
+Visakhapatnam,2025-06-19,17:47,Low
+Krishna,2025-06-22,05:29,Low
+Anantapur,2025-12-28,10:25,Low
+YSR Kadapa,2025-04-12,10:51,Low
+West Godavari,2025-10-11,13:08,Medium
+Guntur,2025-09-07,00:07,High
+Anantapur,2025-10-05,13:19,Medium
+YSR Kadapa,2025-08-17,13:27,Medium
+Kurnool,2025-01-23,03:51,Medium
+Chittoor,2025-06-12,00:10,High
+Srikakulam,2025-02-07,15:47,Low
+Guntur,2025-11-07,12:15,High
+Nellore,2025-08-09,12:02,Medium
+Prakasam,2025-05-06,07:33,Medium
+Krishna,2025-12-08,18:16,Low
+Visakhapatnam,2025-11-15,00:40,Low
+Visakhapatnam,2025-07-23,06:32,High
+Kurnool,2025-11-13,17:21,High
+Nellore,2025-09-14,06:01,Medium
+West Godavari,2025-01-21,12:27,Low
+West Godavari,2025-08-08,21:33,Low
+West Godavari,2025-02-04,04:00,High
+West Godavari,2025-11-18,20:04,High
+Prakasam,2025-06-27,19:22,Medium
+Anantapur,2025-11-21,16:06,High
+Chittoor,2025-08-14,02:06,Medium
+Prakasam,2025-11-16,01:14,Medium
+YSR Kadapa,2025-03-11,10:12,High
+Guntur,2025-04-27,15:55,High
+Krishna,2025-03-10,19:46,Medium
+YSR Kadapa,2025-11-21,00:59,Low
+East Godavari,2025-04-11,23:02,Low
+Chittoor,2025-03-26,11:04,High
+Prakasam,2025-10-14,11:42,High
+Srikakulam,2025-11-04,21:02,High
+Kurnool,2025-03-04,06:04,High
+Guntur,2025-08-09,12:21,Low
+West Godavari,2025-09-04,00:32,Medium
+Krishna,2025-02-09,00:51,Low
+West Godavari,2025-01-23,11:33,Low
+Anantapur,2025-03-10,00:28,Low
+Vizianagaram,2025-12-03,12:04,Low
+Krishna,2025-05-04,16:50,Low
+Nellore,2025-11-03,02:55,High
+East Godavari,2025-05-04,04:31,Low
+Kurnool,2025-03-09,02:54,Medium
+Anantapur,2025-05-02,12:37,Low
+Srikakulam,2025-06-14,20:48,High
+Chittoor,2025-03-14,14:48,High
+East Godavari,2025-01-13,18:14,Medium
+YSR Kadapa,2025-05-15,00:17,Medium
+Kurnool,2025-01-28,01:15,High
+Kurnool,2025-03-26,06:49,High
+Prakasam,2025-02-05,20:41,Low
+Prakasam,2025-08-25,09:02,Low
+Srikakulam,2025-10-17,00:07,Low
+Nellore,2025-10-10,14:28,Low
+Krishna,2025-07-23,11:00,High
+Anantapur,2025-02-11,02:08,Medium
+Srikakulam,2025-05-13,13:22,Medium
+Prakasam,2025-07-19,16:20,High
+Prakasam,2025-09-15,09:44,High
+Visakhapatnam,2025-10-06,15:35,Medium
+YSR Kadapa,2025-05-19,08:20,Medium
+East Godavari,2025-07-24,07:17,Low
+Srikakulam,2025-12-22,20:55,Medium
+West Godavari,2025-02-19,04:31,Low
+YSR Kadapa,2025-10-12,18:20,Low
+West Godavari,2025-06-14,13:11,High
+Vizianagaram,2025-01-10,17:23,High
+Anantapur,2025-08-01,02:37,Low
+Prakasam,2025-10-05,17:58,Medium
+Vizianagaram,2025-07-25,05:40,High
+Prakasam,2025-10-17,10:25,Low
+Vizianagaram,2025-02-04,05:23,Low
+Srikakulam,2025-06-14,01:20,High
+Guntur,2025-02-13,06:09,Low
+Visakhapatnam,2025-05-24,02:26,Medium
+YSR Kadapa,2025-10-15,16:15,Medium
+Anantapur,2025-10-26,15:02,Low
+Guntur,2025-02-01,15:22,Medium
+Anantapur,2025-10-16,19:27,High
+Anantapur,2025-01-05,14:34,Low
+YSR Kadapa,2025-12-26,06:52,Low
+YSR Kadapa,2025-11-13,01:16,Low
+Vizianagaram,2025-02-25,21:15,Medium
+Chittoor,2025-02-21,12:27,Medium
+East Godavari,2025-07-13,01:25,Low
+Nellore,2025-05-18,06:17,Medium
+East Godavari,2025-12-25,06:58,High
+Anantapur,2025-02-21,22:08,Low
+Prakasam,2025-07-18,18:52,High
+Krishna,2025-08-09,23:43,Medium
+Nellore,2025-04-24,10:43,Medium
+Anantapur,2025-10-02,20:58,High
+Srikakulam,2025-09-02,06:04,Low
+Chittoor,2025-02-18,19:11,High
+West Godavari,2025-10-14,05:12,High
+Krishna,2025-03-01,21:37,Low
+Vizianagaram,2025-07-13,05:39,High
+Vizianagaram,2025-07-21,22:14,High
+Vizianagaram,2025-07-28,21:52,High
+Srikakulam,2025-04-04,04:43,High
+Prakasam,2025-05-15,08:52,Medium
+East Godavari,2025-04-12,15:05,High
+Krishna,2025-06-05,12:19,High
+Chittoor,2025-12-03,15:45,Medium
+West Godavari,2025-11-07,01:16,Low
+YSR Kadapa,2025-09-03,05:47,High
+East Godavari,2025-07-21,06:06,Medium
+East Godavari,2025-05-06,20:00,High
+Anantapur,2025-02-13,13:15,Medium
+Prakasam,2025-03-19,11:34,High
+Guntur,2025-05-24,10:27,Medium
+Anantapur,2025-10-15,03:06,Low
+Kurnool,2025-12-11,04:51,High
+Krishna,2025-02-07,13:41,Low
+Prakasam,2025-07-04,15:47,Medium
+Krishna,2025-12-14,03:15,Low
+Chittoor,2025-11-01,23:20,Low
+Visakhapatnam,2025-03-12,23:43,Low
+Nellore,2025-04-24,06:55,Medium
+Kurnool,2025-05-03,07:16,High
+Nellore,2025-09-02,04:50,Low
+West Godavari,2025-01-23,23:05,High
+Visakhapatnam,2025-09-14,14:50,Low
+East Godavari,2025-07-10,19:27,Low
+Chittoor,2025-07-26,17:00,Medium
+Vizianagaram,2025-06-17,14:46,Medium
+Visakhapatnam,2025-04-04,00:00,Low
+Krishna,2025-08-17,08:23,Medium
+YSR Kadapa,2025-02-08,23:48,Medium
+Srikakulam,2025-06-25,23:50,Medium
+Anantapur,2025-05-03,17:50,High
+Kurnool,2025-11-04,06:54,Low
+Guntur,2025-06-20,02:11,Medium
+West Godavari,2025-12-25,00:01,High
+Anantapur,2025-01-13,18:46,Low
+East Godavari,2025-03-20,10:11,Low
+YSR Kadapa,2025-08-26,02:00,Low
+Visakhapatnam,2025-07-15,05:52,Low
+Guntur,2025-11-09,03:08,Medium
+West Godavari,2025-12-21,18:13,High
+Kurnool,2025-12-21,18:58,High
+Krishna,2025-02-19,07:47,Medium
+Guntur,2025-01-26,17:01,High
+Guntur,2025-02-18,02:21,Low
+Srikakulam,2025-01-17,13:49,High
+Krishna,2025-10-16,02:51,Low
+West Godavari,2025-05-24,05:44,High
+Vizianagaram,2025-09-25,22:51,Medium
+Kurnool,2025-01-02,06:03,Medium
+East Godavari,2025-01-23,02:35,Medium
+Guntur,2025-10-14,00:54,High
+Chittoor,2025-06-18,20:49,Low
+Chittoor,2025-12-16,07:58,High
+Vizianagaram,2025-04-16,05:12,Medium
+Nellore,2025-07-09,18:16,Low
+Anantapur,2025-12-07,04:18,Low
+Krishna,2025-05-21,23:39,High
+Srikakulam,2025-06-08,16:16,Medium
+Vizianagaram,2025-12-22,09:52,High
+Srikakulam,2025-06-06,18:33,Low
+Nellore,2025-06-22,16:40,High
+Kurnool,2025-01-12,07:59,High
+Chittoor,2025-05-20,17:36,Low
+YSR Kadapa,2025-02-11,19:20,High
+Prakasam,2025-03-01,11:13,High
+Krishna,2025-04-21,11:21,Low
+YSR Kadapa,2025-10-25,14:55,Medium
+Guntur,2025-08-24,13:39,Low
+Nellore,2025-03-17,13:21,Medium
+YSR Kadapa,2025-10-08,00:15,High
+Guntur,2025-06-04,12:42,Low
+Krishna,2025-11-02,16:26,Medium
+Prakasam,2025-01-23,09:09,Medium
+Krishna,2025-11-11,09:04,Low
+Prakasam,2025-01-24,11:03,Low
+Visakhapatnam,2025-08-01,17:59,Medium
+Krishna,2025-05-01,06:54,Low
+Nellore,2025-10-20,00:11,Low
+Chittoor,2025-02-21,04:46,High
+Guntur,2025-04-26,01:48,High
+Guntur,2025-08-05,20:46,Low
+YSR Kadapa,2025-03-23,00:09,High
+Krishna,2025-02-06,12:52,High
+Krishna,2025-09-04,20:16,High
+Chittoor,2025-12-13,18:14,High
+Anantapur,2025-08-28,16:55,High
+YSR Kadapa,2025-09-28,04:06,Low
+Vizianagaram,2025-05-21,22:35,Low
+Kurnool,2025-10-09,17:20,High
+Vizianagaram,2025-06-08,04:35,Medium
+West Godavari,2025-09-20,05:32,High
+East Godavari,2025-02-26,18:29,Medium
+West Godavari,2025-11-04,22:56,Medium
+Visakhapatnam,2025-11-15,05:49,High
+Kurnool,2025-11-03,22:11,Medium
+Guntur,2025-01-24,00:09,High
+Guntur,2025-01-27,18:35,High
+YSR Kadapa,2025-04-02,11:10,Low
+Guntur,2025-07-03,03:26,Medium
+Prakasam,2025-01-04,16:09,High
+West Godavari,2025-01-27,11:58,Low
+East Godavari,2025-10-08,11:09,Low
+East Godavari,2025-07-07,13:39,Low
+Chittoor,2025-01-17,14:42,Medium
+Chittoor,2025-08-01,10:34,Low
+Vizianagaram,2025-10-20,01:19,High
+Krishna,2025-08-11,23:15,Low
+Anantapur,2025-11-14,14:18,High
+Anantapur,2025-11-19,04:49,High
+Prakasam,2025-12-15,12:56,Low
+Anantapur,2025-05-28,23:57,Medium
+Chittoor,2025-02-18,06:01,Low
+Chittoor,2025-11-08,08:27,Medium
+Srikakulam,2025-09-28,21:36,Medium
+YSR Kadapa,2025-02-18,15:48,High
+Anantapur,2025-08-25,01:19,Medium
+Chittoor,2025-05-03,08:19,Medium
+Srikakulam,2025-03-15,11:59,High
+Prakasam,2025-10-17,22:04,Medium
+Vizianagaram,2025-10-18,12:29,High
+West Godavari,2025-08-13,05:59,Medium
+Prakasam,2025-01-02,04:55,Medium
+Srikakulam,2025-07-22,17:41,Low
+Kurnool,2025-05-18,18:48,High
+East Godavari,2025-11-27,11:27,High
+Vizianagaram,2025-07-05,09:11,Medium
+Vizianagaram,2025-08-28,08:13,High
+Krishna,2025-12-21,20:27,Low
+Kurnool,2025-09-06,03:07,Medium
+East Godavari,2025-10-26,15:33,Low
+YSR Kadapa,2025-02-22,07:41,Medium
+Chittoor,2025-02-15,22:01,High
+Kurnool,2025-03-18,08:37,Medium
+West Godavari,2025-10-03,02:00,Low
+YSR Kadapa,2025-04-11,01:25,Low
+East Godavari,2025-07-22,13:25,High
+YSR Kadapa,2025-02-26,06:48,Medium
+Prakasam,2025-02-17,11:53,Low
+Kurnool,2025-06-21,23:24,Low
+Krishna,2025-05-13,11:52,Low
+Visakhapatnam,2025-03-22,00:42,Low
+Guntur,2025-06-25,11:14,High
+Krishna,2025-10-14,01:28,Low
+Vizianagaram,2025-05-23,00:06,Low
+Prakasam,2025-11-26,21:15,High
+East Godavari,2025-05-27,22:28,Low
+Nellore,2025-10-12,21:33,High
+Kurnool,2025-04-14,06:37,High
+East Godavari,2025-03-19,04:59,Low
+Nellore,2025-07-15,03:52,Medium
+Srikakulam,2025-10-18,23:52,High
+Nellore,2025-03-21,14:14,High
+Visakhapatnam,2025-07-21,21:21,Medium
+East Godavari,2025-06-26,17:14,Medium
+Guntur,2025-07-13,06:47,Medium
+Guntur,2025-08-21,12:23,High
+Kurnool,2025-10-04,01:18,Low
+Chittoor,2025-01-20,23:26,High
+Visakhapatnam,2025-05-21,16:56,High
+Prakasam,2025-11-09,12:08,Medium
+Kurnool,2025-07-20,09:17,High
+YSR Kadapa,2025-09-15,10:10,Low
+West Godavari,2025-07-09,06:14,High
+Anantapur,2025-03-16,10:27,Low
+YSR Kadapa,2025-06-16,04:11,Low
+YSR Kadapa,2025-01-27,22:08,Low
+YSR Kadapa,2025-12-04,08:12,Low
+Nellore,2025-06-03,10:25,Medium
+Prakasam,2025-11-20,03:39,High
+YSR Kadapa,2025-12-26,18:30,High
+YSR Kadapa,2025-09-14,20:58,Medium
+East Godavari,2025-06-10,11:44,Medium
+YSR Kadapa,2025-11-05,11:17,High
+Prakasam,2025-02-02,16:46,Medium
+Nellore,2025-10-02,09:46,Low
+Nellore,2025-02-03,03:05,Medium
+Srikakulam,2025-02-28,15:36,Medium
+Srikakulam,2025-11-27,09:16,Medium
+Anantapur,2025-07-17,23:41,High
+Chittoor,2025-09-07,09:58,High
+Guntur,2025-03-22,06:16,Medium
+Anantapur,2025-07-20,21:23,Medium
+East Godavari,2025-06-07,19:22,Low
+Srikakulam,2025-06-02,21:48,High
+YSR Kadapa,2025-02-07,22:09,Low
+Nellore,2025-12-19,16:35,Medium
+Prakasam,2025-07-22,13:23,High
+West Godavari,2025-07-18,12:15,High
+Srikakulam,2025-12-16,20:45,High
+East Godavari,2025-04-18,04:32,Low
+Kurnool,2025-04-24,06:16,High
+Prakasam,2025-10-19,17:04,High
+East Godavari,2025-09-20,14:46,Low
+Krishna,2025-03-13,01:28,Medium
+West Godavari,2025-02-20,07:51,Medium
+Krishna,2025-08-27,08:39,Medium
+Nellore,2025-07-23,00:31,High
+Prakasam,2025-08-17,16:02,Low
+Krishna,2025-02-09,02:59,Medium
+Guntur,2025-02-07,08:07,High
+Prakasam,2025-01-06,03:53,Medium
+East Godavari,2025-08-09,02:15,High
+Chittoor,2025-05-21,04:02,Low
+Visakhapatnam,2025-01-16,20:39,Medium
+Srikakulam,2025-04-20,07:54,High
+Guntur,2025-04-28,06:04,Low
+Srikakulam,2025-08-03,16:11,Medium
+Vizianagaram,2025-06-19,20:01,Low
+Visakhapatnam,2025-12-01,20:53,Low
+Guntur,2025-09-05,15:41,High
+Chittoor,2025-06-15,01:46,Medium
+Anantapur,2025-03-01,14:53,Low
+Chittoor,2025-08-09,12:06,High
+Prakasam,2025-12-06,16:39,Low
+East Godavari,2025-01-22,13:25,Medium
+Chittoor,2025-01-14,19:53,Low
+Guntur,2025-05-15,20:22,Low
+Guntur,2025-01-14,00:36,Medium
+Krishna,2025-05-18,14:09,High
+Prakasam,2025-02-21,10:15,Low
+Vizianagaram,2025-02-01,12:29,Low
+Vizianagaram,2025-01-24,04:04,Medium
+Nellore,2025-02-07,12:01,High
+West Godavari,2025-01-22,17:04,High
+Anantapur,2025-03-13,12:33,Medium
+Kurnool,2025-02-03,07:22,Low
+Kurnool,2025-11-12,20:51,Low
+YSR Kadapa,2025-10-17,04:34,Low
+Prakasam,2025-12-16,02:39,High
+Chittoor,2025-03-07,02:34,Low
+Vizianagaram,2025-05-27,05:22,Medium
+Srikakulam,2025-11-02,01:42,High
+Visakhapatnam,2025-05-23,01:01,Medium
+West Godavari,2025-06-12,01:30,Low
+West Godavari,2025-01-23,01:55,Low
+Nellore,2025-01-15,22:31,Low
+Visakhapatnam,2025-02-09,00:16,Low
+Kurnool,2025-11-27,01:07,High
+East Godavari,2025-06-11,16:36,High
+Vizianagaram,2025-01-28,05:30,Medium
+Visakhapatnam,2025-12-13,07:04,Medium
+Kurnool,2025-10-18,04:58,Low
+Anantapur,2025-02-26,18:14,Medium
+Chittoor,2025-01-15,11:28,High
+YSR Kadapa,2025-02-04,23:29,High
+Prakasam,2025-06-14,08:12,Medium
+Visakhapatnam,2025-02-27,22:47,Low
+Prakasam,2025-05-16,13:24,Low
+Kurnool,2025-12-05,23:05,High
+West Godavari,2025-04-01,12:30,High
+Krishna,2025-08-05,21:53,Low
+West Godavari,2025-09-24,13:31,High
+Krishna,2025-07-04,19:47,Low
+YSR Kadapa,2025-04-14,09:58,High
+Kurnool,2025-08-20,05:08,Medium
+Guntur,2025-12-27,17:11,High
+Kurnool,2025-04-25,01:58,Medium
+Krishna,2025-04-20,20:00,High
+Prakasam,2025-09-18,22:51,Medium
+Prakasam,2025-11-17,10:04,High
+Guntur,2025-05-05,00:02,High
+Guntur,2025-05-05,08:52,Low
+Chittoor,2025-01-28,02:34,Low
+YSR Kadapa,2025-11-15,09:25,Low
+Kurnool,2025-11-14,17:50,High
+Prakasam,2025-10-26,01:42,Medium
+Kurnool,2025-05-20,17:55,Medium
+Srikakulam,2025-07-13,06:01,Low
+East Godavari,2025-04-12,02:39,High
+Kurnool,2025-06-05,01:56,Low
+Visakhapatnam,2025-12-07,13:28,High
+Prakasam,2025-06-26,01:15,High
+Srikakulam,2025-07-03,03:40,High
+Prakasam,2025-09-27,18:13,Medium
+Guntur,2025-04-26,19:11,Medium
+Nellore,2025-07-25,06:55,Medium
+Anantapur,2025-11-14,11:21,Low
+East Godavari,2025-02-10,15:07,Medium
+Prakasam,2025-08-06,07:03,Medium
+Krishna,2025-10-17,08:29,Medium
+Chittoor,2025-08-12,18:39,Low
+Srikakulam,2025-09-16,09:41,High
+East Godavari,2025-06-26,03:50,High
+Kurnool,2025-12-06,01:07,Medium
+Guntur,2025-03-03,02:45,Low
+East Godavari,2025-01-07,13:12,High
+YSR Kadapa,2025-10-26,22:00,Medium
+Visakhapatnam,2025-03-28,23:49,High
+Srikakulam,2025-07-09,05:05,High
+Chittoor,2025-10-07,09:50,Medium
+Anantapur,2025-06-09,18:58,High
+Visakhapatnam,2025-02-12,06:40,Low
+Krishna,2025-09-21,05:53,Low
+Visakhapatnam,2025-08-12,20:43,Low
+Krishna,2025-07-01,02:37,Medium
+Vizianagaram,2025-01-13,21:42,Low
+East Godavari,2025-09-01,19:26,High
+Guntur,2025-06-24,12:05,Medium
+Anantapur,2025-03-23,16:41,Low
+YSR Kadapa,2025-02-09,09:05,High
+Vizianagaram,2025-08-05,04:30,High
+YSR Kadapa,2025-03-14,16:53,High
+YSR Kadapa,2025-08-08,09:09,Medium
+Prakasam,2025-08-27,12:08,Medium
+West Godavari,2025-07-28,20:12,High
+Chittoor,2025-09-21,13:11,High
+Visakhapatnam,2025-11-19,14:28,Medium
+YSR Kadapa,2025-03-10,12:27,Low
+Prakasam,2025-08-02,00:38,High
+West Godavari,2025-11-27,21:30,Low
+Vizianagaram,2025-06-12,10:31,High
+East Godavari,2025-06-04,18:58,Medium
+Kurnool,2025-05-12,15:07,High
+YSR Kadapa,2025-09-11,16:25,High
+Guntur,2025-04-03,07:32,High
+Krishna,2025-11-11,22:08,Medium
+Srikakulam,2025-03-06,20:53,High
+Krishna,2025-03-13,21:33,High
+Vizianagaram,2025-07-18,16:17,Medium
+West Godavari,2025-09-13,14:04,High
+East Godavari,2025-07-07,12:21,Medium
+Vizianagaram,2025-11-23,06:32,Medium
+Krishna,2025-09-07,09:13,Low
+Visakhapatnam,2025-09-04,00:16,Low
+Anantapur,2025-01-24,08:57,Low
+Krishna,2025-06-28,01:28,Low
+Srikakulam,2025-06-19,06:10,Medium
+West Godavari,2025-06-09,09:11,Medium
+East Godavari,2025-03-01,14:52,Low
+Vizianagaram,2025-07-07,04:17,Low
+Chittoor,2025-06-28,03:09,Medium
+Kurnool,2025-01-02,12:30,Medium
+Nellore,2025-01-20,21:16,Medium
+Visakhapatnam,2025-12-14,09:43,Medium
+Srikakulam,2025-07-11,04:58,Medium
+Kurnool,2025-09-19,09:10,High
+West Godavari,2025-09-18,20:50,Medium
+Visakhapatnam,2025-08-01,22:44,Low
+Visakhapatnam,2025-05-21,19:25,Medium
+Guntur,2025-12-05,16:44,Medium
+Guntur,2025-10-21,21:10,High
+Krishna,2025-06-23,20:36,Medium
+YSR Kadapa,2025-11-09,13:56,Medium
+Krishna,2025-06-07,10:33,Low
+Vizianagaram,2025-08-09,04:59,Medium
+Guntur,2025-07-02,08:04,High
+Anantapur,2025-12-17,00:13,Low
+Srikakulam,2025-12-06,20:56,Medium
+Guntur,2025-08-16,14:17,Medium
+Prakasam,2025-11-22,03:33,Low
+Chittoor,2025-09-28,07:38,Medium
+East Godavari,2025-10-11,17:37,Low
+Visakhapatnam,2025-11-17,20:16,Medium
+YSR Kadapa,2025-02-12,01:49,High
+West Godavari,2025-07-05,18:16,Medium
+Prakasam,2025-06-07,16:42,Medium
+Chittoor,2025-12-28,13:35,Low
+Srikakulam,2025-07-06,13:59,High
+YSR Kadapa,2025-08-20,23:38,Medium
+YSR Kadapa,2025-02-24,06:50,Medium
+East Godavari,2025-07-21,11:36,Medium
+Vizianagaram,2025-12-16,12:46,Medium
+Visakhapatnam,2025-11-27,11:43,Medium
+Visakhapatnam,2025-08-08,16:07,High
+Guntur,2025-09-18,17:31,Medium
+Chittoor,2025-09-18,23:57,Medium
+Nellore,2025-09-15,11:07,Medium
+Krishna,2025-08-05,10:56,High
+Anantapur,2025-08-01,19:41,Medium
+YSR Kadapa,2025-06-19,13:15,Medium
+East Godavari,2025-09-07,00:45,Low
+Vizianagaram,2025-05-01,03:46,Low
+West Godavari,2025-01-27,20:21,Low
+East Godavari,2025-04-06,13:00,High
+Anantapur,2025-06-01,03:07,Low
+Srikakulam,2025-12-11,19:10,Medium
+YSR Kadapa,2025-02-05,07:57,Low
+Vizianagaram,2025-03-08,10:31,Low
+Guntur,2025-03-17,11:03,Low
+Nellore,2025-04-18,16:12,Low
+Visakhapatnam,2025-07-08,05:00,Low
+Nellore,2025-06-15,06:31,High
+YSR Kadapa,2025-06-12,18:02,Low
+YSR Kadapa,2025-02-14,22:34,High
+Nellore,2025-06-02,21:07,Low
+Srikakulam,2025-06-08,19:09,High
+Guntur,2025-02-11,11:31,High
+Krishna,2025-03-21,01:59,High
+East Godavari,2025-10-09,16:17,Medium
+West Godavari,2025-02-28,01:17,High
+Nellore,2025-11-20,12:40,High
+Guntur,2025-02-03,11:23,High
+Visakhapatnam,2025-01-20,18:10,Medium
+Guntur,2025-12-18,08:21,Low
+Guntur,2025-07-06,01:37,Medium
+East Godavari,2025-01-28,17:04,Medium
+Prakasam,2025-07-18,13:49,Medium
+East Godavari,2025-08-01,04:24,High
+Srikakulam,2025-12-14,11:05,Medium
+Prakasam,2025-07-10,11:38,High
+Nellore,2025-09-09,15:42,High
+Srikakulam,2025-08-22,05:20,Medium
+Vizianagaram,2025-05-13,18:30,Medium
+Kurnool,2025-05-10,06:51,High
+West Godavari,2025-03-19,23:32,High
+East Godavari,2025-01-25,11:59,High
+Chittoor,2025-04-10,19:32,High
+East Godavari,2025-03-21,14:48,Low
+Krishna,2025-05-12,03:40,Medium
+Guntur,2025-10-06,18:34,High
+YSR Kadapa,2025-07-28,22:38,High
+Krishna,2025-06-02,00:52,Low
+West Godavari,2025-12-07,05:37,Low
+Anantapur,2025-03-17,22:44,High
+Krishna,2025-10-09,11:40,High
+Krishna,2025-12-01,07:05,Medium
+Nellore,2025-07-09,22:36,Medium
+Krishna,2025-02-08,12:02,High
+Krishna,2025-09-18,20:43,Low
+Srikakulam,2025-07-28,12:44,High
+Kurnool,2025-06-21,16:25,Medium
+Vizianagaram,2025-07-26,14:30,High
+East Godavari,2025-10-06,16:58,High
+Krishna,2025-04-10,06:24,High
+Prakasam,2025-02-26,03:54,Medium
+Nellore,2025-12-28,18:02,Medium
+Vizianagaram,2025-09-26,04:59,High
+Srikakulam,2025-12-20,11:07,Medium
+Visakhapatnam,2025-10-26,19:30,Low
+Visakhapatnam,2025-09-03,19:09,Low
+Vizianagaram,2025-01-19,18:58,Low
+Srikakulam,2025-07-12,09:22,Low
+Guntur,2025-10-12,11:10,High
+East Godavari,2025-04-20,19:13,High
+Prakasam,2025-07-11,05:48,Low
+Anantapur,2025-04-23,20:35,Medium
+Srikakulam,2025-09-16,07:55,High
+East Godavari,2025-02-01,03:53,Medium
+Guntur,2025-04-28,22:52,Medium
+Anantapur,2025-09-24,12:09,High
+Chittoor,2025-07-27,18:18,High
+Srikakulam,2025-05-21,19:03,High
+East Godavari,2025-03-01,18:11,Medium
+Guntur,2025-07-26,21:32,High
+Chittoor,2025-03-07,10:19,Medium
+Krishna,2025-05-24,20:05,Low
+Anantapur,2025-06-17,01:59,Low
+Visakhapatnam,2025-05-22,20:23,Medium
+Guntur,2025-12-14,03:59,Medium
+Chittoor,2025-07-12,05:57,High
+Vizianagaram,2025-03-28,03:09,Low
+Guntur,2025-06-28,13:20,High
+West Godavari,2025-11-26,22:53,Low
+East Godavari,2025-01-06,18:07,High
+Chittoor,2025-06-13,21:37,Medium
+East Godavari,2025-03-15,14:27,High
+Visakhapatnam,2025-05-08,04:50,Low
+Krishna,2025-02-26,13:11,Low
+YSR Kadapa,2025-09-10,18:29,Low
+Kurnool,2025-03-23,21:13,High
+Krishna,2025-06-06,01:51,Medium
+Vizianagaram,2025-12-24,18:34,Medium
+Guntur,2025-08-01,10:59,Low
+Kurnool,2025-02-08,17:51,Low
+Krishna,2025-02-07,03:59,High
+Krishna,2025-12-14,09:52,Medium
+West Godavari,2025-03-17,09:48,High
+Kurnool,2025-09-01,21:05,Low
+West Godavari,2025-02-22,22:38,Medium
+Vizianagaram,2025-08-27,23:11,Medium
+Guntur,2025-04-21,03:37,Low
+Chittoor,2025-11-02,18:01,High
+YSR Kadapa,2025-11-19,00:21,Medium
+Krishna,2025-09-27,12:06,High
+West Godavari,2025-02-05,00:23,Medium
+Krishna,2025-06-06,02:13,High
+Anantapur,2025-03-01,09:36,High
+Kurnool,2025-05-15,19:36,Low
+Vizianagaram,2025-10-22,03:24,High
+Prakasam,2025-06-01,02:47,High
+Kurnool,2025-01-05,05:20,Medium
+Vizianagaram,2025-03-25,10:37,Medium
+Vizianagaram,2025-08-07,14:10,Medium
+Guntur,2025-04-21,01:00,Medium
+Anantapur,2025-03-02,02:04,High
+Nellore,2025-09-17,02:06,Medium
+Anantapur,2025-10-06,06:31,Medium
+Srikakulam,2025-06-03,12:32,Medium
+Guntur,2025-09-22,18:10,High
+Kurnool,2025-11-25,09:56,High
+Srikakulam,2025-01-22,20:47,High
+Chittoor,2025-11-27,17:37,High
+Vizianagaram,2025-03-10,20:04,Low
+Visakhapatnam,2025-08-11,00:04,Medium
+Chittoor,2025-11-25,08:56,High
+East Godavari,2025-09-02,16:25,Medium
+Nellore,2025-07-19,03:05,Low
+Chittoor,2025-05-22,05:12,Low
+West Godavari,2025-03-08,01:09,Medium
+Krishna,2025-03-11,22:34,Medium
+Visakhapatnam,2025-01-19,05:00,Low
+West Godavari,2025-10-12,13:08,Low
+Nellore,2025-06-13,19:04,Medium
+Srikakulam,2025-04-28,07:45,Medium
+Krishna,2025-05-07,02:06,High
+Chittoor,2025-06-16,02:47,Low
+Nellore,2025-06-10,09:56,Low
+Vizianagaram,2025-11-24,18:42,Low
+Prakasam,2025-04-15,02:32,Medium
+Visakhapatnam,2025-01-27,01:39,Medium
+West Godavari,2025-11-21,16:10,Medium
+East Godavari,2025-05-13,09:19,Low
+Vizianagaram,2025-05-26,19:53,High
+Guntur,2025-05-06,12:50,Medium
+YSR Kadapa,2025-11-09,06:06,Low
+Prakasam,2025-10-14,08:33,Low
+Krishna,2025-02-17,14:59,Medium
+Vizianagaram,2025-12-23,06:11,Low
+Chittoor,2025-06-12,22:13,Low
+Visakhapatnam,2025-01-02,20:29,High
+Srikakulam,2025-06-28,16:17,Medium
+Guntur,2025-07-25,23:08,High
+West Godavari,2025-09-10,08:57,High
+Guntur,2025-08-01,22:57,High
+Prakasam,2025-02-03,12:58,High
+Chittoor,2025-07-19,08:33,Medium
+Visakhapatnam,2025-08-08,23:44,Medium
+YSR Kadapa,2025-07-04,13:47,High
+Prakasam,2025-04-16,13:16,Low
+Nellore,2025-05-25,03:48,High
+Visakhapatnam,2025-06-15,02:54,Low
+YSR Kadapa,2025-01-13,18:27,High
+West Godavari,2025-01-09,12:01,High
+Kurnool,2025-11-17,11:43,High
+Visakhapatnam,2025-05-27,03:08,Low
+Chittoor,2025-02-03,05:24,Medium
+Prakasam,2025-12-05,07:49,Medium
+East Godavari,2025-07-21,00:08,Medium
+Visakhapatnam,2025-12-17,20:02,High
+Chittoor,2025-02-02,21:13,Low
+Anantapur,2025-09-13,21:56,Low
+Guntur,2025-05-03,05:56,Medium
+Chittoor,2025-02-20,00:05,Medium
+East Godavari,2025-06-13,05:17,High
+Vizianagaram,2025-09-09,01:26,High
+East Godavari,2025-10-20,14:38,Low
+YSR Kadapa,2025-05-24,15:18,High
+Srikakulam,2025-01-12,06:15,Medium
+Prakasam,2025-10-25,00:50,Medium
+West Godavari,2025-08-07,12:58,Low
+East Godavari,2025-03-05,04:44,Low
+Anantapur,2025-02-27,20:55,High
+Kurnool,2025-08-11,18:42,High
+Anantapur,2025-12-26,10:08,High
+Anantapur,2025-08-09,12:24,High
+Guntur,2025-05-23,07:32,Low
+Guntur,2025-04-23,15:31,Low
+Krishna,2025-09-16,08:20,Low
+Krishna,2025-07-05,04:13,Medium
+Anantapur,2025-04-25,09:43,High
+Vizianagaram,2025-09-15,05:10,High
+Nellore,2025-05-12,04:43,Low
+Krishna,2025-09-28,02:05,Low
+Visakhapatnam,2025-06-15,21:06,Medium
+Anantapur,2025-06-15,06:57,Low
+Guntur,2025-05-27,10:13,Medium
+Krishna,2025-12-02,20:16,Low
+Nellore,2025-10-12,22:22,High
+West Godavari,2025-04-25,20:03,Medium
+Anantapur,2025-04-13,12:26,High
+Guntur,2025-04-08,04:06,Low
+Kurnool,2025-10-24,17:08,High
+Visakhapatnam,2025-11-13,17:25,Medium
+Krishna,2025-04-04,05:23,Low
+West Godavari,2025-09-21,21:52,High
+Guntur,2025-07-17,03:21,High
+Anantapur,2025-08-13,10:22,Low
+YSR Kadapa,2025-11-05,17:50,Low
+Guntur,2025-04-23,19:52,Medium
+Anantapur,2025-11-11,06:10,High
+Anantapur,2025-09-03,07:27,Medium
+Srikakulam,2025-06-08,12:52,Medium
+Kurnool,2025-01-20,22:46,Low
+Chittoor,2025-04-26,14:44,Medium
+East Godavari,2025-02-09,02:29,Low
+East Godavari,2025-11-22,08:34,Low
+Kurnool,2025-03-24,20:05,Medium
+Guntur,2025-06-23,17:16,High
+East Godavari,2025-03-25,01:48,High
+Visakhapatnam,2025-02-09,12:15,High
+Chittoor,2025-07-22,05:00,High
+Kurnool,2025-05-25,14:34,High
+East Godavari,2025-01-22,11:41,Medium
+East Godavari,2025-06-22,15:45,High
+Chittoor,2025-06-24,05:52,Medium
+Visakhapatnam,2025-09-19,10:07,Medium
+Vizianagaram,2025-12-13,16:27,Low
+Srikakulam,2025-01-03,15:46,Low
+Anantapur,2025-04-03,01:19,High
+Kurnool,2025-04-16,18:39,High
+YSR Kadapa,2025-05-08,12:22,High
+Visakhapatnam,2025-12-01,13:03,Low
+Chittoor,2025-07-03,09:59,High
+Krishna,2025-02-02,23:01,Medium
+Prakasam,2025-12-08,07:23,Low
+Srikakulam,2025-11-21,23:40,Low
+East Godavari,2025-06-19,13:50,High
+Vizianagaram,2025-02-10,10:35,High
+Visakhapatnam,2025-12-24,19:01,Medium
+Vizianagaram,2025-04-16,04:23,Medium
+Anantapur,2025-12-13,09:01,Medium
+Guntur,2025-04-07,17:44,Low
+Kurnool,2025-02-02,22:55,High
+Nellore,2025-06-20,19:21,Low
+YSR Kadapa,2025-09-07,23:53,High
+YSR Kadapa,2025-07-23,01:59,Low
+Visakhapatnam,2025-12-03,09:59,High
+West Godavari,2025-06-25,03:07,High
+Srikakulam,2025-11-03,18:45,High
+East Godavari,2025-03-27,02:34,Medium
+Kurnool,2025-06-01,02:27,Medium
+Nellore,2025-07-17,23:28,Medium
+Krishna,2025-09-09,09:39,High
+Kurnool,2025-11-28,02:58,Medium
+West Godavari,2025-03-12,02:17,Low
+Srikakulam,2025-12-04,22:32,Low
+YSR Kadapa,2025-08-02,13:17,Low
+Chittoor,2025-09-05,19:14,Low
+Prakasam,2025-09-01,15:19,High
+Srikakulam,2025-05-07,21:47,Medium
+Anantapur,2025-05-05,16:00,Low
+Nellore,2025-05-11,16:13,High
+West Godavari,2025-12-27,09:45,High
+Srikakulam,2025-05-03,02:48,Medium
+Prakasam,2025-12-13,22:04,Medium
+Chittoor,2025-06-10,20:03,Low
+Visakhapatnam,2025-08-21,06:52,Medium
+Prakasam,2025-10-01,06:49,Low
+Anantapur,2025-05-02,07:21,High
+Kurnool,2025-02-06,14:42,Medium
+Chittoor,2025-10-08,14:19,Low
+Guntur,2025-12-08,17:20,Low
+Krishna,2025-10-12,05:44,High
+Visakhapatnam,2025-07-04,01:24,Medium
+Anantapur,2025-01-24,07:11,Medium
+Chittoor,2025-08-14,19:26,Medium
+Srikakulam,2025-03-06,10:11,Medium
+Nellore,2025-12-20,01:20,Low
+Chittoor,2025-07-25,15:37,Low
+Prakasam,2025-04-10,04:35,High
+Visakhapatnam,2025-04-02,15:23,High
+Srikakulam,2025-07-17,02:19,High
+Vizianagaram,2025-12-01,08:09,Medium
+East Godavari,2025-01-26,03:16,High
+Anantapur,2025-04-01,00:14,Medium
+Srikakulam,2025-04-12,06:40,Medium
+Vizianagaram,2025-06-09,11:40,Low
+Prakasam,2025-11-28,20:09,Low
+Nellore,2025-06-19,11:30,Medium
+Guntur,2025-10-09,04:39,Low
+Visakhapatnam,2025-06-22,06:10,High
+YSR Kadapa,2025-07-12,08:43,High
+Nellore,2025-02-16,14:25,High
+Chittoor,2025-01-09,12:31,High
+Kurnool,2025-11-17,06:41,High
+Visakhapatnam,2025-12-04,07:33,Medium
+West Godavari,2025-02-01,14:45,Low
+Srikakulam,2025-11-09,18:52,High
+Krishna,2025-03-23,06:43,Low
+Krishna,2025-06-04,02:58,High
+Nellore,2025-07-14,08:01,High
+Guntur,2025-10-11,09:24,Low
+Guntur,2025-05-06,06:09,High
+Nellore,2025-04-10,15:49,High
+West Godavari,2025-03-02,19:32,Low
+Guntur,2025-01-27,16:17,Low
+Nellore,2025-05-23,06:38,Low
+YSR Kadapa,2025-06-22,02:03,Low
+West Godavari,2025-08-21,12:15,High
+East Godavari,2025-09-22,04:29,Low
+Srikakulam,2025-06-15,19:45,High
+Srikakulam,2025-05-23,11:52,High
+Anantapur,2025-10-08,08:04,Low
+Krishna,2025-10-08,12:00,Medium
+West Godavari,2025-12-16,20:52,High
+Kurnool,2025-08-26,12:14,Medium
+West Godavari,2025-02-13,09:20,Low
+Visakhapatnam,2025-09-03,11:23,Medium
+East Godavari,2025-01-15,00:18,Low
+Chittoor,2025-07-11,18:57,Medium
+Chittoor,2025-04-26,09:54,Medium
+Anantapur,2025-06-12,18:05,Medium
+YSR Kadapa,2025-01-01,19:12,Low
+Vizianagaram,2025-11-09,20:20,Medium
+Krishna,2025-07-22,12:35,Low
+Visakhapatnam,2025-11-05,16:28,High
+Kurnool,2025-04-28,06:04,High
+East Godavari,2025-01-07,08:41,High
+West Godavari,2025-08-08,08:09,Low
+Prakasam,2025-01-18,03:02,Low
+West Godavari,2025-06-10,08:49,High
+Vizianagaram,2025-04-05,02:39,Medium
+Nellore,2025-09-25,16:47,High
+Anantapur,2025-05-10,16:06,Medium
+Guntur,2025-10-10,09:15,High
+Krishna,2025-09-16,15:04,Medium
+Guntur,2025-02-03,02:27,High
+West Godavari,2025-09-03,03:01,High
+Krishna,2025-04-11,07:21,Low
+West Godavari,2025-06-10,18:01,High
+Prakasam,2025-01-20,19:03,High
+Nellore,2025-08-06,07:48,Low
+Vizianagaram,2025-07-06,23:44,Medium
+Krishna,2025-12-24,18:59,Low
+Kurnool,2025-02-16,15:18,Low
+Krishna,2025-12-03,19:43,Medium
+Prakasam,2025-08-19,10:54,Low
+Chittoor,2025-01-18,01:41,High
+Prakasam,2025-01-08,21:39,Medium
+East Godavari,2025-11-28,18:53,Medium
+Visakhapatnam,2025-05-28,02:16,Medium
+YSR Kadapa,2025-04-20,12:03,Low
+Chittoor,2025-04-15,20:03,High
+Anantapur,2025-04-15,01:16,Medium
+YSR Kadapa,2025-02-14,10:14,Medium
+Prakasam,2025-06-07,01:21,High
+Krishna,2025-04-28,20:02,High
+Visakhapatnam,2025-01-12,16:35,Low
+Chittoor,2025-04-07,16:51,Low
+Guntur,2025-01-28,12:28,Low
+Kurnool,2025-11-20,00:25,Low
+Krishna,2025-07-05,09:20,High
+Vizianagaram,2025-08-22,15:37,Low
+Anantapur,2025-05-07,05:33,Medium
+Guntur,2025-05-03,11:27,Low
+Nellore,2025-04-09,18:35,High
+Visakhapatnam,2025-04-18,19:28,Low
+Guntur,2025-03-04,19:23,Medium
+Guntur,2025-01-24,18:54,Low
+Srikakulam,2025-03-23,02:01,Medium
+Chittoor,2025-09-19,15:50,Low
+Visakhapatnam,2025-09-04,20:17,Low
+Visakhapatnam,2025-02-20,04:22,Low
+Krishna,2025-10-13,18:40,Low
+Guntur,2025-10-13,11:22,High
+YSR Kadapa,2025-06-16,07:37,Medium
+YSR Kadapa,2025-02-06,02:13,Low
+Krishna,2025-04-24,12:21,High
+Prakasam,2025-06-01,18:41,Medium
+Krishna,2025-03-03,07:05,High
+West Godavari,2025-10-03,10:24,Low
+Nellore,2025-11-06,20:39,High
+YSR Kadapa,2025-12-08,12:44,Medium
+YSR Kadapa,2025-01-02,14:42,High
+Guntur,2025-02-26,10:44,Low
+Vizianagaram,2025-01-18,17:12,Low
+YSR Kadapa,2025-05-16,23:42,Low
+East Godavari,2025-06-11,13:57,Medium
+Anantapur,2025-08-09,06:32,Medium
+Prakasam,2025-11-06,18:25,Low
+East Godavari,2025-12-16,16:20,Low
+Chittoor,2025-08-16,17:31,Low
+Visakhapatnam,2025-04-22,20:36,Low
+Vizianagaram,2025-03-12,12:20,Low
+Visakhapatnam,2025-08-17,02:49,Low
+Guntur,2025-09-19,01:22,High
+Vizianagaram,2025-09-15,07:11,Low
+Srikakulam,2025-02-24,20:46,Medium
+Chittoor,2025-02-18,22:43,Medium
+Nellore,2025-07-08,10:01,High
+Guntur,2025-08-08,18:58,Medium
+Visakhapatnam,2025-12-11,11:28,High
+Vizianagaram,2025-07-22,06:49,Medium
+Prakasam,2025-04-04,17:33,Medium
+Chittoor,2025-05-06,17:03,Medium
+Kurnool,2025-06-04,08:02,High
+Visakhapatnam,2025-03-09,12:21,High
+Nellore,2025-01-18,17:42,Low
+YSR Kadapa,2025-04-08,18:46,High
+YSR Kadapa,2025-06-02,11:28,Low
+Vizianagaram,2025-01-06,18:26,High
+Vizianagaram,2025-03-08,17:55,High
+Vizianagaram,2025-02-19,23:56,Medium
+Vizianagaram,2025-03-26,03:35,Low
+Krishna,2025-05-12,22:02,Low
+Vizianagaram,2025-01-21,14:17,High
+Chittoor,2025-08-15,04:53,Low
+East Godavari,2025-02-11,04:56,High
+Chittoor,2025-08-18,23:51,Medium
+Chittoor,2025-11-03,09:34,High
+Visakhapatnam,2025-08-11,18:38,Medium
+Guntur,2025-10-01,22:53,High
+West Godavari,2025-03-24,08:45,Medium
+East Godavari,2025-10-04,02:18,Medium
+Visakhapatnam,2025-05-05,22:19,High
+Srikakulam,2025-12-11,19:30,Medium
+Visakhapatnam,2025-12-18,19:44,Medium
+West Godavari,2025-04-05,13:20,Medium
+Chittoor,2025-07-04,19:09,Low
+Kurnool,2025-07-24,11:55,High
+East Godavari,2025-09-15,04:06,Low
+Guntur,2025-04-01,11:11,Low
+Krishna,2025-01-18,22:06,Medium
+Srikakulam,2025-04-21,17:08,High
+Vizianagaram,2025-01-02,03:15,Medium
+Krishna,2025-08-05,22:54,High
+Chittoor,2025-07-08,16:04,Low
+Kurnool,2025-01-09,10:50,Low
+Prakasam,2025-06-28,18:14,Medium
+Kurnool,2025-05-01,13:38,Medium
+East Godavari,2025-03-03,08:39,High
+Guntur,2025-11-03,08:42,Medium
+Krishna,2025-03-11,06:34,Medium
+Chittoor,2025-11-23,01:38,Low
+Prakasam,2025-07-11,06:43,Medium
+Krishna,2025-08-01,13:03,High
+Anantapur,2025-12-22,17:56,Medium
+East Godavari,2025-07-11,03:41,Low
+Chittoor,2025-11-05,13:56,High
+Srikakulam,2025-01-22,16:01,Low
+Vizianagaram,2025-06-21,09:40,Low
+West Godavari,2025-12-08,09:08,High
+YSR Kadapa,2025-01-23,03:33,Low
+Prakasam,2025-02-19,18:56,Low
+Anantapur,2025-12-22,12:41,Low
+YSR Kadapa,2025-05-17,20:42,Low
+YSR Kadapa,2025-03-17,02:18,Medium
+Visakhapatnam,2025-01-21,23:30,High
+Nellore,2025-03-06,00:57,High
+West Godavari,2025-04-13,20:23,Medium
+Guntur,2025-12-21,18:00,High
+Vizianagaram,2025-09-05,08:49,High
+Vizianagaram,2025-01-17,08:20,High
+East Godavari,2025-02-14,03:23,Low
+Visakhapatnam,2025-11-23,03:39,High
+West Godavari,2025-01-10,03:22,Low
+Guntur,2025-05-13,22:53,Low
+West Godavari,2025-11-26,15:32,Medium
+Nellore,2025-08-11,06:07,Medium
+West Godavari,2025-02-10,22:15,High
+Krishna,2025-02-04,04:11,Low
+Prakasam,2025-10-03,10:26,High
+Chittoor,2025-03-24,13:40,Low
+Nellore,2025-08-02,02:51,Low
+Nellore,2025-12-21,08:39,Low
+East Godavari,2025-12-16,10:21,Medium
+Srikakulam,2025-04-06,15:29,High
+Chittoor,2025-10-07,08:36,Low
+Nellore,2025-03-15,12:01,Low
+Chittoor,2025-07-16,12:05,Low
+West Godavari,2025-12-14,12:51,Medium
+Kurnool,2025-07-27,18:24,Medium
+Visakhapatnam,2025-12-11,11:55,High
+East Godavari,2025-03-28,04:55,High
+West Godavari,2025-12-14,09:56,Medium
+Vizianagaram,2025-07-24,09:08,Medium
+Krishna,2025-04-05,10:00,Medium
+Kurnool,2025-11-07,17:48,High
+Anantapur,2025-07-19,01:34,Medium
+Vizianagaram,2025-01-04,09:26,High
+YSR Kadapa,2025-08-06,04:53,Medium
+Visakhapatnam,2025-07-01,18:58,High
+Kurnool,2025-04-12,04:07,Low
+Srikakulam,2025-10-07,05:29,High
+Srikakulam,2025-02-08,14:48,High
+Srikakulam,2025-12-06,20:42,High
+East Godavari,2025-08-03,05:36,Medium
+East Godavari,2025-09-20,11:24,High
+Prakasam,2025-02-28,11:15,Medium
+Vizianagaram,2025-05-19,03:14,Low
+YSR Kadapa,2025-08-17,13:10,Medium
+Prakasam,2025-04-27,08:15,Low
+Srikakulam,2025-10-11,13:11,Low
+Visakhapatnam,2025-09-04,17:02,Low
+Chittoor,2025-04-26,03:01,High
+East Godavari,2025-10-26,00:53,Low
+Krishna,2025-11-06,04:17,High
+Prakasam,2025-09-21,11:22,High
+Vizianagaram,2025-12-16,04:32,Medium
+Guntur,2025-10-04,11:01,Low
+West Godavari,2025-03-23,18:37,High
+Chittoor,2025-12-02,17:41,High
+Krishna,2025-07-26,15:25,High
+Vizianagaram,2025-01-16,20:50,High
+Vizianagaram,2025-08-28,13:10,High
+Srikakulam,2025-10-05,02:56,Low
+West Godavari,2025-05-17,08:33,Low
+Srikakulam,2025-12-13,13:37,High
+West Godavari,2025-11-16,17:27,High
+East Godavari,2025-03-14,22:24,Medium
+Prakasam,2025-03-22,12:16,Low
+YSR Kadapa,2025-02-18,00:09,Medium
+Visakhapatnam,2025-12-19,20:55,Medium
+Nellore,2025-10-08,10:15,Medium
+Krishna,2025-05-07,10:44,Medium
+Anantapur,2025-02-27,07:11,Low
+Prakasam,2025-04-20,01:04,Medium
+Prakasam,2025-10-01,00:04,Medium
+Vizianagaram,2025-02-17,01:23,High
+Chittoor,2025-08-03,19:05,High
+Prakasam,2025-06-01,03:09,Low
+Srikakulam,2025-06-20,14:29,Medium
+East Godavari,2025-01-11,12:59,Low
+West Godavari,2025-06-11,11:22,Low
+Kurnool,2025-06-14,21:22,Medium
+Anantapur,2025-02-20,17:54,Medium
+Krishna,2025-05-02,19:43,Medium
+East Godavari,2025-10-13,22:35,Medium
+West Godavari,2025-02-10,03:46,Medium
+Kurnool,2025-04-26,15:46,Medium
+Vizianagaram,2025-04-01,20:36,Low
+Visakhapatnam,2025-07-24,20:32,High
+Visakhapatnam,2025-01-26,03:46,Medium
+Chittoor,2025-10-25,19:45,High
+Vizianagaram,2025-01-17,22:56,High
+East Godavari,2025-08-01,18:36,Medium
+Visakhapatnam,2025-04-17,16:18,Low
+Chittoor,2025-01-22,21:29,High
+West Godavari,2025-12-17,18:32,Low
+Visakhapatnam,2025-10-15,14:11,Low
+Vizianagaram,2025-02-20,17:43,High
+Vizianagaram,2025-11-14,05:31,High
+Vizianagaram,2025-11-10,07:52,Medium
+East Godavari,2025-02-17,16:37,Medium
+Guntur,2025-04-01,18:43,Low
+Chittoor,2025-04-21,04:54,Medium
+Guntur,2025-08-06,18:41,Low
+Anantapur,2025-12-26,11:42,High
+Anantapur,2025-07-11,15:03,High
+Chittoor,2025-10-25,05:04,Low
+Krishna,2025-07-13,02:02,Medium
+Krishna,2025-07-27,02:22,Low
+East Godavari,2025-04-17,18:12,High
+Visakhapatnam,2025-07-10,14:39,Medium
+Kurnool,2025-04-12,21:42,Low
+Anantapur,2025-11-10,11:06,Low
+Chittoor,2025-11-02,09:51,Medium
+Vizianagaram,2025-05-28,05:56,Medium
+Chittoor,2025-10-22,11:26,Low
+Nellore,2025-12-15,22:50,Medium
+Krishna,2025-02-12,16:57,Medium
+Chittoor,2025-06-16,22:59,High
+YSR Kadapa,2025-01-27,07:27,Low
+East Godavari,2025-02-06,02:53,Medium
+West Godavari,2025-02-01,17:36,High
+Kurnool,2025-10-15,01:52,High
+Anantapur,2025-07-03,21:56,Low
+Visakhapatnam,2025-02-26,15:20,Medium
+Visakhapatnam,2025-12-20,07:01,High
+Visakhapatnam,2025-05-09,09:33,High
+Visakhapatnam,2025-01-17,13:08,High
+Vizianagaram,2025-01-18,22:55,High
+West Godavari,2025-11-19,00:32,Medium
+Krishna,2025-05-05,04:24,Medium
+Prakasam,2025-12-13,04:31,Medium
+Guntur,2025-02-09,08:35,High
+Guntur,2025-04-24,08:23,High
+YSR Kadapa,2025-05-03,08:11,High
+Nellore,2025-11-13,11:54,High
+East Godavari,2025-11-13,15:15,Medium
+Srikakulam,2025-05-02,14:21,High
+Prakasam,2025-02-24,21:44,Medium
+West Godavari,2025-05-18,23:19,High
+YSR Kadapa,2025-02-21,01:19,Low
+Nellore,2025-02-07,17:34,Medium
+Prakasam,2025-03-01,22:56,Low
+Krishna,2025-04-15,06:14,Low
+Visakhapatnam,2025-12-11,12:07,Medium
+Chittoor,2025-11-21,11:01,High
+Prakasam,2025-09-02,23:27,High
+West Godavari,2025-08-09,20:59,Low
+YSR Kadapa,2025-11-27,15:52,Low
+Nellore,2025-08-06,10:32,Medium
+West Godavari,2025-12-09,14:45,Low
+Guntur,2025-09-16,08:08,Low
+West Godavari,2025-01-09,16:59,Medium
+YSR Kadapa,2025-10-16,15:49,High
+Vizianagaram,2025-07-18,00:24,Low
+Visakhapatnam,2025-12-01,16:20,Medium
+Guntur,2025-01-24,11:14,Low
+Visakhapatnam,2025-11-03,14:27,Low
+Guntur,2025-08-20,08:49,Low
+Prakasam,2025-08-18,18:40,Low
+Kurnool,2025-04-07,12:46,Medium
+Visakhapatnam,2025-04-16,12:29,Low
+Chittoor,2025-12-02,00:09,Low
+Srikakulam,2025-11-10,00:28,High
+Kurnool,2025-02-10,11:45,High
+Kurnool,2025-06-14,03:28,High
+YSR Kadapa,2025-05-03,17:02,High
+Prakasam,2025-05-18,11:55,Medium
+Guntur,2025-04-10,19:04,Medium
+Krishna,2025-10-23,15:53,High
+Guntur,2025-01-18,00:27,Medium
+Nellore,2025-07-02,01:38,Low
+Vizianagaram,2025-01-14,13:30,Medium
+Srikakulam,2025-01-07,22:02,Medium
+Chittoor,2025-06-08,07:00,High
+Anantapur,2025-12-12,17:56,Medium
+Prakasam,2025-02-28,23:38,Medium
+East Godavari,2025-08-25,05:08,Low
+East Godavari,2025-10-08,10:30,High
+Vizianagaram,2025-06-05,13:25,High
+Visakhapatnam,2025-01-01,07:47,Low
+Guntur,2025-02-09,17:34,High
+Krishna,2025-09-01,17:23,High
+Anantapur,2025-12-05,11:57,Low
+Chittoor,2025-03-08,09:47,Low
+Srikakulam,2025-08-05,15:16,High
+Guntur,2025-03-23,16:43,Low
+Prakasam,2025-04-08,23:54,High
+Guntur,2025-05-19,13:23,Medium
+Chittoor,2025-06-26,03:44,Medium
+Guntur,2025-10-01,15:39,Medium
+Prakasam,2025-03-03,01:22,Low
+Chittoor,2025-07-21,19:37,Medium
+Srikakulam,2025-12-03,10:15,Low
+Nellore,2025-03-26,01:36,High
+YSR Kadapa,2025-11-11,10:31,Low
+Kurnool,2025-01-17,07:40,Low
+Kurnool,2025-12-21,17:42,Medium
+Kurnool,2025-04-03,11:29,Low
+Nellore,2025-06-07,14:19,Medium
+East Godavari,2025-06-06,10:49,Low
+Guntur,2025-03-04,12:08,High
+Krishna,2025-10-15,08:35,Low
+Nellore,2025-09-16,10:26,Medium
+Visakhapatnam,2025-01-25,16:27,Low
+Vizianagaram,2025-10-25,11:53,Medium
+Krishna,2025-01-02,11:22,High
+Vizianagaram,2025-06-09,15:15,Low
+Guntur,2025-03-09,09:46,Medium
+Nellore,2025-10-23,17:44,Medium
+Kurnool,2025-05-02,14:27,Medium
+Nellore,2025-01-08,04:49,High
+Vizianagaram,2025-06-13,23:13,High
+Vizianagaram,2025-02-26,07:09,High
+Vizianagaram,2025-05-01,01:05,High
+YSR Kadapa,2025-12-20,01:52,High
+Prakasam,2025-04-22,04:50,High
+YSR Kadapa,2025-12-18,03:51,High
+Anantapur,2025-12-05,11:28,Low
+West Godavari,2025-09-21,10:15,Low
+Nellore,2025-09-12,01:44,Low
+East Godavari,2025-04-01,06:31,Low
+Srikakulam,2025-09-25,15:28,Medium
+Vizianagaram,2025-11-07,22:37,High
+Chittoor,2025-09-09,20:37,High
+Nellore,2025-07-02,09:05,Low
+Guntur,2025-04-02,14:51,Medium
+Anantapur,2025-11-03,13:57,Medium
+Prakasam,2025-12-09,22:59,High
+Kurnool,2025-01-25,04:52,High
+Guntur,2025-10-21,14:31,Medium
+Nellore,2025-03-06,01:25,Low
+Guntur,2025-04-05,13:26,High
+Visakhapatnam,2025-05-02,04:50,Low
+Anantapur,2025-06-05,00:21,Medium
+Nellore,2025-04-23,08:47,Medium
+Anantapur,2025-12-11,09:24,High
+Chittoor,2025-03-22,18:47,Medium
+Prakasam,2025-06-20,11:55,High
+Chittoor,2025-01-18,08:55,Low
+Vizianagaram,2025-05-01,06:34,Low
+Kurnool,2025-12-14,13:38,Medium
+Srikakulam,2025-12-25,04:59,Low
+Srikakulam,2025-12-10,22:17,Low
+Krishna,2025-07-17,03:19,High
+Vizianagaram,2025-05-21,12:51,High
+Chittoor,2025-01-16,05:30,Low
+Prakasam,2025-07-25,20:27,Medium
+Srikakulam,2025-06-09,18:25,Medium
+YSR Kadapa,2025-07-01,11:10,High
+Srikakulam,2025-06-18,10:52,Low
+West Godavari,2025-08-14,23:16,High
+Kurnool,2025-05-05,22:03,Low
+YSR Kadapa,2025-07-07,07:51,Low
+Visakhapatnam,2025-04-18,00:27,High
+Prakasam,2025-07-25,15:43,High
+Krishna,2025-03-03,23:19,Low
+Nellore,2025-08-04,01:40,High
+Chittoor,2025-07-02,00:42,High
+Krishna,2025-06-16,06:15,High
+Prakasam,2025-07-15,11:12,High
+Kurnool,2025-04-14,01:12,Low
+Guntur,2025-05-01,13:39,Low
+Guntur,2025-04-25,13:00,Medium
+Nellore,2025-06-21,09:33,Low
+East Godavari,2025-09-18,06:02,High
+Prakasam,2025-06-07,06:45,Low
+YSR Kadapa,2025-07-11,10:33,Low
+Vizianagaram,2025-02-27,11:30,Low
+Visakhapatnam,2025-12-13,18:57,Medium
+Nellore,2025-11-23,14:44,Low
+West Godavari,2025-05-20,08:37,High
+Prakasam,2025-07-15,07:24,High
+Nellore,2025-05-24,15:30,Medium
+Anantapur,2025-05-16,18:26,Low
+Visakhapatnam,2025-01-20,15:34,Medium
+Visakhapatnam,2025-01-24,12:43,Low
+Krishna,2025-09-24,01:42,Low
+Visakhapatnam,2025-08-26,08:08,Low
+Guntur,2025-04-04,14:40,Medium
+Anantapur,2025-05-20,23:31,High
+Prakasam,2025-11-02,11:05,Low
+Guntur,2025-10-14,13:14,Low
+Nellore,2025-02-27,14:13,Low
+Nellore,2025-04-01,17:39,High
+Anantapur,2025-03-13,00:05,Low
+YSR Kadapa,2025-03-06,17:41,Medium
+West Godavari,2025-10-03,01:43,High
+Prakasam,2025-09-12,10:15,High
+Prakasam,2025-04-26,20:16,High
+Visakhapatnam,2025-05-02,05:41,Medium
+Krishna,2025-12-02,08:10,Low
+Anantapur,2025-06-21,08:14,High
+Nellore,2025-12-26,11:50,Low
+West Godavari,2025-02-24,07:02,Medium
+Krishna,2025-04-21,22:38,Low
+Prakasam,2025-06-13,16:57,Low
+Prakasam,2025-02-20,14:31,High
+Visakhapatnam,2025-04-01,06:50,Medium
+YSR Kadapa,2025-12-18,11:13,High
+Anantapur,2025-07-24,20:55,Low
+Kurnool,2025-08-12,13:34,Low
+Nellore,2025-07-22,21:21,Low
+YSR Kadapa,2025-04-06,02:12,Medium
+Guntur,2025-04-05,02:24,Medium
+Srikakulam,2025-01-11,11:18,Medium
+Anantapur,2025-06-03,00:52,Medium
+Kurnool,2025-06-17,19:18,High
+YSR Kadapa,2025-01-08,14:38,Low
+East Godavari,2025-09-13,00:26,High
+Chittoor,2025-06-23,23:01,High
+Anantapur,2025-12-08,18:23,High
+Srikakulam,2025-02-07,03:16,Low
+Visakhapatnam,2025-02-16,01:56,High
+Krishna,2025-08-12,19:13,Medium
+Visakhapatnam,2025-05-15,17:25,Medium
+West Godavari,2025-09-01,09:33,High
+Vizianagaram,2025-08-06,08:29,High
+Kurnool,2025-04-06,14:00,Low
+West Godavari,2025-09-11,04:19,High
+Nellore,2025-05-06,21:45,High
+Kurnool,2025-11-08,15:00,High
+Kurnool,2025-08-07,10:49,Low
+Prakasam,2025-03-24,16:30,High
+Kurnool,2025-07-04,18:47,Low
+Krishna,2025-07-09,10:37,High
+Guntur,2025-03-08,22:41,Medium
+East Godavari,2025-06-06,17:17,Low
+Nellore,2025-05-07,17:13,Low
+Kurnool,2025-07-01,13:48,High
+Nellore,2025-03-26,21:54,Low
+Nellore,2025-10-19,12:43,Low
+Krishna,2025-12-11,12:24,High
+Krishna,2025-02-21,17:45,Medium
+Chittoor,2025-07-23,01:21,High
+Guntur,2025-06-10,18:54,Medium
+Srikakulam,2025-10-01,03:23,Low
+YSR Kadapa,2025-04-14,15:58,Low
+Guntur,2025-03-15,18:57,Medium
+Chittoor,2025-02-28,20:38,Low
+West Godavari,2025-05-10,03:03,High
+YSR Kadapa,2025-06-13,07:23,High
+Krishna,2025-03-19,22:06,Low
+Kurnool,2025-04-08,02:09,High
+Vizianagaram,2025-10-10,19:15,Medium
+Visakhapatnam,2025-09-16,08:04,Medium
+Nellore,2025-03-03,02:35,Low
+Guntur,2025-02-02,09:51,High
+Anantapur,2025-04-09,22:20,Low
+Anantapur,2025-06-24,13:50,Low
+East Godavari,2025-02-01,00:42,Low
+Guntur,2025-12-20,09:19,Low
+Kurnool,2025-06-28,18:14,Medium
+Srikakulam,2025-08-28,11:47,Medium
+Guntur,2025-02-22,00:53,High
+East Godavari,2025-05-12,22:23,High
+Visakhapatnam,2025-09-04,22:39,High
+Kurnool,2025-05-12,04:44,Medium
+Vizianagaram,2025-06-13,02:08,Medium
+Krishna,2025-10-02,03:24,High
+Guntur,2025-06-07,14:43,Low
+Visakhapatnam,2025-06-18,09:46,Low
+Vizianagaram,2025-06-12,00:20,Low
+Chittoor,2025-12-23,05:17,High
+Chittoor,2025-10-11,17:26,Low
+Nellore,2025-09-23,17:25,Low
+West Godavari,2025-11-01,00:17,Medium
+Srikakulam,2025-11-05,01:22,Medium
+East Godavari,2025-09-27,05:50,Low
+Kurnool,2025-03-14,21:33,High
+Kurnool,2025-12-01,07:56,High
+YSR Kadapa,2025-04-18,00:55,High
+East Godavari,2025-04-15,10:59,Low
+Srikakulam,2025-11-08,18:23,Low
+Guntur,2025-09-19,05:37,High
+Chittoor,2025-05-10,17:11,Medium
+Guntur,2025-09-15,12:08,Medium
+Visakhapatnam,2025-12-22,08:19,High
+Krishna,2025-10-17,18:03,High
+YSR Kadapa,2025-01-20,14:25,High
+Kurnool,2025-02-20,23:39,Low
+YSR Kadapa,2025-03-15,00:53,High
+Chittoor,2025-03-14,11:01,Low
+East Godavari,2025-05-25,14:38,Low
+Krishna,2025-02-20,03:46,High
+Guntur,2025-12-02,23:05,High
+East Godavari,2025-04-11,21:07,Low
+Kurnool,2025-02-07,18:01,Medium
+West Godavari,2025-06-25,07:58,Low
+Kurnool,2025-02-15,04:09,High
+Visakhapatnam,2025-06-23,10:02,Low
+Nellore,2025-10-08,16:11,Medium
+Guntur,2025-10-22,00:25,Medium
+YSR Kadapa,2025-03-12,17:12,High
+Vizianagaram,2025-12-26,03:08,High
+Chittoor,2025-08-02,12:34,High
+Guntur,2025-09-10,02:42,Low
+Srikakulam,2025-10-21,06:52,Medium
+Guntur,2025-03-05,04:35,Medium
+Vizianagaram,2025-09-23,23:31,High
+Anantapur,2025-11-04,22:03,Medium
+YSR Kadapa,2025-06-26,02:17,Medium
+Prakasam,2025-05-26,19:10,High
+Prakasam,2025-05-22,08:11,High
+Vizianagaram,2025-04-16,22:18,Medium
+Kurnool,2025-01-01,15:06,Low
+West Godavari,2025-09-04,01:31,Medium
+Vizianagaram,2025-11-17,23:23,Low
+Anantapur,2025-07-27,20:29,Low
+Krishna,2025-11-07,03:45,Low
+Visakhapatnam,2025-07-21,08:50,High
+Krishna,2025-07-13,23:39,High
+Visakhapatnam,2025-10-16,00:00,Low
+Chittoor,2025-05-21,00:28,Medium
+YSR Kadapa,2025-03-17,10:05,High
+Nellore,2025-09-24,06:47,Medium
+Srikakulam,2025-11-27,05:53,High
+Nellore,2025-02-05,07:10,Low
+Guntur,2025-03-08,13:49,High
+Chittoor,2025-01-01,15:14,Medium
+West Godavari,2025-03-19,11:24,Medium
+Vizianagaram,2025-07-12,16:01,High
+Chittoor,2025-05-27,19:02,High
+YSR Kadapa,2025-12-27,17:07,Low
+Vizianagaram,2025-06-26,02:00,Low
+Chittoor,2025-06-19,00:54,High
+Krishna,2025-02-12,23:45,High
+Krishna,2025-04-16,20:32,Medium
+Guntur,2025-09-04,18:30,High
+Visakhapatnam,2025-03-06,22:36,High
+Kurnool,2025-12-28,17:40,Low
+Nellore,2025-11-10,03:20,Low
+Vizianagaram,2025-12-02,15:38,Low
+Vizianagaram,2025-01-18,12:28,Medium
+West Godavari,2025-06-28,17:32,Low
+Krishna,2025-05-03,02:43,Low
+YSR Kadapa,2025-04-25,06:42,High
+Prakasam,2025-05-19,06:12,Low
+Anantapur,2025-01-01,13:07,High
+East Godavari,2025-10-19,06:32,High
+West Godavari,2025-02-02,22:42,Medium
+Vizianagaram,2025-04-12,12:17,Low
+Nellore,2025-10-06,15:54,High
+Guntur,2025-08-18,15:49,Low
+Visakhapatnam,2025-01-13,10:35,Low
+Guntur,2025-09-12,05:14,High
+YSR Kadapa,2025-11-06,03:59,Low
+East Godavari,2025-12-16,07:41,High
+Prakasam,2025-02-23,08:57,Low
+Anantapur,2025-08-13,22:00,High
+Nellore,2025-09-20,12:58,Medium
+Prakasam,2025-08-18,11:37,Medium
+Nellore,2025-11-27,02:07,Low
+Srikakulam,2025-01-28,07:43,Low
+Nellore,2025-07-18,15:43,High
+West Godavari,2025-05-07,02:20,Low
+East Godavari,2025-10-10,01:28,High
+Srikakulam,2025-07-10,01:27,High
+East Godavari,2025-11-13,15:24,Medium
+Visakhapatnam,2025-04-08,04:49,Medium
+West Godavari,2025-08-19,03:02,Low
+Nellore,2025-05-03,16:08,Low
+West Godavari,2025-01-26,20:57,High
+Krishna,2025-06-08,11:29,High
+Chittoor,2025-08-05,06:08,High
+West Godavari,2025-05-12,03:13,High
+Krishna,2025-11-28,01:13,High
+Prakasam,2025-11-09,14:03,High
+Prakasam,2025-05-12,01:09,Medium
+Guntur,2025-02-24,05:09,High
+Srikakulam,2025-07-02,03:17,Low
+Chittoor,2025-11-26,12:33,Low
+Prakasam,2025-05-06,11:08,High
+Kurnool,2025-06-14,13:58,Low
+Chittoor,2025-12-21,04:47,High
+Visakhapatnam,2025-10-25,14:19,High
+West Godavari,2025-07-24,07:44,Low
+YSR Kadapa,2025-06-18,00:56,Medium
+YSR Kadapa,2025-11-15,11:09,Low
+Chittoor,2025-09-16,06:56,Low
+Nellore,2025-05-08,15:36,Low
+Srikakulam,2025-05-01,06:52,Medium
+East Godavari,2025-09-17,21:57,High
+Prakasam,2025-06-24,04:39,High
+Srikakulam,2025-05-06,22:41,High
+YSR Kadapa,2025-04-27,05:39,Medium
+Chittoor,2025-07-02,13:58,Medium
+Anantapur,2025-06-22,16:08,High
+Guntur,2025-02-06,21:02,High
+Vizianagaram,2025-04-23,20:54,Medium
+Anantapur,2025-12-20,13:14,Low
+Chittoor,2025-10-03,16:53,Medium
+Prakasam,2025-03-06,18:47,High
+West Godavari,2025-09-27,01:44,High
+West Godavari,2025-07-02,15:24,Low
+Krishna,2025-04-24,20:15,High
+Prakasam,2025-05-04,23:00,Low
+Kurnool,2025-06-22,07:38,Medium
+Srikakulam,2025-09-07,07:19,Medium
+Vizianagaram,2025-06-21,21:20,High
+East Godavari,2025-08-07,15:36,Low
+Chittoor,2025-11-11,20:13,Medium
+YSR Kadapa,2025-03-15,06:45,High
+Chittoor,2025-09-05,16:36,High
+Anantapur,2025-09-08,15:31,Medium
+YSR Kadapa,2025-10-17,14:25,High
+Guntur,2025-06-21,06:26,Medium
+Vizianagaram,2025-06-10,04:05,High
+Vizianagaram,2025-12-03,21:22,Low
+Visakhapatnam,2025-09-12,16:04,Medium
+Anantapur,2025-03-01,06:49,High
+Prakasam,2025-03-23,20:03,Medium
+Guntur,2025-08-01,13:38,Medium
+Vizianagaram,2025-11-22,09:34,Medium
+Prakasam,2025-08-14,09:14,Low
+Krishna,2025-06-24,10:24,High
+Guntur,2025-09-18,12:45,Low
+West Godavari,2025-11-15,00:12,Low
+East Godavari,2025-08-12,18:34,High
+East Godavari,2025-11-03,01:16,Low
+Guntur,2025-12-24,09:11,Low
+Visakhapatnam,2025-11-13,23:26,Medium
+Krishna,2025-08-28,15:38,High
+West Godavari,2025-08-17,15:13,High
+East Godavari,2025-06-20,15:59,Medium
+Nellore,2025-02-07,08:49,High
+East Godavari,2025-10-10,19:23,Low
+Visakhapatnam,2025-12-07,12:56,High
+Chittoor,2025-05-10,16:11,Low
+Anantapur,2025-01-12,05:13,Medium
+Anantapur,2025-09-09,22:38,Medium
+YSR Kadapa,2025-07-24,13:43,High
+Chittoor,2025-07-09,06:43,Low
+East Godavari,2025-06-03,04:53,Low
+Nellore,2025-07-16,14:11,High
+Guntur,2025-04-14,03:59,High
+Guntur,2025-01-04,06:38,Low
+Guntur,2025-05-24,03:22,Medium
+Krishna,2025-02-24,21:28,High
+Anantapur,2025-07-16,03:09,Low
+Kurnool,2025-01-18,21:48,High
+Chittoor,2025-08-04,08:53,Low
+West Godavari,2025-10-13,22:49,High
+Vizianagaram,2025-09-04,15:19,Medium
+Guntur,2025-02-27,07:51,Low
+Anantapur,2025-10-10,14:39,Low
+Anantapur,2025-10-10,03:42,Low
+Krishna,2025-02-16,10:24,Low
+Anantapur,2025-07-02,20:17,Low
+Kurnool,2025-03-10,12:00,Low
+Krishna,2025-11-26,12:44,Medium
+Anantapur,2025-01-10,10:40,High
+YSR Kadapa,2025-08-14,17:09,Medium
+West Godavari,2025-09-07,13:41,High
+Anantapur,2025-02-14,09:37,Medium
+Nellore,2025-06-20,13:08,Low
+Kurnool,2025-10-15,20:10,High
+Kurnool,2025-04-27,10:15,Low
+Vizianagaram,2025-01-04,07:31,Medium
+Prakasam,2025-04-05,18:21,High
+Vizianagaram,2025-09-23,02:15,High
+Guntur,2025-03-03,05:39,Low
+Guntur,2025-12-20,13:08,Low
+Chittoor,2025-10-15,13:03,Medium
+YSR Kadapa,2025-09-18,03:43,Low
+West Godavari,2025-07-10,18:22,Low
+Srikakulam,2025-10-16,08:35,Low
+Nellore,2025-10-09,08:28,Medium
+Anantapur,2025-09-17,21:41,Medium
+Prakasam,2025-05-24,09:52,Low
+Guntur,2025-07-09,13:59,High
+YSR Kadapa,2025-05-07,00:06,Medium
+Visakhapatnam,2025-03-22,12:59,Low
+Krishna,2025-04-06,08:37,Medium
+West Godavari,2025-12-13,05:42,Medium
+West Godavari,2025-02-25,06:03,Medium
+Prakasam,2025-09-25,19:43,Medium
+Nellore,2025-08-01,12:43,Low
+Vizianagaram,2025-10-27,11:31,Low
+Nellore,2025-01-03,02:05,Low
+YSR Kadapa,2025-06-14,07:44,Low
+YSR Kadapa,2025-06-22,13:45,Medium
+Kurnool,2025-12-21,04:42,High
+Guntur,2025-07-03,06:32,Medium
+Krishna,2025-02-26,19:17,Low
+West Godavari,2025-05-02,03:08,Medium
+Kurnool,2025-04-23,06:09,Medium
+Kurnool,2025-06-16,07:54,High
+Visakhapatnam,2025-01-08,23:46,Medium
+Visakhapatnam,2025-05-23,07:26,Low
+Anantapur,2025-03-24,08:01,Low
+Guntur,2025-05-21,04:40,Low
+Nellore,2025-01-18,20:43,Medium
+Krishna,2025-05-12,06:45,Medium
+West Godavari,2025-11-02,12:23,High
+East Godavari,2025-02-13,09:57,High
+Prakasam,2025-10-10,18:48,Medium
+Krishna,2025-05-06,09:25,Medium
+Vizianagaram,2025-06-05,15:48,Medium
+West Godavari,2025-12-15,18:30,High
+Kurnool,2025-08-18,13:51,Medium
+West Godavari,2025-04-21,21:42,Low
+Vizianagaram,2025-12-22,21:54,High
+Prakasam,2025-05-22,15:49,Medium
+Nellore,2025-02-23,13:36,Low
+Srikakulam,2025-06-09,14:45,Medium
+Kurnool,2025-09-06,05:44,Low
+YSR Kadapa,2025-08-17,20:37,Medium
+Visakhapatnam,2025-06-22,08:12,Medium
+East Godavari,2025-08-02,05:10,Medium
+Prakasam,2025-02-17,05:42,High
+Guntur,2025-08-22,05:39,High
+Kurnool,2025-12-13,21:30,Low
+Krishna,2025-01-01,07:12,Medium
+Prakasam,2025-10-22,20:10,Low
+East Godavari,2025-05-01,22:07,Medium
+Visakhapatnam,2025-02-14,22:36,Medium
+Anantapur,2025-11-05,01:00,Medium
+YSR Kadapa,2025-08-19,21:17,Low
+Nellore,2025-02-07,14:48,High
+Srikakulam,2025-03-11,12:32,High
+East Godavari,2025-02-01,02:28,Medium
+Nellore,2025-12-10,13:48,Low
+West Godavari,2025-09-24,23:48,Low
+East Godavari,2025-06-17,08:38,High
+Srikakulam,2025-06-23,08:38,Low
+Vizianagaram,2025-11-16,16:01,Low
+Nellore,2025-01-02,22:59,Low
+West Godavari,2025-01-28,16:56,High
+East Godavari,2025-10-25,11:40,Low
+Guntur,2025-02-14,13:04,Medium
+Chittoor,2025-08-13,04:27,Low
+East Godavari,2025-07-28,06:56,High
+Vizianagaram,2025-10-12,06:19,Medium
+Vizianagaram,2025-12-05,13:51,Medium
+Vizianagaram,2025-03-08,05:11,High
+Anantapur,2025-08-19,10:07,Low
+East Godavari,2025-01-03,09:05,High
+YSR Kadapa,2025-01-16,05:09,Medium
+Guntur,2025-02-23,00:32,Low
+West Godavari,2025-02-20,08:54,High
+Vizianagaram,2025-02-23,02:38,Low
+Vizianagaram,2025-05-15,09:26,Low
+Vizianagaram,2025-09-18,08:08,Low
+East Godavari,2025-12-20,07:47,High
+Kurnool,2025-08-21,21:12,Medium
+Guntur,2025-11-24,18:53,Low
+Krishna,2025-12-07,10:58,High
+Chittoor,2025-03-14,17:16,Medium
+West Godavari,2025-10-16,16:02,High
+Chittoor,2025-11-17,07:10,Medium
+Prakasam,2025-08-02,19:32,Medium
+East Godavari,2025-05-11,20:35,High
+Kurnool,2025-11-11,05:06,Low
+Kurnool,2025-03-17,00:30,Medium
+Krishna,2025-06-18,18:56,Medium
+West Godavari,2025-05-26,09:37,High
+Prakasam,2025-09-19,09:06,Medium
+YSR Kadapa,2025-11-21,21:23,Medium
+Anantapur,2025-12-01,12:16,High
+Kurnool,2025-09-17,05:25,High
+Visakhapatnam,2025-02-14,06:25,High
+Chittoor,2025-09-07,09:13,High
+Chittoor,2025-03-24,12:44,Low
+Visakhapatnam,2025-08-16,10:35,High
+East Godavari,2025-09-01,01:39,Medium
+Nellore,2025-06-18,14:21,Low
+Chittoor,2025-01-21,00:50,High
+Prakasam,2025-08-12,16:28,High
+Srikakulam,2025-02-16,23:25,High
+Chittoor,2025-02-03,07:52,Medium
+Guntur,2025-08-04,06:51,Medium
+Prakasam,2025-02-05,22:33,Medium
+YSR Kadapa,2025-03-19,20:46,Medium
+Guntur,2025-08-21,00:21,Low
+Nellore,2025-08-18,15:41,Medium
+Guntur,2025-09-05,02:59,Low
+Srikakulam,2025-09-12,20:20,Low
+Nellore,2025-10-12,11:42,High
+Guntur,2025-10-06,23:22,High
+YSR Kadapa,2025-05-27,21:13,Medium
+Vizianagaram,2025-12-10,19:48,Medium
+Krishna,2025-10-21,22:43,High
+Nellore,2025-10-17,20:32,High
+Vizianagaram,2025-12-19,20:43,High
+Vizianagaram,2025-10-11,02:33,High
+Srikakulam,2025-07-02,15:21,High
+Prakasam,2025-07-05,09:10,High
+Prakasam,2025-11-05,12:28,Low
+Prakasam,2025-07-27,01:25,High
+Prakasam,2025-01-04,22:08,Medium
+Anantapur,2025-01-05,09:21,Low
+Chittoor,2025-09-12,13:28,Low
+Krishna,2025-12-14,02:44,Low
+Nellore,2025-09-17,18:46,Medium
+Vizianagaram,2025-09-27,00:39,Low
+Anantapur,2025-09-27,04:37,Low
+YSR Kadapa,2025-05-14,11:08,Low
+East Godavari,2025-12-02,00:07,Low
+YSR Kadapa,2025-10-20,15:12,High
+West Godavari,2025-11-14,12:59,Low
+Anantapur,2025-01-25,11:08,High
+Vizianagaram,2025-06-17,08:44,Medium
+Srikakulam,2025-05-15,20:54,High
+YSR Kadapa,2025-02-25,17:39,Low
+Prakasam,2025-11-04,19:42,High
+Prakasam,2025-04-26,07:45,Medium
+Kurnool,2025-12-21,01:19,High
+Nellore,2025-08-27,04:28,High
+Visakhapatnam,2025-01-09,13:45,Low
+Vizianagaram,2025-04-24,23:23,Medium
+Visakhapatnam,2025-06-10,21:31,Medium
+Visakhapatnam,2025-02-12,13:58,Medium
+Srikakulam,2025-12-27,02:05,Medium
+Srikakulam,2025-11-20,15:14,Medium
+Anantapur,2025-08-07,02:23,Low
+Chittoor,2025-03-23,22:47,High
+West Godavari,2025-08-15,06:44,Medium
+Prakasam,2025-01-26,06:48,High
+West Godavari,2025-11-27,00:12,High
+Visakhapatnam,2025-07-13,14:41,Medium
+West Godavari,2025-07-24,08:06,Low
+Prakasam,2025-01-15,14:04,High
+Anantapur,2025-06-02,18:32,High
+Prakasam,2025-08-01,05:08,Low

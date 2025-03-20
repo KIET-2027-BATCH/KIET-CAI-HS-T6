@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Traffic Status Tracker</title>
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: #000;
+            display: flex;
+            height: 100vh;
+            align-items: center;
+            justify-content: center;
+            margin: 0;
+        }
+        .container {
+            background: #fff;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+            width: 100%;
+            max-width: 400px;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            color: #4CAF50;
+        }
+        label {
+            display: block;
+            margin-top: 10px;
+            font-weight: bold;
+        }
+        input, select, button {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            box-sizing: border-box;
+        }
+        button {
+            background-color: #4CAF50;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            margin-top: 15px;
+            transition: background 0.3s ease;
+        }
+        button:hover {
+            background-color: #388E3C;
+        }
+        #result {
+            margin-top: 20px;
+            background: #e8f5e9;
+            padding: 10px;
+            border-left: 4px solid #4CAF50;
+            border-radius: 8px;
+            display: none;
+        }
+        .error {
+            color: red;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Traffic Status Tracker</h1>
+        <form id="trafficForm">
+            <label for="location">Location:</label>
+            <select id="location" required>
+                <option value="">Select district</option>
+                <option value="Anantapur">Anantapur</option>
+                <option value="Chittoor">Chittoor</option>
+                <option value="East Godavari">East Godavari</option>
+                <option value="Guntur">Guntur</option>
+                <option value="Krishna">Krishna</option>
+                <option value="Kurnool">Kurnool</option>
+                <option value="Nellore">Nellore</option>
+                <option value="Prakasam">Prakasam</option>
+                <option value="Srikakulam">Srikakulam</option>
+                <option value="Visakhapatnam">Visakhapatnam</option>
+                <option value="Vizianagaram">Vizianagaram</option>
+                <option value="West Godavari">West Godavari</option>
+                <option value="YSR Kadapa">YSR Kadapa</option>
+            </select>
+
+            <label for="date">Date:</label>
+            <input type="date" id="date" required>
+
+            <label for="time">Time:</label>
+            <input type="time" id="time" required>
+
+            <button type="submit">Submit</button>
+        </form>
+
+        <div id="result">
+            <p>Location: <span id="resultLocation"></span></p>
+            <p>Date: <span id="resultDate"></span></p>
+            <p>Time: <span id="resultTime"></span></p>
+            <p>Predicted Traffic: <span id="resultTraffic"></span></p>
+        </div>
+        <div id="error" class="error"></div>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            document.getElementById("trafficForm").addEventListener("submit", async function(event) {
+                event.preventDefault();
+
+                const location = document.getElementById("location").value;
+                const date = document.getElementById("date").value;
+                const time = document.getElementById("time").value;
+
+                if (!location || !date || !time) {
+                    document.getElementById("error").textContent = "Please fill all fields.";
+                    return;
+                }
+
+                document.getElementById("error").textContent = "";
+                document.getElementById("resultTraffic").textContent = "Predicting...";
+                document.getElementById("result").style.display = "block";
+
+                try {
+                    const response = await fetch("/submit", {
+                        method: "POST",
+                        headers: {
+                            "Content-Type": "application/json",
+                        },
+                        body: JSON.stringify({
+                            location: location,
+                            date: date,
+                            time: time,
+                            percentage: 50 // Example percentage, replace with user input if needed
+                        }),
+                    });
+
+                    const data = await response.json();
+                    if (response.ok) {
+                        document.getElementById("resultLocation").textContent = data.location;
+                        document.getElementById("resultDate").textContent = data.date;
+                        document.getElementById("resultTime").textContent = data.time;
+                        document.getElementById("resultTraffic").textContent = data.predicted_traffic;
+                    } else {
+                        document.getElementById("error").textContent = data.error || "An error occurred.";
+                    }
+                } catch (error) {
+                    document.getElementById("error").textContent = "Failed to connect to the server.";
+                }
+            });
+        });
+    </script>
+</body>
+</html>
